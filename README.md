@@ -1,41 +1,49 @@
 # AltChart
 
-**README data de:** 23/10/2026
+Projeto de ML para acompanhar o Billboard Alternative Airplay e prever se cada musica vai subir, descer, se manter ou sair do Top 40 na semana seguinte
 
-## Escopo
+## Arquivos
 
-Criar uma ferramenta simples para acompanhar a parada Billboard Alternative Airplay e estimar quais musicas do Top 40 permanecem no chart na semana seguinte
+- `AltChart.ipynb` — experimento inicial com previsao de permanencia no chart
+- `refresh.py` — pipeline operacional de coleta, treino, teste e previsao de direcao
+- `app.py` — dashboard Streamlit
+- `requirements.txt` — dependencias do dashboard
+- `requirements-mlops.txt` — dependencias do pipeline
+- `.github/workflows/weekly_refresh.yml` — atualizacao automatica toda quinta-feira
 
-O projeto serve como estudo de ML com um fluxo reproduzivel e futura publicacao web, nao como previsao de sucesso musical ou ferramenta de investimento
+## Como funciona
 
-## Como foi feito
+O pipeline baixa o historico semanal, cria variaveis com posicao e movimento recente, compara regressao logistica, Random Forest, KNN e Gradient Boosting e seleciona o modelo por F1 macro em validacao temporal
 
-- Historico semanal do chart desde outubro de 2023
-- Variaveis baseadas na posicao atual, posicao anterior, pico historico, semanas no chart e movimento recente
-- Quatro modelos comparados: regressao logistica, Random Forest, KNN e Gradient Boosting
-- Ajuste de parametros com validacao temporal, usando semanas passadas para avaliar semanas posteriores
-- Ultimas 12 semanas reservadas para teste
-- Comparacao com um baseline que prevê que todas as musicas permanecem
-- Preparacao para salvar previsoes, metricas e modelo, com atualizacao semanal planejada para quinta-feira
+As ultimas 12 semanas com resultado conhecido ficam separadas para teste. As previsoes historicas sao salvas para comparar a direcao prevista com o movimento real
 
-## Resultado de 23/10/2026
+A previsao da semana mais recente fica como pendente ate a Billboard publicar o chart seguinte. Depois, o pipeline compara o resultado real com a previsao original, sem recalcular a previsao antiga
 
-O Gradient Boosting foi o melhor modelo na validacao temporal, com F1 medio de 0,970. No teste final, teve acuracia de 0,960, precisao de 0,962, recall de 0,998, F1 de 0,980, ROC-AUC de 0,918 e PR-AUC de 0,994
+## Rodar localmente
 
-O baseline de permanencia total teve acuracia de 0,950 e F1 de 0,974. A diferenca de F1 foi pequena: 0,006, ou 0,6 ponto percentual
+Instale as dependencias do pipeline e execute a atualizacao
 
-Nas 12 semanas avaliadas, a permanencia real ficou entre 90% e 97,5% das musicas. A acuracia semanal do modelo variou de 92,5% a 100%, e o F1 de 96,1% a 100%
+```bash
+pip install -r requirements-mlops.txt
+python refresh.py
+```
 
-## Interpretacao
+Para abrir o dashboard
 
-Os numeros parecem fortes, mas a tarefa atual e facil para quem sempre responde que a musica vai permanecer, porque a maioria realmente permanece. O baseline ja alcanca F1 de 0,974
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
 
-O modelo supera o baseline por uma margem pequena no F1 e mostra capacidade de separar os resultados no ROC-AUC, mas ainda nao provamos que ele identifica bem as musicas que vao sair do chart
+## Deploy
 
-O F1 atual mede principalmente o acerto na classe mais comum — musicas que permanecem (F1 resume o equilibrio entre precisao e recall para essa classe). A acuracia mede a proporcao total de previsoes corretas. O ROC-AUC mede o quanto o modelo consegue ordenar casos que permanecem acima dos que saem. Como ha poucas saidas, as metricas podem parecer excelentes sem que o modelo seja realmente bom em detectar essas saidas
+1. Adicione os arquivos deste projeto ao repositorio `lmburlani/AltChart`
+2. No Streamlit Community Cloud, crie um app a partir do repositorio, branch `main` e arquivo `app.py`
+3. No GitHub, abra **Actions** e execute **AltChart weekly refresh** manualmente na primeira vez
+4. Confirme que a execucao terminou com sucesso e que os arquivos de `data/`, `reports/` e `models/` foram salvos
 
-## Conclusao
+O GitHub Actions executa o pipeline toda quinta-feira as 09:17 no horario de Sao Paulo e publica os novos artefatos no repositorio
 
-O pipeline funciona como primeira versao e os resultados sao promissores, mas ainda nao justificam afirmar que o modelo preve mudancas do chart com confianca. O ganho sobre o baseline e pequeno e a classe de interesse — musicas que saem — precisa de avaliacao propria
+## Leitura dos resultados
 
-O proximo passo e manter o escopo enxuto, acompanhar o resultado semanal e, antes de tratar o modelo como confiavel, medir precision, recall e F1 especificamente para as musicas que saem do Top 40. O deploy e a atualizacao automatica de quinta-feira continuam como a proxima etapa do projeto
+O modelo e experimental. F1 macro da mais peso as classes menos frequentes do que a acuracia simples, mas resultados historicos nao garantem acerto futuro. A previsao deve ser comparada com o baseline e com os resultados semanais reais
