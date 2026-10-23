@@ -1,0 +1,29 @@
+{
+  "model_name": "Gradient Boosting",
+  "target": "direction_next_week",
+  "cv_f1_macro": 0.4543103625963253,
+  "test_f1_macro": 0.4587849045349819,
+  "baseline_test_f1_macro": 0.15665236051502146,
+  "trained_through_chart_date": "2026-10-17",
+  "forecast_for": "2026-10-24",
+  "test_start": "2026-07-25",
+  "test_end": "2026-10-10",
+  "features": [
+    "rank",
+    "last_week_rank",
+    "peak_position",
+    "weeks_on_chart",
+    "rank_movement",
+    "rank_two_weeks_ago",
+    "rank_movement_2w",
+    "has_two_week_history",
+    "is_first_week"
+  ],
+  "labels": [
+    "Subiu",
+    "Desceu",
+    "Manteve",
+    "Saiu"
+  ],
+  "source": "Billboard Alternative Airplay"
+}
