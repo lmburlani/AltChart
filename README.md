@@ -1,6 +1,6 @@
 # AltChart
 
-**Data:** 23/10/2026
+**README data de:** 23/10/2026
 
 ## Escopo
 
