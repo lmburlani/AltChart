@@ -65,6 +65,9 @@ comparison = read_csv("model_comparison.csv")
 weekly = read_csv("weekly_backtest.csv")
 backtest = read_csv("backtest_predictions.csv")
 history = read_csv("forecast_history.csv")
+class_metrics = read_csv("class_metrics.csv")
+feature_importance = read_csv("feature_importance.csv")
+confusion = read_csv("confusion_matrix.csv")
 metadata = read_json("model_metadata.json")
 
 if forecast is None:
@@ -196,9 +199,16 @@ if weekly is not None and not weekly.empty:
     weekly = weekly.copy()
     weekly["target_date"] = pd.to_datetime(weekly["target_date"], errors="coerce")
     weekly = weekly.dropna(subset=["target_date"]).sort_values("target_date").set_index("target_date")
-    chart_cols = [col for col in ["acuracia", "f1_macro"] if col in weekly.columns]
-    if chart_cols:
-        st.line_chart(weekly[chart_cols])
+    accuracy_cols = [
+        col for col in ["acuracia", "acuracia_baseline_movimento", "acuracia_baseline_majoritario"]
+        if col in weekly.columns
+    ]
+    if accuracy_cols:
+        st.caption("Comparacao da acuracia semanal com baselines simples")
+        st.line_chart(weekly[accuracy_cols])
+    if "f1_macro" in weekly.columns:
+        st.caption("F1 macro semanal do modelo selecionado")
+        st.line_chart(weekly[["f1_macro"]])
 
 if comparison is not None:
     st.divider()
@@ -216,6 +226,33 @@ if comparison is not None:
         use_container_width=True,
         hide_index=True,
     )
+
+if class_metrics is not None and not class_metrics.empty:
+    st.divider()
+    st.subheader("Desempenho por movimento")
+    st.caption("Precision e recall por classe ajudam a ver quais movimentos o modelo identifica melhor")
+    chosen = class_metrics[class_metrics["modelo"] == model_name].copy()
+    if not chosen.empty:
+        chosen = chosen.rename(columns={
+            "classe": "Movimento real",
+            "precisao": "Precisao",
+            "recall": "Recall",
+            "f1": "F1",
+            "suporte": "Casos reais",
+        })
+        st.dataframe(chosen[["Movimento real", "Precisao", "Recall", "F1", "Casos reais"]].round(3), use_container_width=True, hide_index=True)
+
+if feature_importance is not None and not feature_importance.empty:
+    st.divider()
+    st.subheader("Variaveis mais importantes")
+    top_features = feature_importance.head(12).sort_values("importance")
+    st.bar_chart(top_features.set_index("feature")["importance"])
+
+if confusion is not None and not confusion.empty:
+    st.subheader("Matriz de confusao")
+    st.caption("Linhas sao os movimentos reais e colunas sao as previsoes do modelo selecionado")
+    confusion = confusion.rename(columns={"Unnamed: 0": "Movimento real"})
+    st.dataframe(confusion, use_container_width=True, hide_index=True)
 
 st.divider()
 st.caption(

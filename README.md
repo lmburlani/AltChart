@@ -1,31 +1,53 @@
 # AltChart
 
-Projeto experimental de ML criado como estudo de caso para praticar deploy de uma aplicacao simples e explorar um fluxo basico de MLOps
+Projeto experimental de ML para estudo de caso de deploy e MLOps, com previsoes semanais do Billboard Alternative Airplay
 
-O objetivo e acompanhar o Billboard Alternative Airplay e prever se cada musica vai subir, descer, se manter ou sair do Top 40 na semana seguinte
+[**Abrir dashboard**](https://altchart-mu9znfcwrahj2yguxscpo2.streamlit.app/)
 
-## Aplicacao
+## O que faz
 
-[**Acessar o dashboard AltChart**](https://altchart-mu9znfcwrahj2yguxscpo2.streamlit.app/)
+Estima se cada musica do Top 40 vai subir, descer, manter a posicao ou sair do chart na semana seguinte
+
+O pipeline cria variaveis com o historico recente de posicao, compara regressao logistica, Random Forest, KNN e Gradient Boosting e escolhe a configuracao pelo F1 macro em validacao temporal
+
+O backtest avalia as ultimas 12 semanas e compara os modelos com baselines simples. As previsoes semanais ficam registradas para conferir o resultado real quando o proximo chart for publicado
 
 ## Arquivos
 
 - `AltChart.ipynb` — experimento inicial
-- `refresh.py` — coleta, treino, avaliacao e previsao
+- `refresh.py` — coleta, engenharia de variaveis, ajuste e previsao
 - `app.py` — dashboard Streamlit
 - `requirements.txt` — dependencias do dashboard
 - `requirements-mlops.txt` — dependencias do pipeline
-- `.github/workflows/weekly_refresh.yml` — atualizacao semanal
+- `.github/workflows/weekly_refresh.yml` — atualizacao automatizada
+- `tests/test_refresh.py` — testes das variaveis e dos baselines
 
-## Como funciona
+## Executar localmente
 
-O pipeline coleta o historico semanal, cria variaveis de posicao e movimento recente e compara quatro modelos
+```bash
+pip install -r requirements-mlops.txt
+python refresh.py
+```
 
-- Regressao logistica
-- Random Forest
-- KNN
-- Gradient Boosting
+Para abrir o dashboard:
 
-A escolha considera o F1 macro em validacao temporal, com as ultimas 12 semanas separadas para teste
+```bash
+pip install -r requirements.txt
+streamlit run app.py
+```
 
-As previsoes ficam registradas para comparar a direcao prevista com o resultado real quando o proximo chart e publicado
+Para validar o codigo usando um historico ja baixado:
+
+```bash
+pip install -r requirements-mlops.txt pytest
+pytest -q
+python refresh.py --skip-fetch
+```
+
+## Atualizacao
+
+O GitHub Actions executa o pipeline toda quinta-feira as 09:17 no horario de Sao Paulo e salva os dados, metricas e previsoes no repositorio
+
+## Limitacoes
+
+Este e um estudo de caso, nao um produto de previsao musical. A avaliacao usa semanas passadas para prever semanas futuras, mas os resultados historicos nao garantem acertos futuros
