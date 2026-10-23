@@ -1,4 +1,4 @@
-# AltChart — registro do projeto
+# AltChart
 
 **Data:** 23/10/2026
 
