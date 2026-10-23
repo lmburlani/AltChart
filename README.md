@@ -1,49 +1,31 @@
 # AltChart
 
-Projeto de ML para acompanhar o Billboard Alternative Airplay e prever se cada musica vai subir, descer, se manter ou sair do Top 40 na semana seguinte
+Projeto experimental de ML criado como estudo de caso para praticar deploy de uma aplicacao simples e explorar um fluxo basico de MLOps
+
+O objetivo e acompanhar o Billboard Alternative Airplay e prever se cada musica vai subir, descer, se manter ou sair do Top 40 na semana seguinte
+
+## Aplicacao
+
+[**Acessar o dashboard AltChart**](https://altchart-mu9znfcwrahj2yguxscpo2.streamlit.app/)
 
 ## Arquivos
 
-- `AltChart.ipynb` — experimento inicial com previsao de permanencia no chart
-- `refresh.py` — pipeline operacional de coleta, treino, teste e previsao de direcao
+- `AltChart.ipynb` — experimento inicial
+- `refresh.py` — coleta, treino, avaliacao e previsao
 - `app.py` — dashboard Streamlit
 - `requirements.txt` — dependencias do dashboard
 - `requirements-mlops.txt` — dependencias do pipeline
-- `.github/workflows/weekly_refresh.yml` — atualizacao automatica toda quinta-feira
+- `.github/workflows/weekly_refresh.yml` — atualizacao semanal
 
 ## Como funciona
 
-O pipeline baixa o historico semanal, cria variaveis com posicao e movimento recente, compara regressao logistica, Random Forest, KNN e Gradient Boosting e seleciona o modelo por F1 macro em validacao temporal
+O pipeline coleta o historico semanal, cria variaveis de posicao e movimento recente e compara quatro modelos
 
-As ultimas 12 semanas com resultado conhecido ficam separadas para teste. As previsoes historicas sao salvas para comparar a direcao prevista com o movimento real
+- Regressao logistica
+- Random Forest
+- KNN
+- Gradient Boosting
 
-A previsao da semana mais recente fica como pendente ate a Billboard publicar o chart seguinte. Depois, o pipeline compara o resultado real com a previsao original, sem recalcular a previsao antiga
+A escolha considera o F1 macro em validacao temporal, com as ultimas 12 semanas separadas para teste
 
-## Rodar localmente
-
-Instale as dependencias do pipeline e execute a atualizacao
-
-```bash
-pip install -r requirements-mlops.txt
-python refresh.py
-```
-
-Para abrir o dashboard
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
-
-## Deploy
-
-1. Adicione os arquivos deste projeto ao repositorio `lmburlani/AltChart`
-2. No Streamlit Community Cloud, crie um app a partir do repositorio, branch `main` e arquivo `app.py`
-3. No GitHub, abra **Actions** e execute **AltChart weekly refresh** manualmente na primeira vez
-4. Confirme que a execucao terminou com sucesso e que os arquivos de `data/`, `reports/` e `models/` foram salvos
-
-O GitHub Actions executa o pipeline toda quinta-feira as 09:17 no horario de Sao Paulo e publica os novos artefatos no repositorio
-
-## Leitura dos resultados
-
-O modelo e experimental. F1 macro da mais peso as classes menos frequentes do que a acuracia simples, mas resultados historicos nao garantem acerto futuro. A previsao deve ser comparada com o baseline e com os resultados semanais reais
+As previsoes ficam registradas para comparar a direcao prevista com o resultado real quando o proximo chart e publicado
