@@ -1,481 +1,481 @@
 date,rank,song,artist,song_key,real,target_date,modelo,previsto,acertou,confianca_pct,baseline_movimento,baseline_classe_majoritaria
-2026-07-25,1,Self Aware,Temper City,selfaware|tempercity,Manteve,2026-08-01,Gradient Boosting,Manteve,True,56.5,Subiu,Subiu
-2026-07-25,2,One Of Those Days,Dirty Heads,oneofthosedays|dirtyheads,Manteve,2026-08-01,Gradient Boosting,Manteve,True,39.8,Subiu,Subiu
-2026-07-25,3,Headlights,In Color,headlights|incolor,Manteve,2026-08-01,Gradient Boosting,Desceu,False,46.8,Desceu,Subiu
-2026-07-25,4,Freakin' Out,Dexter And The Moonrocks,freakinout|dexterandthemoonrocks,Manteve,2026-08-01,Gradient Boosting,Desceu,False,55.5,Desceu,Subiu
-2026-07-25,5,Riptides,Death Cab for Cutie,riptides|deathcabforcutie,Manteve,2026-08-01,Gradient Boosting,Subiu,False,42.4,Manteve,Subiu
-2026-07-25,6,In My Room,Julia Wolf,inmyroom|juliawolf,Manteve,2026-08-01,Gradient Boosting,Subiu,False,48.0,Subiu,Subiu
-2026-07-25,7,Until The Sun Explodes,Sublime,untilthesunexplodes|sublime,Desceu,2026-08-01,Gradient Boosting,Desceu,True,60.6,Desceu,Subiu
-2026-07-25,8,Going Shopping,The Strokes,goingshopping|thestrokes,Manteve,2026-08-01,Gradient Boosting,Subiu,False,48.4,Subiu,Subiu
-2026-07-25,9,Picking Dragons' Pockets,Modest Mouse,pickingdragonspockets|modestmouse,Desceu,2026-08-01,Gradient Boosting,Subiu,False,48.4,Subiu,Subiu
-2026-07-25,10,Beaches In Tennessee,Cage the Elephant,beachesintennessee|cagetheelephant,Subiu,2026-08-01,Gradient Boosting,Subiu,True,62.8,Manteve,Subiu
-2026-07-25,11,Be With You,Muse,bewithyou|muse,Desceu,2026-08-01,Gradient Boosting,Desceu,True,54.4,Desceu,Subiu
-2026-07-25,12,Doors,Noah Kahan,doors|noahkahan,Subiu,2026-08-01,Gradient Boosting,Subiu,True,45.4,Desceu,Subiu
-2026-07-25,13,Homewrecker,sombr,homewrecker|sombr,Desceu,2026-08-01,Gradient Boosting,Subiu,False,42.4,Desceu,Subiu
-2026-07-25,14,Fool's Gold,Buffalo Traffic Jam,foolsgold|buffalotrafficjam,Subiu,2026-08-01,Gradient Boosting,Subiu,True,50.0,Manteve,Subiu
-2026-07-25,15,Who Will You Follow,Evanescence,whowillyoufollow|evanescence,Manteve,2026-08-01,Gradient Boosting,Subiu,False,44.1,Desceu,Subiu
-2026-07-25,16,Dying To Love,Bad Omens,dyingtolove|badomens,Subiu,2026-08-01,Gradient Boosting,Subiu,True,42.4,Manteve,Subiu
-2026-07-25,17,no more regrets,almost monday,nomoreregrets|almostmonday,Subiu,2026-08-01,Gradient Boosting,Subiu,True,56.1,Manteve,Subiu
-2026-07-25,18,I Used To Go To This Bar,Joyce Manor,iusedtogotothisbar|joycemanor,Subiu,2026-08-01,Gradient Boosting,Subiu,True,45.9,Manteve,Subiu
-2026-07-25,19,Babydoll,Dominic Fike,babydoll|dominicfike,Subiu,2026-08-01,Gradient Boosting,Subiu,True,52.2,Manteve,Subiu
-2026-07-25,20,All I Did Was Dream of You,beabadoobee Featuring The Marias,allididwasdreamofyou|beabadoobeefeaturingthemarias,Manteve,2026-08-01,Gradient Boosting,Subiu,False,44.2,Manteve,Subiu
-2026-07-25,21,Hold Me In The Dark,Myles Smith,holdmeinthedark|mylessmith,Subiu,2026-08-01,Gradient Boosting,Subiu,True,54.3,Manteve,Subiu
-2026-07-25,22,My Love,M.O.T.H.E.R.,mylove|mother,Manteve,2026-08-01,Gradient Boosting,Subiu,False,47.9,Manteve,Subiu
-2026-07-25,23,We Might As Well Be Strangers,Weezer Featuring Wednesday,wemightaswellbestrangers|weezerfeaturingwednesday,Subiu,2026-08-01,Gradient Boosting,Subiu,True,61.6,Subiu,Subiu
-2026-07-25,24,Private,The Neighbourhood,private|theneighbourhood,Manteve,2026-08-01,Gradient Boosting,Subiu,False,50.1,Desceu,Subiu
-2026-07-25,25,Rein Me In,Sam Fender & Olivia Dean,reinmein|samfenderoliviadean,Manteve,2026-08-01,Gradient Boosting,Subiu,False,50.1,Desceu,Subiu
-2026-07-25,26,Love To Go,Edgehill,lovetogo|edgehill,Manteve,2026-08-01,Gradient Boosting,Subiu,False,61.9,Subiu,Subiu
-2026-07-25,27,Edge Of The Earth,The Beaches,edgeoftheearth|thebeaches,Manteve,2026-08-01,Gradient Boosting,Subiu,False,60.2,Subiu,Subiu
-2026-07-25,28,Go Away,Weezer Featuring Best Coast,goaway|weezerfeaturingbestcoast,Desceu,2026-08-01,Gradient Boosting,Desceu,True,51.3,Desceu,Subiu
-2026-07-25,29,Lost Boys,Phoebe Bridgers,lostboys|phoebebridgers,Subiu,2026-08-01,Gradient Boosting,Subiu,True,65.1,Subiu,Subiu
-2026-07-25,30,Hello Juliet,Clarion,hellojuliet|clarion,Desceu,2026-08-01,Gradient Boosting,Subiu,False,46.3,Desceu,Subiu
-2026-07-25,31,Absolution,Switchfoot,absolution|switchfoot,Subiu,2026-08-01,Gradient Boosting,Subiu,True,58.5,Subiu,Subiu
-2026-07-25,32,See Out Loud,Interpol,seeoutloud|interpol,Manteve,2026-08-01,Gradient Boosting,Subiu,False,59.1,Desceu,Subiu
-2026-07-25,33,Evergreen,Young the Giant,evergreen|youngthegiant,Subiu,2026-08-01,Gradient Boosting,Subiu,True,60.2,Subiu,Subiu
-2026-07-25,34,Words Are Worthless,Sleep Theory,wordsareworthless|sleeptheory,Desceu,2026-08-01,Gradient Boosting,Desceu,True,43.4,Manteve,Subiu
-2026-07-25,35,Bug In The Cake,Violet Grohl,buginthecake|violetgrohl,Subiu,2026-08-01,Gradient Boosting,Subiu,True,39.1,Desceu,Subiu
-2026-07-25,36,We Should Talk,Bleachers,weshouldtalk|bleachers,Subiu,2026-08-01,Gradient Boosting,Subiu,True,60.9,Subiu,Subiu
-2026-07-25,37,Delicate,Bike Routes Featuring Jake Clemons,delicate|bikeroutesfeaturingjakeclemons,Manteve,2026-08-01,Gradient Boosting,Subiu,False,59.3,Subiu,Subiu
-2026-07-25,38,My Body Isn't Ready,sombr,mybodyisntready|sombr,Desceu,2026-08-01,Gradient Boosting,Subiu,False,61.8,Manteve,Subiu
-2026-07-25,39,Heart Stop,The Revivalists,heartstop|therevivalists,Subiu,2026-08-01,Gradient Boosting,Subiu,True,59.4,Subiu,Subiu
-2026-07-25,40,Count The Ways,The Last Dinner Party,counttheways|thelastdinnerparty,Saiu,2026-08-01,Gradient Boosting,Saiu,True,69.8,Desceu,Subiu
-2026-08-01,1,Self Aware,Temper City,selfaware|tempercity,Manteve,2026-08-08,Gradient Boosting,Manteve,True,57.3,Manteve,Subiu
-2026-08-01,2,One Of Those Days,Dirty Heads,oneofthosedays|dirtyheads,Desceu,2026-08-08,Gradient Boosting,Manteve,False,40.9,Manteve,Subiu
-2026-08-01,3,Headlights,In Color,headlights|incolor,Desceu,2026-08-08,Gradient Boosting,Desceu,True,51.7,Manteve,Subiu
-2026-08-01,4,Freakin' Out,Dexter And The Moonrocks,freakinout|dexterandthemoonrocks,Desceu,2026-08-08,Gradient Boosting,Desceu,True,56.2,Manteve,Subiu
-2026-08-01,5,Riptides,Death Cab for Cutie,riptides|deathcabforcutie,Subiu,2026-08-08,Gradient Boosting,Subiu,True,38.3,Manteve,Subiu
-2026-08-01,6,In My Room,Julia Wolf,inmyroom|juliawolf,Subiu,2026-08-08,Gradient Boosting,Subiu,True,48.0,Manteve,Subiu
+2026-08-01,1,Self Aware,Temper City,selfaware|tempercity,Manteve,2026-08-08,Gradient Boosting,Manteve,True,56.9,Manteve,Subiu
+2026-08-01,2,One Of Those Days,Dirty Heads,oneofthosedays|dirtyheads,Desceu,2026-08-08,Gradient Boosting,Manteve,False,40.8,Manteve,Subiu
+2026-08-01,3,Headlights,In Color,headlights|incolor,Desceu,2026-08-08,Gradient Boosting,Desceu,True,50.9,Manteve,Subiu
+2026-08-01,4,Freakin' Out,Dexter And The Moonrocks,freakinout|dexterandthemoonrocks,Desceu,2026-08-08,Gradient Boosting,Desceu,True,55.8,Manteve,Subiu
+2026-08-01,5,Riptides,Death Cab for Cutie,riptides|deathcabforcutie,Subiu,2026-08-08,Gradient Boosting,Subiu,True,38.1,Manteve,Subiu
+2026-08-01,6,In My Room,Julia Wolf,inmyroom|juliawolf,Subiu,2026-08-08,Gradient Boosting,Subiu,True,47.9,Manteve,Subiu
 2026-08-01,7,Beaches In Tennessee,Cage the Elephant,beachesintennessee|cagetheelephant,Subiu,2026-08-08,Gradient Boosting,Subiu,True,60.9,Subiu,Subiu
 2026-08-01,8,Going Shopping,The Strokes,goingshopping|thestrokes,Subiu,2026-08-08,Gradient Boosting,Subiu,True,46.6,Manteve,Subiu
-2026-08-01,9,Until The Sun Explodes,Sublime,untilthesunexplodes|sublime,Desceu,2026-08-08,Gradient Boosting,Desceu,True,61.3,Desceu,Subiu
-2026-08-01,10,Picking Dragons' Pockets,Modest Mouse,pickingdragonspockets|modestmouse,Subiu,2026-08-08,Gradient Boosting,Subiu,True,45.4,Desceu,Subiu
-2026-08-01,11,Doors,Noah Kahan,doors|noahkahan,Manteve,2026-08-08,Gradient Boosting,Subiu,False,45.1,Subiu,Subiu
-2026-08-01,12,Fool's Gold,Buffalo Traffic Jam,foolsgold|buffalotrafficjam,Manteve,2026-08-08,Gradient Boosting,Subiu,False,48.4,Subiu,Subiu
+2026-08-01,9,Until The Sun Explodes,Sublime,untilthesunexplodes|sublime,Desceu,2026-08-08,Gradient Boosting,Desceu,True,61.6,Desceu,Subiu
+2026-08-01,10,Picking Dragons' Pockets,Modest Mouse,pickingdragonspockets|modestmouse,Subiu,2026-08-08,Gradient Boosting,Subiu,True,45.8,Desceu,Subiu
+2026-08-01,11,Doors,Noah Kahan,doors|noahkahan,Manteve,2026-08-08,Gradient Boosting,Subiu,False,44.9,Subiu,Subiu
+2026-08-01,12,Fool's Gold,Buffalo Traffic Jam,foolsgold|buffalotrafficjam,Manteve,2026-08-08,Gradient Boosting,Subiu,False,48.2,Subiu,Subiu
 2026-08-01,13,no more regrets,almost monday,nomoreregrets|almostmonday,Manteve,2026-08-08,Gradient Boosting,Subiu,False,50.5,Subiu,Subiu
-2026-08-01,14,Dying To Love,Bad Omens,dyingtolove|badomens,Desceu,2026-08-08,Gradient Boosting,Subiu,False,48.4,Subiu,Subiu
-2026-08-01,15,Who Will You Follow,Evanescence,whowillyoufollow|evanescence,Desceu,2026-08-08,Gradient Boosting,Subiu,False,42.4,Manteve,Subiu
-2026-08-01,16,I Used To Go To This Bar,Joyce Manor,iusedtogotothisbar|joycemanor,Desceu,2026-08-08,Gradient Boosting,Subiu,False,48.4,Subiu,Subiu
-2026-08-01,17,Babydoll,Dominic Fike,babydoll|dominicfike,Subiu,2026-08-08,Gradient Boosting,Subiu,True,48.4,Subiu,Subiu
-2026-08-01,18,We Might As Well Be Strangers,Weezer Featuring Wednesday,wemightaswellbestrangers|weezerfeaturingwednesday,Subiu,2026-08-08,Gradient Boosting,Subiu,True,59.5,Subiu,Subiu
-2026-08-01,19,Hold Me In The Dark,Myles Smith,holdmeinthedark|mylessmith,Subiu,2026-08-08,Gradient Boosting,Subiu,True,50.4,Subiu,Subiu
-2026-08-01,20,All I Did Was Dream of You,beabadoobee Featuring The Marias,allididwasdreamofyou|beabadoobeefeaturingthemarias,Desceu,2026-08-08,Gradient Boosting,Subiu,False,42.3,Manteve,Subiu
-2026-08-01,21,Homewrecker,sombr,homewrecker|sombr,Desceu,2026-08-08,Gradient Boosting,Desceu,True,37.7,Desceu,Subiu
-2026-08-01,22,My Love,M.O.T.H.E.R.,mylove|mother,Subiu,2026-08-08,Gradient Boosting,Subiu,True,47.9,Manteve,Subiu
-2026-08-01,23,Be With You,Muse,bewithyou|muse,Desceu,2026-08-08,Gradient Boosting,Desceu,True,45.4,Desceu,Subiu
-2026-08-01,24,Private,The Neighbourhood,private|theneighbourhood,Manteve,2026-08-08,Gradient Boosting,Subiu,False,44.3,Manteve,Subiu
-2026-08-01,25,Rein Me In,Sam Fender & Olivia Dean,reinmein|samfenderoliviadean,Subiu,2026-08-08,Gradient Boosting,Subiu,True,44.3,Manteve,Subiu
-2026-08-01,26,Love To Go,Edgehill,lovetogo|edgehill,Subiu,2026-08-08,Gradient Boosting,Subiu,True,61.7,Manteve,Subiu
-2026-08-01,27,Edge Of The Earth,The Beaches,edgeoftheearth|thebeaches,Subiu,2026-08-08,Gradient Boosting,Subiu,True,58.5,Manteve,Subiu
-2026-08-01,28,Lost Boys,Phoebe Bridgers,lostboys|phoebebridgers,Subiu,2026-08-08,Gradient Boosting,Subiu,True,61.9,Subiu,Subiu
-2026-08-01,29,Bug In The Cake,Violet Grohl,buginthecake|violetgrohl,Desceu,2026-08-08,Gradient Boosting,Subiu,False,53.6,Subiu,Subiu
+2026-08-01,14,Dying To Love,Bad Omens,dyingtolove|badomens,Desceu,2026-08-08,Gradient Boosting,Subiu,False,48.2,Subiu,Subiu
+2026-08-01,15,Who Will You Follow,Evanescence,whowillyoufollow|evanescence,Desceu,2026-08-08,Gradient Boosting,Subiu,False,42.1,Manteve,Subiu
+2026-08-01,16,I Used To Go To This Bar,Joyce Manor,iusedtogotothisbar|joycemanor,Desceu,2026-08-08,Gradient Boosting,Subiu,False,48.2,Subiu,Subiu
+2026-08-01,17,Babydoll,Dominic Fike,babydoll|dominicfike,Subiu,2026-08-08,Gradient Boosting,Subiu,True,48.2,Subiu,Subiu
+2026-08-01,18,We Might As Well Be Strangers,Weezer Featuring Wednesday,wemightaswellbestrangers|weezerfeaturingwednesday,Subiu,2026-08-08,Gradient Boosting,Subiu,True,59.2,Subiu,Subiu
+2026-08-01,19,Hold Me In The Dark,Myles Smith,holdmeinthedark|mylessmith,Subiu,2026-08-08,Gradient Boosting,Subiu,True,50.2,Subiu,Subiu
+2026-08-01,20,All I Did Was Dream of You,beabadoobee Featuring The Marias,allididwasdreamofyou|beabadoobeefeaturingthemarias,Desceu,2026-08-08,Gradient Boosting,Subiu,False,42.5,Manteve,Subiu
+2026-08-01,21,Homewrecker,sombr,homewrecker|sombr,Desceu,2026-08-08,Gradient Boosting,Desceu,True,37.9,Desceu,Subiu
+2026-08-01,22,My Love,M.O.T.H.E.R.,mylove|mother,Subiu,2026-08-08,Gradient Boosting,Subiu,True,47.7,Manteve,Subiu
+2026-08-01,23,Be With You,Muse,bewithyou|muse,Desceu,2026-08-08,Gradient Boosting,Desceu,True,45.5,Desceu,Subiu
+2026-08-01,24,Private,The Neighbourhood,private|theneighbourhood,Manteve,2026-08-08,Gradient Boosting,Subiu,False,43.9,Manteve,Subiu
+2026-08-01,25,Rein Me In,Sam Fender & Olivia Dean,reinmein|samfenderoliviadean,Subiu,2026-08-08,Gradient Boosting,Subiu,True,43.9,Manteve,Subiu
+2026-08-01,26,Love To Go,Edgehill,lovetogo|edgehill,Subiu,2026-08-08,Gradient Boosting,Subiu,True,61.1,Manteve,Subiu
+2026-08-01,27,Edge Of The Earth,The Beaches,edgeoftheearth|thebeaches,Subiu,2026-08-08,Gradient Boosting,Subiu,True,58.9,Manteve,Subiu
+2026-08-01,28,Lost Boys,Phoebe Bridgers,lostboys|phoebebridgers,Subiu,2026-08-08,Gradient Boosting,Subiu,True,61.7,Subiu,Subiu
+2026-08-01,29,Bug In The Cake,Violet Grohl,buginthecake|violetgrohl,Desceu,2026-08-08,Gradient Boosting,Subiu,False,54.4,Subiu,Subiu
 2026-08-01,30,Absolution,Switchfoot,absolution|switchfoot,Subiu,2026-08-08,Gradient Boosting,Subiu,True,54.7,Subiu,Subiu
-2026-08-01,31,Evergreen,Young the Giant,evergreen|youngthegiant,Subiu,2026-08-08,Gradient Boosting,Subiu,True,61.9,Subiu,Subiu
-2026-08-01,32,See Out Loud,Interpol,seeoutloud|interpol,Subiu,2026-08-08,Gradient Boosting,Subiu,True,51.3,Manteve,Subiu
-2026-08-01,33,Go Away,Weezer Featuring Best Coast,goaway|weezerfeaturingbestcoast,Saiu,2026-08-08,Gradient Boosting,Desceu,False,45.5,Desceu,Subiu
-2026-08-01,34,Hello Juliet,Clarion,hellojuliet|clarion,Desceu,2026-08-08,Gradient Boosting,Desceu,True,43.5,Desceu,Subiu
-2026-08-01,35,We Should Talk,Bleachers,weshouldtalk|bleachers,Subiu,2026-08-08,Gradient Boosting,Subiu,True,61.9,Subiu,Subiu
-2026-08-01,36,Words Are Worthless,Sleep Theory,wordsareworthless|sleeptheory,Desceu,2026-08-08,Gradient Boosting,Desceu,True,35.8,Desceu,Subiu
-2026-08-01,37,Delicate,Bike Routes Featuring Jake Clemons,delicate|bikeroutesfeaturingjakeclemons,Manteve,2026-08-08,Gradient Boosting,Subiu,False,57.5,Manteve,Subiu
-2026-08-01,38,Heart Stop,The Revivalists,heartstop|therevivalists,Subiu,2026-08-08,Gradient Boosting,Subiu,True,58.4,Subiu,Subiu
+2026-08-01,31,Evergreen,Young the Giant,evergreen|youngthegiant,Subiu,2026-08-08,Gradient Boosting,Subiu,True,61.5,Subiu,Subiu
+2026-08-01,32,See Out Loud,Interpol,seeoutloud|interpol,Subiu,2026-08-08,Gradient Boosting,Subiu,True,50.9,Manteve,Subiu
+2026-08-01,33,Go Away,Weezer Featuring Best Coast,goaway|weezerfeaturingbestcoast,Saiu,2026-08-08,Gradient Boosting,Desceu,False,45.7,Desceu,Subiu
+2026-08-01,34,Hello Juliet,Clarion,hellojuliet|clarion,Desceu,2026-08-08,Gradient Boosting,Desceu,True,44.0,Desceu,Subiu
+2026-08-01,35,We Should Talk,Bleachers,weshouldtalk|bleachers,Subiu,2026-08-08,Gradient Boosting,Subiu,True,61.5,Subiu,Subiu
+2026-08-01,36,Words Are Worthless,Sleep Theory,wordsareworthless|sleeptheory,Desceu,2026-08-08,Gradient Boosting,Desceu,True,36.6,Desceu,Subiu
+2026-08-01,37,Delicate,Bike Routes Featuring Jake Clemons,delicate|bikeroutesfeaturingjakeclemons,Manteve,2026-08-08,Gradient Boosting,Subiu,False,58.1,Manteve,Subiu
+2026-08-01,38,Heart Stop,The Revivalists,heartstop|therevivalists,Subiu,2026-08-08,Gradient Boosting,Subiu,True,58.5,Subiu,Subiu
 2026-08-01,39,Young Again,Shinedown,youngagain|shinedown,Subiu,2026-08-08,Gradient Boosting,Subiu,True,59.4,Manteve,Subiu
 2026-08-01,40,My Body Isn't Ready,sombr,mybodyisntready|sombr,Subiu,2026-08-08,Gradient Boosting,Subiu,True,57.0,Desceu,Subiu
-2026-08-08,1,Self Aware,Temper City,selfaware|tempercity,Manteve,2026-08-15,Gradient Boosting,Manteve,True,51.1,Manteve,Subiu
-2026-08-08,2,Riptides,Death Cab for Cutie,riptides|deathcabforcutie,Manteve,2026-08-15,Gradient Boosting,Manteve,True,40.9,Subiu,Subiu
-2026-08-08,3,In My Room,Julia Wolf,inmyroom|juliawolf,Manteve,2026-08-15,Gradient Boosting,Subiu,False,41.9,Subiu,Subiu
-2026-08-08,4,Beaches In Tennessee,Cage the Elephant,beachesintennessee|cagetheelephant,Manteve,2026-08-15,Gradient Boosting,Subiu,False,52.8,Subiu,Subiu
-2026-08-08,5,Freakin' Out,Dexter And The Moonrocks,freakinout|dexterandthemoonrocks,Manteve,2026-08-15,Gradient Boosting,Desceu,False,55.9,Desceu,Subiu
-2026-08-08,6,One Of Those Days,Dirty Heads,oneofthosedays|dirtyheads,Desceu,2026-08-15,Gradient Boosting,Desceu,True,57.4,Desceu,Subiu
-2026-08-08,7,Going Shopping,The Strokes,goingshopping|thestrokes,Subiu,2026-08-15,Gradient Boosting,Subiu,True,46.4,Subiu,Subiu
+2026-08-08,1,Self Aware,Temper City,selfaware|tempercity,Manteve,2026-08-15,Gradient Boosting,Manteve,True,51.3,Manteve,Subiu
+2026-08-08,2,Riptides,Death Cab for Cutie,riptides|deathcabforcutie,Manteve,2026-08-15,Gradient Boosting,Manteve,True,41.4,Subiu,Subiu
+2026-08-08,3,In My Room,Julia Wolf,inmyroom|juliawolf,Manteve,2026-08-15,Gradient Boosting,Subiu,False,41.4,Subiu,Subiu
+2026-08-08,4,Beaches In Tennessee,Cage the Elephant,beachesintennessee|cagetheelephant,Manteve,2026-08-15,Gradient Boosting,Subiu,False,52.6,Subiu,Subiu
+2026-08-08,5,Freakin' Out,Dexter And The Moonrocks,freakinout|dexterandthemoonrocks,Manteve,2026-08-15,Gradient Boosting,Desceu,False,55.8,Desceu,Subiu
+2026-08-08,6,One Of Those Days,Dirty Heads,oneofthosedays|dirtyheads,Desceu,2026-08-15,Gradient Boosting,Desceu,True,56.7,Desceu,Subiu
+2026-08-08,7,Going Shopping,The Strokes,goingshopping|thestrokes,Subiu,2026-08-15,Gradient Boosting,Subiu,True,46.1,Subiu,Subiu
 2026-08-08,8,Headlights,In Color,headlights|incolor,Desceu,2026-08-15,Gradient Boosting,Desceu,True,61.6,Desceu,Subiu
-2026-08-08,9,Picking Dragons' Pockets,Modest Mouse,pickingdragonspockets|modestmouse,Subiu,2026-08-15,Gradient Boosting,Subiu,True,45.1,Subiu,Subiu
-2026-08-08,10,Until The Sun Explodes,Sublime,untilthesunexplodes|sublime,Manteve,2026-08-15,Gradient Boosting,Desceu,False,59.2,Desceu,Subiu
-2026-08-08,11,Doors,Noah Kahan,doors|noahkahan,Subiu,2026-08-15,Gradient Boosting,Subiu,True,50.0,Manteve,Subiu
-2026-08-08,12,Fool's Gold,Buffalo Traffic Jam,foolsgold|buffalotrafficjam,Manteve,2026-08-15,Gradient Boosting,Subiu,False,50.0,Manteve,Subiu
-2026-08-08,13,no more regrets,almost monday,nomoreregrets|almostmonday,Desceu,2026-08-15,Gradient Boosting,Subiu,False,50.0,Manteve,Subiu
-2026-08-08,14,We Might As Well Be Strangers,Weezer Featuring Wednesday,wemightaswellbestrangers|weezerfeaturingwednesday,Subiu,2026-08-15,Gradient Boosting,Subiu,True,56.1,Subiu,Subiu
-2026-08-08,15,Dying To Love,Bad Omens,dyingtolove|badomens,Desceu,2026-08-15,Gradient Boosting,Subiu,False,44.5,Desceu,Subiu
-2026-08-08,16,Babydoll,Dominic Fike,babydoll|dominicfike,Subiu,2026-08-15,Gradient Boosting,Subiu,True,50.0,Subiu,Subiu
-2026-08-08,17,I Used To Go To This Bar,Joyce Manor,iusedtogotothisbar|joycemanor,Manteve,2026-08-15,Gradient Boosting,Subiu,False,47.9,Desceu,Subiu
-2026-08-08,18,Hold Me In The Dark,Myles Smith,holdmeinthedark|mylessmith,Manteve,2026-08-15,Gradient Boosting,Subiu,False,50.0,Subiu,Subiu
-2026-08-08,19,My Love,M.O.T.H.E.R.,mylove|mother,Manteve,2026-08-15,Gradient Boosting,Subiu,False,50.4,Subiu,Subiu
-2026-08-08,20,Who Will You Follow,Evanescence,whowillyoufollow|evanescence,Desceu,2026-08-15,Gradient Boosting,Desceu,True,41.6,Desceu,Subiu
-2026-08-08,21,All I Did Was Dream of You,beabadoobee Featuring The Marias,allididwasdreamofyou|beabadoobeefeaturingthemarias,Subiu,2026-08-15,Gradient Boosting,Subiu,True,39.8,Desceu,Subiu
-2026-08-08,22,Rein Me In,Sam Fender & Olivia Dean,reinmein|samfenderoliviadean,Subiu,2026-08-15,Gradient Boosting,Subiu,True,50.4,Subiu,Subiu
-2026-08-08,23,Love To Go,Edgehill,lovetogo|edgehill,Subiu,2026-08-15,Gradient Boosting,Subiu,True,56.5,Subiu,Subiu
+2026-08-08,9,Picking Dragons' Pockets,Modest Mouse,pickingdragonspockets|modestmouse,Subiu,2026-08-15,Gradient Boosting,Subiu,True,44.9,Subiu,Subiu
+2026-08-08,10,Until The Sun Explodes,Sublime,untilthesunexplodes|sublime,Manteve,2026-08-15,Gradient Boosting,Desceu,False,60.0,Desceu,Subiu
+2026-08-08,11,Doors,Noah Kahan,doors|noahkahan,Subiu,2026-08-15,Gradient Boosting,Subiu,True,50.1,Manteve,Subiu
+2026-08-08,12,Fool's Gold,Buffalo Traffic Jam,foolsgold|buffalotrafficjam,Manteve,2026-08-15,Gradient Boosting,Subiu,False,50.1,Manteve,Subiu
+2026-08-08,13,no more regrets,almost monday,nomoreregrets|almostmonday,Desceu,2026-08-15,Gradient Boosting,Subiu,False,50.1,Manteve,Subiu
+2026-08-08,14,We Might As Well Be Strangers,Weezer Featuring Wednesday,wemightaswellbestrangers|weezerfeaturingwednesday,Subiu,2026-08-15,Gradient Boosting,Subiu,True,56.8,Subiu,Subiu
+2026-08-08,15,Dying To Love,Bad Omens,dyingtolove|badomens,Desceu,2026-08-15,Gradient Boosting,Subiu,False,44.9,Desceu,Subiu
+2026-08-08,16,Babydoll,Dominic Fike,babydoll|dominicfike,Subiu,2026-08-15,Gradient Boosting,Subiu,True,50.1,Subiu,Subiu
+2026-08-08,17,I Used To Go To This Bar,Joyce Manor,iusedtogotothisbar|joycemanor,Manteve,2026-08-15,Gradient Boosting,Subiu,False,48.3,Desceu,Subiu
+2026-08-08,18,Hold Me In The Dark,Myles Smith,holdmeinthedark|mylessmith,Manteve,2026-08-15,Gradient Boosting,Subiu,False,50.1,Subiu,Subiu
+2026-08-08,19,My Love,M.O.T.H.E.R.,mylove|mother,Manteve,2026-08-15,Gradient Boosting,Subiu,False,50.2,Subiu,Subiu
+2026-08-08,20,Who Will You Follow,Evanescence,whowillyoufollow|evanescence,Desceu,2026-08-15,Gradient Boosting,Desceu,True,42.1,Desceu,Subiu
+2026-08-08,21,All I Did Was Dream of You,beabadoobee Featuring The Marias,allididwasdreamofyou|beabadoobeefeaturingthemarias,Subiu,2026-08-15,Gradient Boosting,Subiu,True,39.2,Desceu,Subiu
+2026-08-08,22,Rein Me In,Sam Fender & Olivia Dean,reinmein|samfenderoliviadean,Subiu,2026-08-15,Gradient Boosting,Subiu,True,50.2,Subiu,Subiu
+2026-08-08,23,Love To Go,Edgehill,lovetogo|edgehill,Subiu,2026-08-15,Gradient Boosting,Subiu,True,56.9,Subiu,Subiu
 2026-08-08,24,Private,The Neighbourhood,private|theneighbourhood,Manteve,2026-08-15,Gradient Boosting,Subiu,False,45.9,Manteve,Subiu
-2026-08-08,25,Homewrecker,sombr,homewrecker|sombr,Desceu,2026-08-15,Gradient Boosting,Desceu,True,34.3,Desceu,Subiu
-2026-08-08,26,Edge Of The Earth,The Beaches,edgeoftheearth|thebeaches,Desceu,2026-08-15,Gradient Boosting,Subiu,False,52.7,Subiu,Subiu
-2026-08-08,27,Lost Boys,Phoebe Bridgers,lostboys|phoebebridgers,Subiu,2026-08-15,Gradient Boosting,Subiu,True,61.9,Subiu,Subiu
-2026-08-08,28,Absolution,Switchfoot,absolution|switchfoot,Desceu,2026-08-15,Gradient Boosting,Subiu,False,52.5,Subiu,Subiu
-2026-08-08,29,Evergreen,Young the Giant,evergreen|youngthegiant,Subiu,2026-08-15,Gradient Boosting,Subiu,True,58.5,Subiu,Subiu
-2026-08-08,30,Bug In The Cake,Violet Grohl,buginthecake|violetgrohl,Desceu,2026-08-15,Gradient Boosting,Subiu,False,46.8,Desceu,Subiu
-2026-08-08,31,See Out Loud,Interpol,seeoutloud|interpol,Subiu,2026-08-15,Gradient Boosting,Subiu,True,53.5,Subiu,Subiu
-2026-08-08,32,Be With You,Muse,bewithyou|muse,Desceu,2026-08-15,Gradient Boosting,Desceu,True,45.5,Desceu,Subiu
-2026-08-08,33,We Should Talk,Bleachers,weshouldtalk|bleachers,Desceu,2026-08-15,Gradient Boosting,Subiu,False,58.5,Subiu,Subiu
-2026-08-08,34,Heart Stop,The Revivalists,heartstop|therevivalists,Subiu,2026-08-15,Gradient Boosting,Subiu,True,61.9,Subiu,Subiu
+2026-08-08,25,Homewrecker,sombr,homewrecker|sombr,Desceu,2026-08-15,Gradient Boosting,Desceu,True,34.4,Desceu,Subiu
+2026-08-08,26,Edge Of The Earth,The Beaches,edgeoftheearth|thebeaches,Desceu,2026-08-15,Gradient Boosting,Subiu,False,52.4,Subiu,Subiu
+2026-08-08,27,Lost Boys,Phoebe Bridgers,lostboys|phoebebridgers,Subiu,2026-08-15,Gradient Boosting,Subiu,True,61.3,Subiu,Subiu
+2026-08-08,28,Absolution,Switchfoot,absolution|switchfoot,Desceu,2026-08-15,Gradient Boosting,Subiu,False,52.3,Subiu,Subiu
+2026-08-08,29,Evergreen,Young the Giant,evergreen|youngthegiant,Subiu,2026-08-15,Gradient Boosting,Subiu,True,59.1,Subiu,Subiu
+2026-08-08,30,Bug In The Cake,Violet Grohl,buginthecake|violetgrohl,Desceu,2026-08-15,Gradient Boosting,Subiu,False,46.9,Desceu,Subiu
+2026-08-08,31,See Out Loud,Interpol,seeoutloud|interpol,Subiu,2026-08-15,Gradient Boosting,Subiu,True,54.0,Subiu,Subiu
+2026-08-08,32,Be With You,Muse,bewithyou|muse,Desceu,2026-08-15,Gradient Boosting,Desceu,True,45.6,Desceu,Subiu
+2026-08-08,33,We Should Talk,Bleachers,weshouldtalk|bleachers,Desceu,2026-08-15,Gradient Boosting,Subiu,False,59.1,Subiu,Subiu
+2026-08-08,34,Heart Stop,The Revivalists,heartstop|therevivalists,Subiu,2026-08-15,Gradient Boosting,Subiu,True,61.5,Subiu,Subiu
 2026-08-08,35,Backseat Drivin',"Slightly Stoopid , Wiz Khalifa & G. Love",backseatdrivin|slightlystoopidwizkhalifaglove,Desceu,2026-08-15,Gradient Boosting,Subiu,False,65.1,Manteve,Subiu
-2026-08-08,36,Hello Juliet,Clarion,hellojuliet|clarion,Saiu,2026-08-15,Gradient Boosting,Desceu,False,37.6,Desceu,Subiu
-2026-08-08,37,Delicate,Bike Routes Featuring Jake Clemons,delicate|bikeroutesfeaturingjakeclemons,Desceu,2026-08-15,Gradient Boosting,Subiu,False,49.4,Manteve,Subiu
+2026-08-08,36,Hello Juliet,Clarion,hellojuliet|clarion,Saiu,2026-08-15,Gradient Boosting,Desceu,False,37.1,Desceu,Subiu
+2026-08-08,37,Delicate,Bike Routes Featuring Jake Clemons,delicate|bikeroutesfeaturingjakeclemons,Desceu,2026-08-15,Gradient Boosting,Subiu,False,49.3,Manteve,Subiu
 2026-08-08,38,Young Again,Shinedown,youngagain|shinedown,Subiu,2026-08-15,Gradient Boosting,Subiu,True,61.8,Subiu,Subiu
-2026-08-08,39,My Body Isn't Ready,sombr,mybodyisntready|sombr,Subiu,2026-08-15,Gradient Boosting,Subiu,True,49.2,Subiu,Subiu
-2026-08-08,40,Words Are Worthless,Sleep Theory,wordsareworthless|sleeptheory,Saiu,2026-08-15,Gradient Boosting,Saiu,True,69.8,Desceu,Subiu
-2026-08-15,1,Self Aware,Temper City,selfaware|tempercity,Manteve,2026-08-22,Gradient Boosting,Manteve,True,51.1,Manteve,Subiu
-2026-08-15,2,Riptides,Death Cab for Cutie,riptides|deathcabforcutie,Desceu,2026-08-22,Gradient Boosting,Manteve,False,39.7,Manteve,Subiu
-2026-08-15,3,In My Room,Julia Wolf,inmyroom|juliawolf,Manteve,2026-08-22,Gradient Boosting,Subiu,False,43.2,Manteve,Subiu
-2026-08-15,4,Beaches In Tennessee,Cage the Elephant,beachesintennessee|cagetheelephant,Subiu,2026-08-22,Gradient Boosting,Subiu,True,52.8,Manteve,Subiu
-2026-08-15,5,Freakin' Out,Dexter And The Moonrocks,freakinout|dexterandthemoonrocks,Manteve,2026-08-22,Gradient Boosting,Desceu,False,57.6,Manteve,Subiu
-2026-08-15,6,Going Shopping,The Strokes,goingshopping|thestrokes,Manteve,2026-08-22,Gradient Boosting,Subiu,False,44.1,Subiu,Subiu
-2026-08-15,7,Picking Dragons' Pockets,Modest Mouse,pickingdragonspockets|modestmouse,Manteve,2026-08-22,Gradient Boosting,Subiu,False,48.0,Subiu,Subiu
-2026-08-15,8,Doors,Noah Kahan,doors|noahkahan,Manteve,2026-08-22,Gradient Boosting,Subiu,False,48.4,Subiu,Subiu
-2026-08-15,9,Headlights,In Color,headlights|incolor,Desceu,2026-08-22,Gradient Boosting,Desceu,True,61.3,Desceu,Subiu
-2026-08-15,10,Until The Sun Explodes,Sublime,untilthesunexplodes|sublime,Desceu,2026-08-22,Gradient Boosting,Desceu,True,51.9,Manteve,Subiu
-2026-08-15,11,One Of Those Days,Dirty Heads,oneofthosedays|dirtyheads,Saiu,2026-08-22,Gradient Boosting,Desceu,False,55.7,Desceu,Subiu
-2026-08-15,12,Fool's Gold,Buffalo Traffic Jam,foolsgold|buffalotrafficjam,Subiu,2026-08-22,Gradient Boosting,Subiu,True,45.9,Manteve,Subiu
-2026-08-15,13,We Might As Well Be Strangers,Weezer Featuring Wednesday,wemightaswellbestrangers|weezerfeaturingwednesday,Manteve,2026-08-22,Gradient Boosting,Subiu,False,52.2,Subiu,Subiu
-2026-08-15,14,no more regrets,almost monday,nomoreregrets|almostmonday,Subiu,2026-08-22,Gradient Boosting,Subiu,True,43.3,Desceu,Subiu
-2026-08-15,15,Babydoll,Dominic Fike,babydoll|dominicfike,Subiu,2026-08-22,Gradient Boosting,Subiu,True,50.0,Subiu,Subiu
-2026-08-15,16,Dying To Love,Bad Omens,dyingtolove|badomens,Saiu,2026-08-22,Gradient Boosting,Subiu,False,39.0,Desceu,Subiu
-2026-08-15,17,I Used To Go To This Bar,Joyce Manor,iusedtogotothisbar|joycemanor,Subiu,2026-08-22,Gradient Boosting,Subiu,True,42.4,Manteve,Subiu
-2026-08-15,18,Hold Me In The Dark,Myles Smith,holdmeinthedark|mylessmith,Subiu,2026-08-22,Gradient Boosting,Subiu,True,50.0,Manteve,Subiu
-2026-08-15,19,My Love,M.O.T.H.E.R.,mylove|mother,Desceu,2026-08-22,Gradient Boosting,Subiu,False,52.2,Manteve,Subiu
-2026-08-15,20,All I Did Was Dream of You,beabadoobee Featuring The Marias,allididwasdreamofyou|beabadoobeefeaturingthemarias,Subiu,2026-08-22,Gradient Boosting,Subiu,True,41.2,Subiu,Subiu
-2026-08-15,21,Rein Me In,Sam Fender & Olivia Dean,reinmein|samfenderoliviadean,Subiu,2026-08-22,Gradient Boosting,Subiu,True,52.2,Subiu,Subiu
+2026-08-08,39,My Body Isn't Ready,sombr,mybodyisntready|sombr,Subiu,2026-08-15,Gradient Boosting,Subiu,True,49.0,Subiu,Subiu
+2026-08-08,40,Words Are Worthless,Sleep Theory,wordsareworthless|sleeptheory,Saiu,2026-08-15,Gradient Boosting,Saiu,True,69.9,Desceu,Subiu
+2026-08-15,1,Self Aware,Temper City,selfaware|tempercity,Manteve,2026-08-22,Gradient Boosting,Manteve,True,51.3,Manteve,Subiu
+2026-08-15,2,Riptides,Death Cab for Cutie,riptides|deathcabforcutie,Desceu,2026-08-22,Gradient Boosting,Manteve,False,39.6,Manteve,Subiu
+2026-08-15,3,In My Room,Julia Wolf,inmyroom|juliawolf,Manteve,2026-08-22,Gradient Boosting,Subiu,False,43.0,Manteve,Subiu
+2026-08-15,4,Beaches In Tennessee,Cage the Elephant,beachesintennessee|cagetheelephant,Subiu,2026-08-22,Gradient Boosting,Subiu,True,52.2,Manteve,Subiu
+2026-08-15,5,Freakin' Out,Dexter And The Moonrocks,freakinout|dexterandthemoonrocks,Manteve,2026-08-22,Gradient Boosting,Desceu,False,57.5,Manteve,Subiu
+2026-08-15,6,Going Shopping,The Strokes,goingshopping|thestrokes,Manteve,2026-08-22,Gradient Boosting,Subiu,False,44.4,Subiu,Subiu
+2026-08-15,7,Picking Dragons' Pockets,Modest Mouse,pickingdragonspockets|modestmouse,Manteve,2026-08-22,Gradient Boosting,Subiu,False,47.9,Subiu,Subiu
+2026-08-15,8,Doors,Noah Kahan,doors|noahkahan,Manteve,2026-08-22,Gradient Boosting,Subiu,False,48.2,Subiu,Subiu
+2026-08-15,9,Headlights,In Color,headlights|incolor,Desceu,2026-08-22,Gradient Boosting,Desceu,True,62.0,Desceu,Subiu
+2026-08-15,10,Until The Sun Explodes,Sublime,untilthesunexplodes|sublime,Desceu,2026-08-22,Gradient Boosting,Desceu,True,52.7,Manteve,Subiu
+2026-08-15,11,One Of Those Days,Dirty Heads,oneofthosedays|dirtyheads,Saiu,2026-08-22,Gradient Boosting,Desceu,False,55.8,Desceu,Subiu
+2026-08-15,12,Fool's Gold,Buffalo Traffic Jam,foolsgold|buffalotrafficjam,Subiu,2026-08-22,Gradient Boosting,Subiu,True,45.7,Manteve,Subiu
+2026-08-15,13,We Might As Well Be Strangers,Weezer Featuring Wednesday,wemightaswellbestrangers|weezerfeaturingwednesday,Manteve,2026-08-22,Gradient Boosting,Subiu,False,52.3,Subiu,Subiu
+2026-08-15,14,no more regrets,almost monday,nomoreregrets|almostmonday,Subiu,2026-08-22,Gradient Boosting,Subiu,True,43.2,Desceu,Subiu
+2026-08-15,15,Babydoll,Dominic Fike,babydoll|dominicfike,Subiu,2026-08-22,Gradient Boosting,Subiu,True,50.1,Subiu,Subiu
+2026-08-15,16,Dying To Love,Bad Omens,dyingtolove|badomens,Saiu,2026-08-22,Gradient Boosting,Subiu,False,38.7,Desceu,Subiu
+2026-08-15,17,I Used To Go To This Bar,Joyce Manor,iusedtogotothisbar|joycemanor,Subiu,2026-08-22,Gradient Boosting,Subiu,True,42.3,Manteve,Subiu
+2026-08-15,18,Hold Me In The Dark,Myles Smith,holdmeinthedark|mylessmith,Subiu,2026-08-22,Gradient Boosting,Subiu,True,50.1,Manteve,Subiu
+2026-08-15,19,My Love,M.O.T.H.E.R.,mylove|mother,Desceu,2026-08-22,Gradient Boosting,Subiu,False,52.1,Manteve,Subiu
+2026-08-15,20,All I Did Was Dream of You,beabadoobee Featuring The Marias,allididwasdreamofyou|beabadoobeefeaturingthemarias,Subiu,2026-08-22,Gradient Boosting,Subiu,True,41.4,Subiu,Subiu
+2026-08-15,21,Rein Me In,Sam Fender & Olivia Dean,reinmein|samfenderoliviadean,Subiu,2026-08-22,Gradient Boosting,Subiu,True,52.1,Subiu,Subiu
 2026-08-15,22,Love To Go,Edgehill,lovetogo|edgehill,Subiu,2026-08-22,Gradient Boosting,Subiu,True,54.3,Subiu,Subiu
-2026-08-15,23,Who Will You Follow,Evanescence,whowillyoufollow|evanescence,Desceu,2026-08-22,Gradient Boosting,Desceu,True,37.7,Desceu,Subiu
+2026-08-15,23,Who Will You Follow,Evanescence,whowillyoufollow|evanescence,Desceu,2026-08-22,Gradient Boosting,Desceu,True,37.9,Desceu,Subiu
 2026-08-15,24,Private,The Neighbourhood,private|theneighbourhood,Subiu,2026-08-22,Gradient Boosting,Subiu,True,41.3,Manteve,Subiu
-2026-08-15,25,Window,Foo Fighters,window|foofighters,Subiu,2026-08-22,Gradient Boosting,Subiu,True,64.9,Manteve,Subiu
-2026-08-15,26,Lost Boys,Phoebe Bridgers,lostboys|phoebebridgers,Subiu,2026-08-22,Gradient Boosting,Subiu,True,58.4,Subiu,Subiu
-2026-08-15,27,Evergreen,Young the Giant,evergreen|youngthegiant,Subiu,2026-08-22,Gradient Boosting,Subiu,True,54.7,Subiu,Subiu
-2026-08-15,28,See Out Loud,Interpol,seeoutloud|interpol,Subiu,2026-08-22,Gradient Boosting,Subiu,True,54.7,Subiu,Subiu
-2026-08-15,29,Edge Of The Earth,The Beaches,edgeoftheearth|thebeaches,Subiu,2026-08-22,Gradient Boosting,Subiu,True,47.4,Desceu,Subiu
+2026-08-15,25,Window,Foo Fighters,window|foofighters,Subiu,2026-08-22,Gradient Boosting,Subiu,True,64.8,Manteve,Subiu
+2026-08-15,26,Lost Boys,Phoebe Bridgers,lostboys|phoebebridgers,Subiu,2026-08-22,Gradient Boosting,Subiu,True,58.8,Subiu,Subiu
+2026-08-15,27,Evergreen,Young the Giant,evergreen|youngthegiant,Subiu,2026-08-22,Gradient Boosting,Subiu,True,54.5,Subiu,Subiu
+2026-08-15,28,See Out Loud,Interpol,seeoutloud|interpol,Subiu,2026-08-22,Gradient Boosting,Subiu,True,54.5,Subiu,Subiu
+2026-08-15,29,Edge Of The Earth,The Beaches,edgeoftheearth|thebeaches,Subiu,2026-08-22,Gradient Boosting,Subiu,True,47.0,Desceu,Subiu
 2026-08-15,30,Absolution,Switchfoot,absolution|switchfoot,Subiu,2026-08-22,Gradient Boosting,Subiu,True,46.7,Desceu,Subiu
-2026-08-15,31,Bug In The Cake,Violet Grohl,buginthecake|violetgrohl,Subiu,2026-08-22,Gradient Boosting,Subiu,True,40.6,Desceu,Subiu
-2026-08-15,32,Heart Stop,The Revivalists,heartstop|therevivalists,Subiu,2026-08-22,Gradient Boosting,Subiu,True,58.5,Subiu,Subiu
+2026-08-15,31,Bug In The Cake,Violet Grohl,buginthecake|violetgrohl,Subiu,2026-08-22,Gradient Boosting,Subiu,True,40.2,Desceu,Subiu
+2026-08-15,32,Heart Stop,The Revivalists,heartstop|therevivalists,Subiu,2026-08-22,Gradient Boosting,Subiu,True,59.1,Subiu,Subiu
 2026-08-15,33,Young Again,Shinedown,youngagain|shinedown,Subiu,2026-08-22,Gradient Boosting,Subiu,True,61.9,Subiu,Subiu
-2026-08-15,34,We Should Talk,Bleachers,weshouldtalk|bleachers,Desceu,2026-08-22,Gradient Boosting,Subiu,False,52.3,Desceu,Subiu
-2026-08-15,35,My Body Isn't Ready,sombr,mybodyisntready|sombr,Subiu,2026-08-22,Gradient Boosting,Subiu,True,61.9,Subiu,Subiu
-2026-08-15,36,Backseat Drivin',"Slightly Stoopid , Wiz Khalifa & G. Love",backseatdrivin|slightlystoopidwizkhalifaglove,Subiu,2026-08-22,Gradient Boosting,Subiu,True,62.1,Desceu,Subiu
+2026-08-15,34,We Should Talk,Bleachers,weshouldtalk|bleachers,Desceu,2026-08-22,Gradient Boosting,Subiu,False,52.7,Desceu,Subiu
+2026-08-15,35,My Body Isn't Ready,sombr,mybodyisntready|sombr,Subiu,2026-08-22,Gradient Boosting,Subiu,True,61.5,Subiu,Subiu
+2026-08-15,36,Backseat Drivin',"Slightly Stoopid , Wiz Khalifa & G. Love",backseatdrivin|slightlystoopidwizkhalifaglove,Subiu,2026-08-22,Gradient Boosting,Subiu,True,62.4,Desceu,Subiu
 2026-08-15,37,Homewrecker,sombr,homewrecker|sombr,Saiu,2026-08-22,Gradient Boosting,Saiu,True,41.4,Desceu,Subiu
-2026-08-15,38,Delicate,Bike Routes Featuring Jake Clemons,delicate|bikeroutesfeaturingjakeclemons,Manteve,2026-08-22,Gradient Boosting,Subiu,False,42.7,Desceu,Subiu
+2026-08-15,38,Delicate,Bike Routes Featuring Jake Clemons,delicate|bikeroutesfeaturingjakeclemons,Manteve,2026-08-22,Gradient Boosting,Subiu,False,42.5,Desceu,Subiu
 2026-08-15,39,Tonight,Social Distortion,tonight|socialdistortion,Subiu,2026-08-22,Gradient Boosting,Subiu,True,59.4,Manteve,Subiu
-2026-08-15,40,Be With You,Muse,bewithyou|muse,Saiu,2026-08-22,Gradient Boosting,Saiu,True,64.2,Desceu,Subiu
-2026-08-22,1,Self Aware,Temper City,selfaware|tempercity,Manteve,2026-08-29,Gradient Boosting,Manteve,True,52.2,Manteve,Subiu
-2026-08-22,2,Beaches In Tennessee,Cage the Elephant,beachesintennessee|cagetheelephant,Manteve,2026-08-29,Gradient Boosting,Manteve,True,42.3,Subiu,Subiu
-2026-08-22,3,In My Room,Julia Wolf,inmyroom|juliawolf,Manteve,2026-08-29,Gradient Boosting,Subiu,False,34.8,Manteve,Subiu
-2026-08-22,4,Riptides,Death Cab for Cutie,riptides|deathcabforcutie,Desceu,2026-08-29,Gradient Boosting,Desceu,True,49.3,Desceu,Subiu
-2026-08-22,5,Freakin' Out,Dexter And The Moonrocks,freakinout|dexterandthemoonrocks,Subiu,2026-08-29,Gradient Boosting,Desceu,False,55.2,Manteve,Subiu
-2026-08-22,6,Going Shopping,The Strokes,goingshopping|thestrokes,Subiu,2026-08-29,Gradient Boosting,Subiu,True,48.0,Manteve,Subiu
-2026-08-22,7,Picking Dragons' Pockets,Modest Mouse,pickingdragonspockets|modestmouse,Manteve,2026-08-29,Gradient Boosting,Subiu,False,48.0,Manteve,Subiu
-2026-08-22,8,Doors,Noah Kahan,doors|noahkahan,Subiu,2026-08-29,Gradient Boosting,Subiu,True,50.0,Manteve,Subiu
-2026-08-22,9,Fool's Gold,Buffalo Traffic Jam,foolsgold|buffalotrafficjam,Manteve,2026-08-29,Gradient Boosting,Subiu,False,48.4,Subiu,Subiu
-2026-08-22,10,Headlights,In Color,headlights|incolor,Desceu,2026-08-29,Gradient Boosting,Desceu,True,60.5,Desceu,Subiu
-2026-08-22,11,no more regrets,almost monday,nomoreregrets|almostmonday,Desceu,2026-08-29,Gradient Boosting,Subiu,False,47.6,Subiu,Subiu
-2026-08-22,12,Until The Sun Explodes,Sublime,untilthesunexplodes|sublime,Desceu,2026-08-29,Gradient Boosting,Desceu,True,51.2,Desceu,Subiu
-2026-08-22,13,We Might As Well Be Strangers,Weezer Featuring Wednesday,wemightaswellbestrangers|weezerfeaturingwednesday,Subiu,2026-08-29,Gradient Boosting,Subiu,True,50.0,Manteve,Subiu
-2026-08-22,14,Babydoll,Dominic Fike,babydoll|dominicfike,Subiu,2026-08-29,Gradient Boosting,Subiu,True,50.0,Subiu,Subiu
-2026-08-22,15,I Used To Go To This Bar,Joyce Manor,iusedtogotothisbar|joycemanor,Manteve,2026-08-29,Gradient Boosting,Subiu,False,48.4,Subiu,Subiu
-2026-08-22,16,Hold Me In The Dark,Myles Smith,holdmeinthedark|mylessmith,Desceu,2026-08-29,Gradient Boosting,Subiu,False,48.4,Subiu,Subiu
-2026-08-22,17,Window,Foo Fighters,window|foofighters,Subiu,2026-08-29,Gradient Boosting,Subiu,True,62.8,Subiu,Subiu
-2026-08-22,18,Love To Go,Edgehill,lovetogo|edgehill,Desceu,2026-08-29,Gradient Boosting,Subiu,False,50.0,Subiu,Subiu
-2026-08-22,19,All I Did Was Dream of You,beabadoobee Featuring The Marias,allididwasdreamofyou|beabadoobeefeaturingthemarias,Saiu,2026-08-29,Gradient Boosting,Subiu,False,52.2,Subiu,Subiu
-2026-08-22,20,Rein Me In,Sam Fender & Olivia Dean,reinmein|samfenderoliviadean,Manteve,2026-08-29,Gradient Boosting,Subiu,False,52.2,Subiu,Subiu
-2026-08-22,21,My Love,M.O.T.H.E.R.,mylove|mother,Desceu,2026-08-29,Gradient Boosting,Subiu,False,44.9,Desceu,Subiu
-2026-08-22,22,Private,The Neighbourhood,private|theneighbourhood,Subiu,2026-08-29,Gradient Boosting,Subiu,True,50.4,Subiu,Subiu
+2026-08-15,40,Be With You,Muse,bewithyou|muse,Saiu,2026-08-22,Gradient Boosting,Saiu,True,64.3,Desceu,Subiu
+2026-08-22,1,Self Aware,Temper City,selfaware|tempercity,Manteve,2026-08-29,Gradient Boosting,Manteve,True,52.5,Manteve,Subiu
+2026-08-22,2,Beaches In Tennessee,Cage the Elephant,beachesintennessee|cagetheelephant,Manteve,2026-08-29,Gradient Boosting,Manteve,True,42.4,Subiu,Subiu
+2026-08-22,3,In My Room,Julia Wolf,inmyroom|juliawolf,Manteve,2026-08-29,Gradient Boosting,Subiu,False,34.5,Manteve,Subiu
+2026-08-22,4,Riptides,Death Cab for Cutie,riptides|deathcabforcutie,Desceu,2026-08-29,Gradient Boosting,Desceu,True,49.7,Desceu,Subiu
+2026-08-22,5,Freakin' Out,Dexter And The Moonrocks,freakinout|dexterandthemoonrocks,Subiu,2026-08-29,Gradient Boosting,Desceu,False,54.4,Manteve,Subiu
+2026-08-22,6,Going Shopping,The Strokes,goingshopping|thestrokes,Subiu,2026-08-29,Gradient Boosting,Subiu,True,47.9,Manteve,Subiu
+2026-08-22,7,Picking Dragons' Pockets,Modest Mouse,pickingdragonspockets|modestmouse,Manteve,2026-08-29,Gradient Boosting,Subiu,False,47.9,Manteve,Subiu
+2026-08-22,8,Doors,Noah Kahan,doors|noahkahan,Subiu,2026-08-29,Gradient Boosting,Subiu,True,50.1,Manteve,Subiu
+2026-08-22,9,Fool's Gold,Buffalo Traffic Jam,foolsgold|buffalotrafficjam,Manteve,2026-08-29,Gradient Boosting,Subiu,False,48.2,Subiu,Subiu
+2026-08-22,10,Headlights,In Color,headlights|incolor,Desceu,2026-08-29,Gradient Boosting,Desceu,True,60.9,Desceu,Subiu
+2026-08-22,11,no more regrets,almost monday,nomoreregrets|almostmonday,Desceu,2026-08-29,Gradient Boosting,Subiu,False,47.4,Subiu,Subiu
+2026-08-22,12,Until The Sun Explodes,Sublime,untilthesunexplodes|sublime,Desceu,2026-08-29,Gradient Boosting,Desceu,True,52.1,Desceu,Subiu
+2026-08-22,13,We Might As Well Be Strangers,Weezer Featuring Wednesday,wemightaswellbestrangers|weezerfeaturingwednesday,Subiu,2026-08-29,Gradient Boosting,Subiu,True,50.1,Manteve,Subiu
+2026-08-22,14,Babydoll,Dominic Fike,babydoll|dominicfike,Subiu,2026-08-29,Gradient Boosting,Subiu,True,50.1,Subiu,Subiu
+2026-08-22,15,I Used To Go To This Bar,Joyce Manor,iusedtogotothisbar|joycemanor,Manteve,2026-08-29,Gradient Boosting,Subiu,False,48.2,Subiu,Subiu
+2026-08-22,16,Hold Me In The Dark,Myles Smith,holdmeinthedark|mylessmith,Desceu,2026-08-29,Gradient Boosting,Subiu,False,48.2,Subiu,Subiu
+2026-08-22,17,Window,Foo Fighters,window|foofighters,Subiu,2026-08-29,Gradient Boosting,Subiu,True,62.9,Subiu,Subiu
+2026-08-22,18,Love To Go,Edgehill,lovetogo|edgehill,Desceu,2026-08-29,Gradient Boosting,Subiu,False,50.1,Subiu,Subiu
+2026-08-22,19,All I Did Was Dream of You,beabadoobee Featuring The Marias,allididwasdreamofyou|beabadoobeefeaturingthemarias,Saiu,2026-08-29,Gradient Boosting,Subiu,False,52.1,Subiu,Subiu
+2026-08-22,20,Rein Me In,Sam Fender & Olivia Dean,reinmein|samfenderoliviadean,Manteve,2026-08-29,Gradient Boosting,Subiu,False,52.1,Subiu,Subiu
+2026-08-22,21,My Love,M.O.T.H.E.R.,mylove|mother,Desceu,2026-08-29,Gradient Boosting,Subiu,False,44.5,Desceu,Subiu
+2026-08-22,22,Private,The Neighbourhood,private|theneighbourhood,Subiu,2026-08-29,Gradient Boosting,Subiu,True,50.2,Subiu,Subiu
 2026-08-22,23,Lost Boys,Phoebe Bridgers,lostboys|phoebebridgers,Subiu,2026-08-29,Gradient Boosting,Subiu,True,54.3,Subiu,Subiu
-2026-08-22,24,Evergreen,Young the Giant,evergreen|youngthegiant,Subiu,2026-08-29,Gradient Boosting,Subiu,True,52.3,Subiu,Subiu
-2026-08-22,25,Who Will You Follow,Evanescence,whowillyoufollow|evanescence,Desceu,2026-08-29,Gradient Boosting,Desceu,True,38.1,Desceu,Subiu
-2026-08-22,26,Edge Of The Earth,The Beaches,edgeoftheearth|thebeaches,Subiu,2026-08-29,Gradient Boosting,Subiu,True,47.2,Subiu,Subiu
-2026-08-22,27,See Out Loud,Interpol,seeoutloud|interpol,Desceu,2026-08-29,Gradient Boosting,Subiu,False,52.5,Subiu,Subiu
-2026-08-22,28,Absolution,Switchfoot,absolution|switchfoot,Subiu,2026-08-29,Gradient Boosting,Subiu,True,47.3,Subiu,Subiu
-2026-08-22,29,Bug In The Cake,Violet Grohl,buginthecake|violetgrohl,Desceu,2026-08-29,Gradient Boosting,Subiu,False,47.4,Subiu,Subiu
+2026-08-22,24,Evergreen,Young the Giant,evergreen|youngthegiant,Subiu,2026-08-29,Gradient Boosting,Subiu,True,52.1,Subiu,Subiu
+2026-08-22,25,Who Will You Follow,Evanescence,whowillyoufollow|evanescence,Desceu,2026-08-29,Gradient Boosting,Desceu,True,38.4,Desceu,Subiu
+2026-08-22,26,Edge Of The Earth,The Beaches,edgeoftheearth|thebeaches,Subiu,2026-08-29,Gradient Boosting,Subiu,True,46.8,Subiu,Subiu
+2026-08-22,27,See Out Loud,Interpol,seeoutloud|interpol,Desceu,2026-08-29,Gradient Boosting,Subiu,False,52.3,Subiu,Subiu
+2026-08-22,28,Absolution,Switchfoot,absolution|switchfoot,Subiu,2026-08-29,Gradient Boosting,Subiu,True,46.9,Subiu,Subiu
+2026-08-22,29,Bug In The Cake,Violet Grohl,buginthecake|violetgrohl,Desceu,2026-08-29,Gradient Boosting,Subiu,False,47.5,Subiu,Subiu
 2026-08-22,30,Heart Stop,The Revivalists,heartstop|therevivalists,Desceu,2026-08-29,Gradient Boosting,Subiu,False,54.7,Subiu,Subiu
 2026-08-22,31,Loser,Tame Impala,loser|tameimpala,Subiu,2026-08-29,Gradient Boosting,Subiu,True,65.1,Manteve,Subiu
-2026-08-22,32,Young Again,Shinedown,youngagain|shinedown,Subiu,2026-08-29,Gradient Boosting,Subiu,True,61.9,Subiu,Subiu
-2026-08-22,33,My Body Isn't Ready,sombr,mybodyisntready|sombr,Desceu,2026-08-29,Gradient Boosting,Subiu,False,58.5,Subiu,Subiu
-2026-08-22,34,Backseat Drivin',"Slightly Stoopid , Wiz Khalifa & G. Love",backseatdrivin|slightlystoopidwizkhalifaglove,Manteve,2026-08-29,Gradient Boosting,Subiu,False,59.3,Subiu,Subiu
+2026-08-22,32,Young Again,Shinedown,youngagain|shinedown,Subiu,2026-08-29,Gradient Boosting,Subiu,True,61.5,Subiu,Subiu
+2026-08-22,33,My Body Isn't Ready,sombr,mybodyisntready|sombr,Desceu,2026-08-29,Gradient Boosting,Subiu,False,59.1,Subiu,Subiu
+2026-08-22,34,Backseat Drivin',"Slightly Stoopid , Wiz Khalifa & G. Love",backseatdrivin|slightlystoopidwizkhalifaglove,Manteve,2026-08-29,Gradient Boosting,Subiu,False,59.1,Subiu,Subiu
 2026-08-22,35,I Kinda Like That,The Paradox,ikindalikethat|theparadox,Subiu,2026-08-29,Gradient Boosting,Subiu,True,65.1,Manteve,Subiu
-2026-08-22,36,We Should Talk,Bleachers,weshouldtalk|bleachers,Saiu,2026-08-29,Gradient Boosting,Desceu,False,38.4,Desceu,Subiu
-2026-08-22,37,Tonight,Social Distortion,tonight|socialdistortion,Subiu,2026-08-29,Gradient Boosting,Subiu,True,64.1,Subiu,Subiu
-2026-08-22,38,Delicate,Bike Routes Featuring Jake Clemons,delicate|bikeroutesfeaturingjakeclemons,Manteve,2026-08-29,Gradient Boosting,Subiu,False,37.7,Manteve,Subiu
+2026-08-22,36,We Should Talk,Bleachers,weshouldtalk|bleachers,Saiu,2026-08-29,Gradient Boosting,Desceu,False,38.5,Desceu,Subiu
+2026-08-22,37,Tonight,Social Distortion,tonight|socialdistortion,Subiu,2026-08-29,Gradient Boosting,Subiu,True,64.2,Subiu,Subiu
+2026-08-22,38,Delicate,Bike Routes Featuring Jake Clemons,delicate|bikeroutesfeaturingjakeclemons,Manteve,2026-08-29,Gradient Boosting,Subiu,False,37.4,Manteve,Subiu
 2026-08-22,39,Don't Wanna Go Home Tonight,Three Days Grace,dontwannagohometonight|threedaysgrace,Subiu,2026-08-29,Gradient Boosting,Subiu,True,59.4,Manteve,Subiu
 2026-08-22,40,Cryogen,Muse,cryogen|muse,Subiu,2026-08-29,Gradient Boosting,Subiu,True,59.4,Manteve,Subiu
-2026-08-29,1,Self Aware,Temper City,selfaware|tempercity,Manteve,2026-09-05,Gradient Boosting,Manteve,True,52.2,Manteve,Subiu
-2026-08-29,2,Beaches In Tennessee,Cage the Elephant,beachesintennessee|cagetheelephant,Desceu,2026-09-05,Gradient Boosting,Manteve,False,45.1,Manteve,Subiu
-2026-08-29,3,In My Room,Julia Wolf,inmyroom|juliawolf,Subiu,2026-09-05,Gradient Boosting,Desceu,False,34.0,Manteve,Subiu
-2026-08-29,4,Freakin' Out,Dexter And The Moonrocks,freakinout|dexterandthemoonrocks,Manteve,2026-09-05,Gradient Boosting,Desceu,False,45.6,Subiu,Subiu
-2026-08-29,5,Going Shopping,The Strokes,goingshopping|thestrokes,Desceu,2026-09-05,Gradient Boosting,Subiu,False,46.4,Subiu,Subiu
-2026-08-29,6,Doors,Noah Kahan,doors|noahkahan,Subiu,2026-09-05,Gradient Boosting,Subiu,True,46.4,Subiu,Subiu
-2026-08-29,7,Picking Dragons' Pockets,Modest Mouse,pickingdragonspockets|modestmouse,Subiu,2026-09-05,Gradient Boosting,Subiu,True,44.0,Manteve,Subiu
-2026-08-29,8,Babydoll,Dominic Fike,babydoll|dominicfike,Subiu,2026-09-05,Gradient Boosting,Subiu,True,50.0,Subiu,Subiu
-2026-08-29,9,Fool's Gold,Buffalo Traffic Jam,foolsgold|buffalotrafficjam,Subiu,2026-09-05,Gradient Boosting,Subiu,True,50.0,Manteve,Subiu
-2026-08-29,10,Riptides,Death Cab for Cutie,riptides|deathcabforcutie,Saiu,2026-09-05,Gradient Boosting,Desceu,False,59.0,Desceu,Subiu
-2026-08-29,11,We Might As Well Be Strangers,Weezer Featuring Wednesday,wemightaswellbestrangers|weezerfeaturingwednesday,Subiu,2026-09-05,Gradient Boosting,Subiu,True,48.4,Subiu,Subiu
-2026-08-29,12,no more regrets,almost monday,nomoreregrets|almostmonday,Subiu,2026-09-05,Gradient Boosting,Subiu,True,47.9,Desceu,Subiu
-2026-08-29,13,Until The Sun Explodes,Sublime,untilthesunexplodes|sublime,Manteve,2026-09-05,Gradient Boosting,Desceu,False,54.0,Desceu,Subiu
-2026-08-29,14,Headlights,In Color,headlights|incolor,Saiu,2026-09-05,Gradient Boosting,Desceu,False,55.2,Desceu,Subiu
-2026-08-29,15,I Used To Go To This Bar,Joyce Manor,iusedtogotothisbar|joycemanor,Manteve,2026-09-05,Gradient Boosting,Subiu,False,50.0,Manteve,Subiu
-2026-08-29,16,Window,Foo Fighters,window|foofighters,Subiu,2026-09-05,Gradient Boosting,Subiu,True,59.5,Subiu,Subiu
-2026-08-29,17,Hold Me In The Dark,Myles Smith,holdmeinthedark|mylessmith,Subiu,2026-09-05,Gradient Boosting,Subiu,True,47.9,Desceu,Subiu
-2026-08-29,18,Loser,Tame Impala,loser|tameimpala,Subiu,2026-09-05,Gradient Boosting,Subiu,True,62.8,Subiu,Subiu
-2026-08-29,19,Love To Go,Edgehill,lovetogo|edgehill,Subiu,2026-09-05,Gradient Boosting,Subiu,True,49.9,Desceu,Subiu
-2026-08-29,20,Rein Me In,Sam Fender & Olivia Dean,reinmein|samfenderoliviadean,Subiu,2026-09-05,Gradient Boosting,Subiu,True,52.2,Manteve,Subiu
-2026-08-29,21,Private,The Neighbourhood,private|theneighbourhood,Subiu,2026-09-05,Gradient Boosting,Subiu,True,52.2,Subiu,Subiu
-2026-08-29,22,Lost Boys,Phoebe Bridgers,lostboys|phoebebridgers,Manteve,2026-09-05,Gradient Boosting,Subiu,False,52.2,Subiu,Subiu
-2026-08-29,23,Evergreen,Young the Giant,evergreen|youngthegiant,Subiu,2026-09-05,Gradient Boosting,Subiu,True,52.2,Subiu,Subiu
-2026-08-29,24,Edge Of The Earth,The Beaches,edgeoftheearth|thebeaches,Subiu,2026-09-05,Gradient Boosting,Subiu,True,52.3,Subiu,Subiu
-2026-08-29,25,My Love,M.O.T.H.E.R.,mylove|mother,Desceu,2026-09-05,Gradient Boosting,Desceu,True,43.4,Desceu,Subiu
-2026-08-29,26,Absolution,Switchfoot,absolution|switchfoot,Manteve,2026-09-05,Gradient Boosting,Subiu,False,52.5,Subiu,Subiu
-2026-08-29,27,I Kinda Like That,The Paradox,ikindalikethat|theparadox,Subiu,2026-09-05,Gradient Boosting,Subiu,True,65.1,Subiu,Subiu
-2026-08-29,28,Don't Wanna Go Home Tonight,Three Days Grace,dontwannagohometonight|threedaysgrace,Subiu,2026-09-05,Gradient Boosting,Subiu,True,65.1,Subiu,Subiu
-2026-08-29,29,Young Again,Shinedown,youngagain|shinedown,Subiu,2026-09-05,Gradient Boosting,Subiu,True,58.5,Subiu,Subiu
-2026-08-29,30,See Out Loud,Interpol,seeoutloud|interpol,Subiu,2026-09-05,Gradient Boosting,Subiu,True,47.4,Desceu,Subiu
-2026-08-29,31,Heart Stop,The Revivalists,heartstop|therevivalists,Subiu,2026-09-05,Gradient Boosting,Subiu,True,50.2,Desceu,Subiu
-2026-08-29,32,Who Will You Follow,Evanescence,whowillyoufollow|evanescence,Subiu,2026-09-05,Gradient Boosting,Desceu,False,34.3,Desceu,Subiu
-2026-08-29,33,Bug In The Cake,Violet Grohl,buginthecake|violetgrohl,Subiu,2026-09-05,Gradient Boosting,Desceu,False,40.6,Desceu,Subiu
-2026-08-29,34,Backseat Drivin',"Slightly Stoopid , Wiz Khalifa & G. Love",backseatdrivin|slightlystoopidwizkhalifaglove,Subiu,2026-09-05,Gradient Boosting,Subiu,True,61.9,Manteve,Subiu
+2026-08-29,1,Self Aware,Temper City,selfaware|tempercity,Manteve,2026-09-05,Gradient Boosting,Manteve,True,52.5,Manteve,Subiu
+2026-08-29,2,Beaches In Tennessee,Cage the Elephant,beachesintennessee|cagetheelephant,Desceu,2026-09-05,Gradient Boosting,Manteve,False,45.3,Manteve,Subiu
+2026-08-29,3,In My Room,Julia Wolf,inmyroom|juliawolf,Subiu,2026-09-05,Gradient Boosting,Manteve,False,33.1,Manteve,Subiu
+2026-08-29,4,Freakin' Out,Dexter And The Moonrocks,freakinout|dexterandthemoonrocks,Manteve,2026-09-05,Gradient Boosting,Desceu,False,45.4,Subiu,Subiu
+2026-08-29,5,Going Shopping,The Strokes,goingshopping|thestrokes,Desceu,2026-09-05,Gradient Boosting,Subiu,False,46.1,Subiu,Subiu
+2026-08-29,6,Doors,Noah Kahan,doors|noahkahan,Subiu,2026-09-05,Gradient Boosting,Subiu,True,46.1,Subiu,Subiu
+2026-08-29,7,Picking Dragons' Pockets,Modest Mouse,pickingdragonspockets|modestmouse,Subiu,2026-09-05,Gradient Boosting,Subiu,True,43.7,Manteve,Subiu
+2026-08-29,8,Babydoll,Dominic Fike,babydoll|dominicfike,Subiu,2026-09-05,Gradient Boosting,Subiu,True,50.1,Subiu,Subiu
+2026-08-29,9,Fool's Gold,Buffalo Traffic Jam,foolsgold|buffalotrafficjam,Subiu,2026-09-05,Gradient Boosting,Subiu,True,50.1,Manteve,Subiu
+2026-08-29,10,Riptides,Death Cab for Cutie,riptides|deathcabforcutie,Saiu,2026-09-05,Gradient Boosting,Desceu,False,58.4,Desceu,Subiu
+2026-08-29,11,We Might As Well Be Strangers,Weezer Featuring Wednesday,wemightaswellbestrangers|weezerfeaturingwednesday,Subiu,2026-09-05,Gradient Boosting,Subiu,True,48.2,Subiu,Subiu
+2026-08-29,12,no more regrets,almost monday,nomoreregrets|almostmonday,Subiu,2026-09-05,Gradient Boosting,Subiu,True,48.3,Desceu,Subiu
+2026-08-29,13,Until The Sun Explodes,Sublime,untilthesunexplodes|sublime,Manteve,2026-09-05,Gradient Boosting,Desceu,False,54.5,Desceu,Subiu
+2026-08-29,14,Headlights,In Color,headlights|incolor,Saiu,2026-09-05,Gradient Boosting,Desceu,False,55.8,Desceu,Subiu
+2026-08-29,15,I Used To Go To This Bar,Joyce Manor,iusedtogotothisbar|joycemanor,Manteve,2026-09-05,Gradient Boosting,Subiu,False,50.1,Manteve,Subiu
+2026-08-29,16,Window,Foo Fighters,window|foofighters,Subiu,2026-09-05,Gradient Boosting,Subiu,True,59.6,Subiu,Subiu
+2026-08-29,17,Hold Me In The Dark,Myles Smith,holdmeinthedark|mylessmith,Subiu,2026-09-05,Gradient Boosting,Subiu,True,48.3,Desceu,Subiu
+2026-08-29,18,Loser,Tame Impala,loser|tameimpala,Subiu,2026-09-05,Gradient Boosting,Subiu,True,62.9,Subiu,Subiu
+2026-08-29,19,Love To Go,Edgehill,lovetogo|edgehill,Subiu,2026-09-05,Gradient Boosting,Subiu,True,50.2,Desceu,Subiu
+2026-08-29,20,Rein Me In,Sam Fender & Olivia Dean,reinmein|samfenderoliviadean,Subiu,2026-09-05,Gradient Boosting,Subiu,True,52.1,Manteve,Subiu
+2026-08-29,21,Private,The Neighbourhood,private|theneighbourhood,Subiu,2026-09-05,Gradient Boosting,Subiu,True,52.1,Subiu,Subiu
+2026-08-29,22,Lost Boys,Phoebe Bridgers,lostboys|phoebebridgers,Manteve,2026-09-05,Gradient Boosting,Subiu,False,52.1,Subiu,Subiu
+2026-08-29,23,Evergreen,Young the Giant,evergreen|youngthegiant,Subiu,2026-09-05,Gradient Boosting,Subiu,True,52.1,Subiu,Subiu
+2026-08-29,24,Edge Of The Earth,The Beaches,edgeoftheearth|thebeaches,Subiu,2026-09-05,Gradient Boosting,Subiu,True,52.1,Subiu,Subiu
+2026-08-29,25,My Love,M.O.T.H.E.R.,mylove|mother,Desceu,2026-09-05,Gradient Boosting,Desceu,True,43.8,Desceu,Subiu
+2026-08-29,26,Absolution,Switchfoot,absolution|switchfoot,Manteve,2026-09-05,Gradient Boosting,Subiu,False,52.3,Subiu,Subiu
+2026-08-29,27,I Kinda Like That,The Paradox,ikindalikethat|theparadox,Subiu,2026-09-05,Gradient Boosting,Subiu,True,65.0,Subiu,Subiu
+2026-08-29,28,Don't Wanna Go Home Tonight,Three Days Grace,dontwannagohometonight|threedaysgrace,Subiu,2026-09-05,Gradient Boosting,Subiu,True,65.0,Subiu,Subiu
+2026-08-29,29,Young Again,Shinedown,youngagain|shinedown,Subiu,2026-09-05,Gradient Boosting,Subiu,True,59.1,Subiu,Subiu
+2026-08-29,30,See Out Loud,Interpol,seeoutloud|interpol,Subiu,2026-09-05,Gradient Boosting,Subiu,True,47.0,Desceu,Subiu
+2026-08-29,31,Heart Stop,The Revivalists,heartstop|therevivalists,Subiu,2026-09-05,Gradient Boosting,Subiu,True,50.5,Desceu,Subiu
+2026-08-29,32,Who Will You Follow,Evanescence,whowillyoufollow|evanescence,Subiu,2026-09-05,Gradient Boosting,Desceu,False,34.5,Desceu,Subiu
+2026-08-29,33,Bug In The Cake,Violet Grohl,buginthecake|violetgrohl,Subiu,2026-09-05,Gradient Boosting,Desceu,False,41.6,Desceu,Subiu
+2026-08-29,34,Backseat Drivin',"Slightly Stoopid , Wiz Khalifa & G. Love",backseatdrivin|slightlystoopidwizkhalifaglove,Subiu,2026-09-05,Gradient Boosting,Subiu,True,61.5,Manteve,Subiu
 2026-08-29,35,Tonight,Social Distortion,tonight|socialdistortion,Subiu,2026-09-05,Gradient Boosting,Subiu,True,61.9,Subiu,Subiu
-2026-08-29,36,My Body Isn't Ready,sombr,mybodyisntready|sombr,Desceu,2026-09-05,Gradient Boosting,Subiu,False,47.7,Desceu,Subiu
-2026-08-29,37,Cryogen,Muse,cryogen|muse,Subiu,2026-09-05,Gradient Boosting,Subiu,True,64.1,Subiu,Subiu
+2026-08-29,36,My Body Isn't Ready,sombr,mybodyisntready|sombr,Desceu,2026-09-05,Gradient Boosting,Subiu,False,47.2,Desceu,Subiu
+2026-08-29,37,Cryogen,Muse,cryogen|muse,Subiu,2026-09-05,Gradient Boosting,Subiu,True,64.2,Subiu,Subiu
 2026-08-29,38,Delicate,Bike Routes Featuring Jake Clemons,delicate|bikeroutesfeaturingjakeclemons,Subiu,2026-09-05,Gradient Boosting,Subiu,True,38.9,Manteve,Subiu
 2026-08-29,39,Crash First,honestav & MGK,crashfirst|honestavmgk,Subiu,2026-09-05,Gradient Boosting,Subiu,True,59.4,Manteve,Subiu
 2026-08-29,40,Burning Out,The Linda Lindas,burningout|thelindalindas,Subiu,2026-09-05,Gradient Boosting,Subiu,True,59.4,Manteve,Subiu
-2026-09-05,1,Self Aware,Temper City,selfaware|tempercity,Manteve,2026-09-12,Gradient Boosting,Manteve,True,52.2,Manteve,Subiu
-2026-09-05,2,In My Room,Julia Wolf,inmyroom|juliawolf,Manteve,2026-09-12,Gradient Boosting,Manteve,True,39.8,Subiu,Subiu
-2026-09-05,3,Beaches In Tennessee,Cage the Elephant,beachesintennessee|cagetheelephant,Manteve,2026-09-12,Gradient Boosting,Desceu,False,38.3,Desceu,Subiu
-2026-09-05,4,Freakin' Out,Dexter And The Moonrocks,freakinout|dexterandthemoonrocks,Desceu,2026-09-12,Gradient Boosting,Desceu,True,41.5,Manteve,Subiu
-2026-09-05,5,Doors,Noah Kahan,doors|noahkahan,Subiu,2026-09-12,Gradient Boosting,Subiu,True,48.0,Subiu,Subiu
-2026-09-05,6,Picking Dragons' Pockets,Modest Mouse,pickingdragonspockets|modestmouse,Desceu,2026-09-12,Gradient Boosting,Subiu,False,46.4,Subiu,Subiu
-2026-09-05,7,Babydoll,Dominic Fike,babydoll|dominicfike,Manteve,2026-09-12,Gradient Boosting,Subiu,False,48.0,Subiu,Subiu
-2026-09-05,8,Fool's Gold,Buffalo Traffic Jam,foolsgold|buffalotrafficjam,Subiu,2026-09-12,Gradient Boosting,Subiu,True,48.4,Subiu,Subiu
-2026-09-05,9,We Might As Well Be Strangers,Weezer Featuring Wednesday,wemightaswellbestrangers|weezerfeaturingwednesday,Manteve,2026-09-12,Gradient Boosting,Subiu,False,50.0,Subiu,Subiu
-2026-09-05,10,no more regrets,almost monday,nomoreregrets|almostmonday,Desceu,2026-09-12,Gradient Boosting,Subiu,False,47.6,Subiu,Subiu
-2026-09-05,11,Loser,Tame Impala,loser|tameimpala,Subiu,2026-09-12,Gradient Boosting,Subiu,True,59.5,Subiu,Subiu
-2026-09-05,12,Going Shopping,The Strokes,goingshopping|thestrokes,Saiu,2026-09-12,Gradient Boosting,Desceu,False,45.9,Desceu,Subiu
+2026-09-05,1,Self Aware,Temper City,selfaware|tempercity,Manteve,2026-09-12,Gradient Boosting,Manteve,True,52.5,Manteve,Subiu
+2026-09-05,2,In My Room,Julia Wolf,inmyroom|juliawolf,Manteve,2026-09-12,Gradient Boosting,Manteve,True,40.0,Subiu,Subiu
+2026-09-05,3,Beaches In Tennessee,Cage the Elephant,beachesintennessee|cagetheelephant,Manteve,2026-09-12,Gradient Boosting,Desceu,False,38.2,Desceu,Subiu
+2026-09-05,4,Freakin' Out,Dexter And The Moonrocks,freakinout|dexterandthemoonrocks,Desceu,2026-09-12,Gradient Boosting,Desceu,True,41.6,Manteve,Subiu
+2026-09-05,5,Doors,Noah Kahan,doors|noahkahan,Subiu,2026-09-12,Gradient Boosting,Subiu,True,47.9,Subiu,Subiu
+2026-09-05,6,Picking Dragons' Pockets,Modest Mouse,pickingdragonspockets|modestmouse,Desceu,2026-09-12,Gradient Boosting,Subiu,False,46.1,Subiu,Subiu
+2026-09-05,7,Babydoll,Dominic Fike,babydoll|dominicfike,Manteve,2026-09-12,Gradient Boosting,Subiu,False,47.9,Subiu,Subiu
+2026-09-05,8,Fool's Gold,Buffalo Traffic Jam,foolsgold|buffalotrafficjam,Subiu,2026-09-12,Gradient Boosting,Subiu,True,48.2,Subiu,Subiu
+2026-09-05,9,We Might As Well Be Strangers,Weezer Featuring Wednesday,wemightaswellbestrangers|weezerfeaturingwednesday,Manteve,2026-09-12,Gradient Boosting,Subiu,False,50.1,Subiu,Subiu
+2026-09-05,10,no more regrets,almost monday,nomoreregrets|almostmonday,Desceu,2026-09-12,Gradient Boosting,Subiu,False,47.4,Subiu,Subiu
+2026-09-05,11,Loser,Tame Impala,loser|tameimpala,Subiu,2026-09-12,Gradient Boosting,Subiu,True,59.6,Subiu,Subiu
+2026-09-05,12,Going Shopping,The Strokes,goingshopping|thestrokes,Saiu,2026-09-12,Gradient Boosting,Desceu,False,45.8,Desceu,Subiu
 2026-09-05,13,Until The Sun Explodes,Sublime,untilthesunexplodes|sublime,Saiu,2026-09-12,Gradient Boosting,Desceu,False,48.8,Manteve,Subiu
-2026-09-05,14,Window,Foo Fighters,window|foofighters,Subiu,2026-09-12,Gradient Boosting,Subiu,True,59.5,Subiu,Subiu
-2026-09-05,15,I Used To Go To This Bar,Joyce Manor,iusedtogotothisbar|joycemanor,Manteve,2026-09-12,Gradient Boosting,Subiu,False,45.9,Manteve,Subiu
-2026-09-05,16,Hold Me In The Dark,Myles Smith,holdmeinthedark|mylessmith,Manteve,2026-09-12,Gradient Boosting,Subiu,False,45.1,Subiu,Subiu
-2026-09-05,17,Love To Go,Edgehill,lovetogo|edgehill,Subiu,2026-09-12,Gradient Boosting,Subiu,True,47.6,Subiu,Subiu
-2026-09-05,18,Rein Me In,Sam Fender & Olivia Dean,reinmein|samfenderoliviadean,Subiu,2026-09-12,Gradient Boosting,Subiu,True,48.4,Subiu,Subiu
-2026-09-05,19,Private,The Neighbourhood,private|theneighbourhood,Subiu,2026-09-12,Gradient Boosting,Subiu,True,52.2,Subiu,Subiu
+2026-09-05,14,Window,Foo Fighters,window|foofighters,Subiu,2026-09-12,Gradient Boosting,Subiu,True,59.2,Subiu,Subiu
+2026-09-05,15,I Used To Go To This Bar,Joyce Manor,iusedtogotothisbar|joycemanor,Manteve,2026-09-12,Gradient Boosting,Subiu,False,45.7,Manteve,Subiu
+2026-09-05,16,Hold Me In The Dark,Myles Smith,holdmeinthedark|mylessmith,Manteve,2026-09-12,Gradient Boosting,Subiu,False,44.9,Subiu,Subiu
+2026-09-05,17,Love To Go,Edgehill,lovetogo|edgehill,Subiu,2026-09-12,Gradient Boosting,Subiu,True,47.4,Subiu,Subiu
+2026-09-05,18,Rein Me In,Sam Fender & Olivia Dean,reinmein|samfenderoliviadean,Subiu,2026-09-12,Gradient Boosting,Subiu,True,48.2,Subiu,Subiu
+2026-09-05,19,Private,The Neighbourhood,private|theneighbourhood,Subiu,2026-09-12,Gradient Boosting,Subiu,True,52.1,Subiu,Subiu
 2026-09-05,20,I Kinda Like That,The Paradox,ikindalikethat|theparadox,Subiu,2026-09-12,Gradient Boosting,Subiu,True,61.6,Subiu,Subiu
-2026-09-05,21,Evergreen,Young the Giant,evergreen|youngthegiant,Subiu,2026-09-12,Gradient Boosting,Subiu,True,52.2,Subiu,Subiu
-2026-09-05,22,Lost Boys,Phoebe Bridgers,lostboys|phoebebridgers,Subiu,2026-09-12,Gradient Boosting,Subiu,True,52.2,Manteve,Subiu
-2026-09-05,23,Edge Of The Earth,The Beaches,edgeoftheearth|thebeaches,Subiu,2026-09-12,Gradient Boosting,Subiu,True,52.2,Subiu,Subiu
-2026-09-05,24,Young Again,Shinedown,youngagain|shinedown,Subiu,2026-09-12,Gradient Boosting,Subiu,True,54.7,Subiu,Subiu
-2026-09-05,25,Don't Wanna Go Home Tonight,Three Days Grace,dontwannagohometonight|threedaysgrace,Subiu,2026-09-12,Gradient Boosting,Subiu,True,61.9,Subiu,Subiu
-2026-09-05,26,Absolution,Switchfoot,absolution|switchfoot,Manteve,2026-09-12,Gradient Boosting,Subiu,False,52.3,Manteve,Subiu
-2026-09-05,27,Bug In The Cake,Violet Grohl,buginthecake|violetgrohl,Subiu,2026-09-12,Gradient Boosting,Subiu,True,49.8,Subiu,Subiu
-2026-09-05,28,Backseat Drivin',"Slightly Stoopid , Wiz Khalifa & G. Love",backseatdrivin|slightlystoopidwizkhalifaglove,Subiu,2026-09-12,Gradient Boosting,Subiu,True,56.8,Subiu,Subiu
-2026-09-05,29,See Out Loud,Interpol,seeoutloud|interpol,Subiu,2026-09-12,Gradient Boosting,Subiu,True,44.2,Subiu,Subiu
-2026-09-05,30,Heart Stop,The Revivalists,heartstop|therevivalists,Subiu,2026-09-12,Gradient Boosting,Subiu,True,47.3,Subiu,Subiu
-2026-09-05,31,Who Will You Follow,Evanescence,whowillyoufollow|evanescence,Subiu,2026-09-12,Gradient Boosting,Desceu,False,34.9,Subiu,Subiu
-2026-09-05,32,Tonight,Social Distortion,tonight|socialdistortion,Desceu,2026-09-12,Gradient Boosting,Subiu,False,61.9,Subiu,Subiu
+2026-09-05,21,Evergreen,Young the Giant,evergreen|youngthegiant,Subiu,2026-09-12,Gradient Boosting,Subiu,True,52.1,Subiu,Subiu
+2026-09-05,22,Lost Boys,Phoebe Bridgers,lostboys|phoebebridgers,Subiu,2026-09-12,Gradient Boosting,Subiu,True,52.1,Manteve,Subiu
+2026-09-05,23,Edge Of The Earth,The Beaches,edgeoftheearth|thebeaches,Subiu,2026-09-12,Gradient Boosting,Subiu,True,52.1,Subiu,Subiu
+2026-09-05,24,Young Again,Shinedown,youngagain|shinedown,Subiu,2026-09-12,Gradient Boosting,Subiu,True,54.5,Subiu,Subiu
+2026-09-05,25,Don't Wanna Go Home Tonight,Three Days Grace,dontwannagohometonight|threedaysgrace,Subiu,2026-09-12,Gradient Boosting,Subiu,True,61.7,Subiu,Subiu
+2026-09-05,26,Absolution,Switchfoot,absolution|switchfoot,Manteve,2026-09-12,Gradient Boosting,Subiu,False,52.1,Manteve,Subiu
+2026-09-05,27,Bug In The Cake,Violet Grohl,buginthecake|violetgrohl,Subiu,2026-09-12,Gradient Boosting,Subiu,True,49.4,Subiu,Subiu
+2026-09-05,28,Backseat Drivin',"Slightly Stoopid , Wiz Khalifa & G. Love",backseatdrivin|slightlystoopidwizkhalifaglove,Subiu,2026-09-12,Gradient Boosting,Subiu,True,57.0,Subiu,Subiu
+2026-09-05,29,See Out Loud,Interpol,seeoutloud|interpol,Subiu,2026-09-12,Gradient Boosting,Subiu,True,43.8,Subiu,Subiu
+2026-09-05,30,Heart Stop,The Revivalists,heartstop|therevivalists,Subiu,2026-09-12,Gradient Boosting,Subiu,True,47.1,Subiu,Subiu
+2026-09-05,31,Who Will You Follow,Evanescence,whowillyoufollow|evanescence,Subiu,2026-09-12,Gradient Boosting,Desceu,False,35.3,Subiu,Subiu
+2026-09-05,32,Tonight,Social Distortion,tonight|socialdistortion,Desceu,2026-09-12,Gradient Boosting,Subiu,False,61.5,Subiu,Subiu
 2026-09-05,33,Cryogen,Muse,cryogen|muse,Subiu,2026-09-12,Gradient Boosting,Subiu,True,61.9,Subiu,Subiu
 2026-09-05,34,Crash First,honestav & MGK,crashfirst|honestavmgk,Manteve,2026-09-12,Gradient Boosting,Subiu,False,65.1,Subiu,Subiu
-2026-09-05,35,My Love,M.O.T.H.E.R.,mylove|mother,Desceu,2026-09-12,Gradient Boosting,Desceu,True,34.3,Desceu,Subiu
-2026-09-05,36,Delicate,Bike Routes Featuring Jake Clemons,delicate|bikeroutesfeaturingjakeclemons,Desceu,2026-09-12,Gradient Boosting,Subiu,False,49.8,Subiu,Subiu
+2026-09-05,35,My Love,M.O.T.H.E.R.,mylove|mother,Desceu,2026-09-12,Gradient Boosting,Desceu,True,34.5,Desceu,Subiu
+2026-09-05,36,Delicate,Bike Routes Featuring Jake Clemons,delicate|bikeroutesfeaturingjakeclemons,Desceu,2026-09-12,Gradient Boosting,Subiu,False,49.5,Subiu,Subiu
 2026-09-05,37,My Body Isn't Ready,sombr,mybodyisntready|sombr,Subiu,2026-09-12,Gradient Boosting,Subiu,True,37.0,Desceu,Subiu
 2026-09-05,38,Burning Out,The Linda Lindas,burningout|thelindalindas,Subiu,2026-09-12,Gradient Boosting,Subiu,True,61.8,Subiu,Subiu
 2026-09-05,39,Good Times // End Times,Goose,goodtimesendtimes|goose,Subiu,2026-09-12,Gradient Boosting,Subiu,True,59.4,Manteve,Subiu
 2026-09-05,40,Marianne,FONTAINES D.C.,marianne|fontainesdc,Subiu,2026-09-12,Gradient Boosting,Subiu,True,59.4,Manteve,Subiu
-2026-09-12,1,Self Aware,Temper City,selfaware|tempercity,Desceu,2026-09-19,Gradient Boosting,Manteve,False,52.2,Manteve,Subiu
-2026-09-12,2,In My Room,Julia Wolf,inmyroom|juliawolf,Desceu,2026-09-19,Gradient Boosting,Manteve,False,40.9,Manteve,Subiu
-2026-09-12,3,Beaches In Tennessee,Cage the Elephant,beachesintennessee|cagetheelephant,Subiu,2026-09-19,Gradient Boosting,Desceu,False,48.5,Manteve,Subiu
-2026-09-12,4,Doors,Noah Kahan,doors|noahkahan,Desceu,2026-09-19,Gradient Boosting,Subiu,False,43.2,Subiu,Subiu
-2026-09-12,5,Fool's Gold,Buffalo Traffic Jam,foolsgold|buffalotrafficjam,Subiu,2026-09-19,Gradient Boosting,Subiu,True,48.0,Subiu,Subiu
-2026-09-12,6,Freakin' Out,Dexter And The Moonrocks,freakinout|dexterandthemoonrocks,Desceu,2026-09-19,Gradient Boosting,Desceu,True,58.7,Desceu,Subiu
-2026-09-12,7,Babydoll,Dominic Fike,babydoll|dominicfike,Manteve,2026-09-19,Gradient Boosting,Subiu,False,48.0,Manteve,Subiu
-2026-09-12,8,Picking Dragons' Pockets,Modest Mouse,pickingdragonspockets|modestmouse,Desceu,2026-09-19,Gradient Boosting,Subiu,False,40.0,Desceu,Subiu
-2026-09-12,9,We Might As Well Be Strangers,Weezer Featuring Wednesday,wemightaswellbestrangers|weezerfeaturingwednesday,Subiu,2026-09-19,Gradient Boosting,Subiu,True,50.0,Manteve,Subiu
-2026-09-12,10,Loser,Tame Impala,loser|tameimpala,Subiu,2026-09-19,Gradient Boosting,Subiu,True,59.5,Subiu,Subiu
-2026-09-12,11,no more regrets,almost monday,nomoreregrets|almostmonday,Subiu,2026-09-19,Gradient Boosting,Subiu,True,47.9,Desceu,Subiu
-2026-09-12,12,Window,Foo Fighters,window|foofighters,Manteve,2026-09-19,Gradient Boosting,Subiu,False,56.1,Subiu,Subiu
-2026-09-12,13,Love To Go,Edgehill,lovetogo|edgehill,Manteve,2026-09-19,Gradient Boosting,Subiu,False,50.0,Subiu,Subiu
-2026-09-12,14,Rein Me In,Sam Fender & Olivia Dean,reinmein|samfenderoliviadean,Manteve,2026-09-19,Gradient Boosting,Subiu,False,50.0,Subiu,Subiu
-2026-09-12,15,I Used To Go To This Bar,Joyce Manor,iusedtogotothisbar|joycemanor,Subiu,2026-09-19,Gradient Boosting,Subiu,True,45.9,Manteve,Subiu
-2026-09-12,16,Hold Me In The Dark,Myles Smith,holdmeinthedark|mylessmith,Desceu,2026-09-19,Gradient Boosting,Subiu,False,50.0,Manteve,Subiu
-2026-09-12,17,I Kinda Like That,The Paradox,ikindalikethat|theparadox,Desceu,2026-09-19,Gradient Boosting,Subiu,False,59.5,Subiu,Subiu
-2026-09-12,18,Private,The Neighbourhood,private|theneighbourhood,Subiu,2026-09-19,Gradient Boosting,Subiu,True,50.0,Subiu,Subiu
-2026-09-12,19,Evergreen,Young the Giant,evergreen|youngthegiant,Subiu,2026-09-19,Gradient Boosting,Subiu,True,52.2,Subiu,Subiu
-2026-09-12,20,Lost Boys,Phoebe Bridgers,lostboys|phoebebridgers,Manteve,2026-09-19,Gradient Boosting,Subiu,False,50.4,Subiu,Subiu
-2026-09-12,21,Edge Of The Earth,The Beaches,edgeoftheearth|thebeaches,Desceu,2026-09-19,Gradient Boosting,Subiu,False,52.2,Subiu,Subiu
-2026-09-12,22,Don't Wanna Go Home Tonight,Three Days Grace,dontwannagohometonight|threedaysgrace,Subiu,2026-09-19,Gradient Boosting,Subiu,True,61.6,Subiu,Subiu
-2026-09-12,23,Young Again,Shinedown,youngagain|shinedown,Subiu,2026-09-19,Gradient Boosting,Subiu,True,52.2,Subiu,Subiu
-2026-09-12,24,Backseat Drivin',"Slightly Stoopid , Wiz Khalifa & G. Love",backseatdrivin|slightlystoopidwizkhalifaglove,Manteve,2026-09-19,Gradient Boosting,Subiu,False,54.7,Subiu,Subiu
-2026-09-12,25,Bug In The Cake,Violet Grohl,buginthecake|violetgrohl,Desceu,2026-09-19,Gradient Boosting,Subiu,False,52.5,Subiu,Subiu
-2026-09-12,26,Absolution,Switchfoot,absolution|switchfoot,Desceu,2026-09-19,Gradient Boosting,Subiu,False,48.1,Manteve,Subiu
-2026-09-12,27,Heart Stop,The Revivalists,heartstop|therevivalists,Subiu,2026-09-19,Gradient Boosting,Subiu,True,52.5,Subiu,Subiu
-2026-09-12,28,See Out Loud,Interpol,seeoutloud|interpol,Desceu,2026-09-19,Gradient Boosting,Subiu,False,47.0,Subiu,Subiu
-2026-09-12,29,Who Will You Follow,Evanescence,whowillyoufollow|evanescence,Saiu,2026-09-19,Gradient Boosting,Desceu,False,31.9,Subiu,Subiu
-2026-09-12,30,Cryogen,Muse,cryogen|muse,Subiu,2026-09-19,Gradient Boosting,Subiu,True,61.9,Subiu,Subiu
+2026-09-12,1,Self Aware,Temper City,selfaware|tempercity,Desceu,2026-09-19,Gradient Boosting,Manteve,False,52.5,Manteve,Subiu
+2026-09-12,2,In My Room,Julia Wolf,inmyroom|juliawolf,Desceu,2026-09-19,Gradient Boosting,Manteve,False,40.8,Manteve,Subiu
+2026-09-12,3,Beaches In Tennessee,Cage the Elephant,beachesintennessee|cagetheelephant,Subiu,2026-09-19,Gradient Boosting,Desceu,False,47.7,Manteve,Subiu
+2026-09-12,4,Doors,Noah Kahan,doors|noahkahan,Desceu,2026-09-19,Gradient Boosting,Subiu,False,43.0,Subiu,Subiu
+2026-09-12,5,Fool's Gold,Buffalo Traffic Jam,foolsgold|buffalotrafficjam,Subiu,2026-09-19,Gradient Boosting,Subiu,True,47.9,Subiu,Subiu
+2026-09-12,6,Freakin' Out,Dexter And The Moonrocks,freakinout|dexterandthemoonrocks,Desceu,2026-09-19,Gradient Boosting,Desceu,True,60.0,Desceu,Subiu
+2026-09-12,7,Babydoll,Dominic Fike,babydoll|dominicfike,Manteve,2026-09-19,Gradient Boosting,Subiu,False,47.9,Manteve,Subiu
+2026-09-12,8,Picking Dragons' Pockets,Modest Mouse,pickingdragonspockets|modestmouse,Desceu,2026-09-19,Gradient Boosting,Subiu,False,39.7,Desceu,Subiu
+2026-09-12,9,We Might As Well Be Strangers,Weezer Featuring Wednesday,wemightaswellbestrangers|weezerfeaturingwednesday,Subiu,2026-09-19,Gradient Boosting,Subiu,True,50.1,Manteve,Subiu
+2026-09-12,10,Loser,Tame Impala,loser|tameimpala,Subiu,2026-09-19,Gradient Boosting,Subiu,True,59.2,Subiu,Subiu
+2026-09-12,11,no more regrets,almost monday,nomoreregrets|almostmonday,Subiu,2026-09-19,Gradient Boosting,Subiu,True,48.3,Desceu,Subiu
+2026-09-12,12,Window,Foo Fighters,window|foofighters,Manteve,2026-09-19,Gradient Boosting,Subiu,False,56.8,Subiu,Subiu
+2026-09-12,13,Love To Go,Edgehill,lovetogo|edgehill,Manteve,2026-09-19,Gradient Boosting,Subiu,False,50.1,Subiu,Subiu
+2026-09-12,14,Rein Me In,Sam Fender & Olivia Dean,reinmein|samfenderoliviadean,Manteve,2026-09-19,Gradient Boosting,Subiu,False,50.1,Subiu,Subiu
+2026-09-12,15,I Used To Go To This Bar,Joyce Manor,iusedtogotothisbar|joycemanor,Subiu,2026-09-19,Gradient Boosting,Subiu,True,45.7,Manteve,Subiu
+2026-09-12,16,Hold Me In The Dark,Myles Smith,holdmeinthedark|mylessmith,Desceu,2026-09-19,Gradient Boosting,Subiu,False,50.1,Manteve,Subiu
+2026-09-12,17,I Kinda Like That,The Paradox,ikindalikethat|theparadox,Desceu,2026-09-19,Gradient Boosting,Subiu,False,59.2,Subiu,Subiu
+2026-09-12,18,Private,The Neighbourhood,private|theneighbourhood,Subiu,2026-09-19,Gradient Boosting,Subiu,True,50.1,Subiu,Subiu
+2026-09-12,19,Evergreen,Young the Giant,evergreen|youngthegiant,Subiu,2026-09-19,Gradient Boosting,Subiu,True,52.1,Subiu,Subiu
+2026-09-12,20,Lost Boys,Phoebe Bridgers,lostboys|phoebebridgers,Manteve,2026-09-19,Gradient Boosting,Subiu,False,50.2,Subiu,Subiu
+2026-09-12,21,Edge Of The Earth,The Beaches,edgeoftheearth|thebeaches,Desceu,2026-09-19,Gradient Boosting,Subiu,False,52.1,Subiu,Subiu
+2026-09-12,22,Don't Wanna Go Home Tonight,Three Days Grace,dontwannagohometonight|threedaysgrace,Subiu,2026-09-19,Gradient Boosting,Subiu,True,61.1,Subiu,Subiu
+2026-09-12,23,Young Again,Shinedown,youngagain|shinedown,Subiu,2026-09-19,Gradient Boosting,Subiu,True,52.1,Subiu,Subiu
+2026-09-12,24,Backseat Drivin',"Slightly Stoopid , Wiz Khalifa & G. Love",backseatdrivin|slightlystoopidwizkhalifaglove,Manteve,2026-09-19,Gradient Boosting,Subiu,False,54.5,Subiu,Subiu
+2026-09-12,25,Bug In The Cake,Violet Grohl,buginthecake|violetgrohl,Desceu,2026-09-19,Gradient Boosting,Subiu,False,52.3,Subiu,Subiu
+2026-09-12,26,Absolution,Switchfoot,absolution|switchfoot,Desceu,2026-09-19,Gradient Boosting,Subiu,False,47.7,Manteve,Subiu
+2026-09-12,27,Heart Stop,The Revivalists,heartstop|therevivalists,Subiu,2026-09-19,Gradient Boosting,Subiu,True,52.3,Subiu,Subiu
+2026-09-12,28,See Out Loud,Interpol,seeoutloud|interpol,Desceu,2026-09-19,Gradient Boosting,Subiu,False,47.1,Subiu,Subiu
+2026-09-12,29,Who Will You Follow,Evanescence,whowillyoufollow|evanescence,Saiu,2026-09-19,Gradient Boosting,Desceu,False,32.2,Subiu,Subiu
+2026-09-12,30,Cryogen,Muse,cryogen|muse,Subiu,2026-09-19,Gradient Boosting,Subiu,True,61.5,Subiu,Subiu
 2026-09-12,31,Burning Out,The Linda Lindas,burningout|thelindalindas,Desceu,2026-09-19,Gradient Boosting,Subiu,False,61.9,Subiu,Subiu
 2026-09-12,32,Marianne,FONTAINES D.C.,marianne|fontainesdc,Subiu,2026-09-19,Gradient Boosting,Subiu,True,65.1,Subiu,Subiu
-2026-09-12,33,Tonight,Social Distortion,tonight|socialdistortion,Manteve,2026-09-19,Gradient Boosting,Subiu,False,56.3,Desceu,Subiu
+2026-09-12,33,Tonight,Social Distortion,tonight|socialdistortion,Manteve,2026-09-19,Gradient Boosting,Subiu,False,57.2,Desceu,Subiu
 2026-09-12,34,Crash First,honestav & MGK,crashfirst|honestavmgk,Manteve,2026-09-19,Gradient Boosting,Subiu,False,61.9,Manteve,Subiu
 2026-09-12,35,Good Times // End Times,Goose,goodtimesendtimes|goose,Manteve,2026-09-19,Gradient Boosting,Subiu,False,65.1,Subiu,Subiu
-2026-09-12,36,My Body Isn't Ready,sombr,mybodyisntready|sombr,Manteve,2026-09-19,Gradient Boosting,Subiu,False,38.5,Subiu,Subiu
-2026-09-12,37,Delicate,Bike Routes Featuring Jake Clemons,delicate|bikeroutesfeaturingjakeclemons,Desceu,2026-09-19,Gradient Boosting,Subiu,False,49.3,Desceu,Subiu
+2026-09-12,36,My Body Isn't Ready,sombr,mybodyisntready|sombr,Manteve,2026-09-19,Gradient Boosting,Subiu,False,38.4,Subiu,Subiu
+2026-09-12,37,Delicate,Bike Routes Featuring Jake Clemons,delicate|bikeroutesfeaturingjakeclemons,Desceu,2026-09-19,Gradient Boosting,Subiu,False,49.6,Desceu,Subiu
 2026-09-12,38,Oh Yeah?,Steve Lacy,ohyeah|stevelacy,Subiu,2026-09-19,Gradient Boosting,Subiu,True,61.8,Manteve,Subiu
 2026-09-12,39,Neighbors Blues,Jack White,neighborsblues|jackwhite,Subiu,2026-09-19,Gradient Boosting,Subiu,True,59.4,Manteve,Subiu
-2026-09-12,40,My Love,M.O.T.H.E.R.,mylove|mother,Saiu,2026-09-19,Gradient Boosting,Saiu,True,69.8,Desceu,Subiu
-2026-09-19,1,Beaches In Tennessee,Cage the Elephant,beachesintennessee|cagetheelephant,Manteve,2026-09-26,Gradient Boosting,Manteve,True,50.2,Subiu,Subiu
-2026-09-19,2,Self Aware,Temper City,selfaware|tempercity,Manteve,2026-09-26,Gradient Boosting,Desceu,False,44.4,Desceu,Subiu
-2026-09-19,3,In My Room,Julia Wolf,inmyroom|juliawolf,Manteve,2026-09-26,Gradient Boosting,Desceu,False,47.9,Desceu,Subiu
-2026-09-19,4,Fool's Gold,Buffalo Traffic Jam,foolsgold|buffalotrafficjam,Manteve,2026-09-26,Gradient Boosting,Subiu,False,43.2,Subiu,Subiu
-2026-09-19,5,Doors,Noah Kahan,doors|noahkahan,Manteve,2026-09-26,Gradient Boosting,Subiu,False,43.6,Desceu,Subiu
-2026-09-19,6,We Might As Well Be Strangers,Weezer Featuring Wednesday,wemightaswellbestrangers|weezerfeaturingwednesday,Manteve,2026-09-26,Gradient Boosting,Subiu,False,46.4,Subiu,Subiu
-2026-09-19,7,Babydoll,Dominic Fike,babydoll|dominicfike,Desceu,2026-09-26,Gradient Boosting,Subiu,False,44.0,Manteve,Subiu
-2026-09-19,8,Freakin' Out,Dexter And The Moonrocks,freakinout|dexterandthemoonrocks,Desceu,2026-09-26,Gradient Boosting,Desceu,True,61.3,Desceu,Subiu
-2026-09-19,9,Loser,Tame Impala,loser|tameimpala,Subiu,2026-09-26,Gradient Boosting,Subiu,True,56.1,Subiu,Subiu
-2026-09-19,10,no more regrets,almost monday,nomoreregrets|almostmonday,Subiu,2026-09-26,Gradient Boosting,Subiu,True,45.1,Subiu,Subiu
-2026-09-19,11,I Used To Go To This Bar,Joyce Manor,iusedtogotothisbar|joycemanor,Desceu,2026-09-26,Gradient Boosting,Subiu,False,48.4,Subiu,Subiu
-2026-09-19,12,Window,Foo Fighters,window|foofighters,Subiu,2026-09-26,Gradient Boosting,Subiu,True,52.2,Manteve,Subiu
-2026-09-19,13,Love To Go,Edgehill,lovetogo|edgehill,Subiu,2026-09-26,Gradient Boosting,Subiu,True,50.0,Manteve,Subiu
-2026-09-19,14,Rein Me In,Sam Fender & Olivia Dean,reinmein|samfenderoliviadean,Manteve,2026-09-26,Gradient Boosting,Subiu,False,50.0,Manteve,Subiu
-2026-09-19,15,Picking Dragons' Pockets,Modest Mouse,pickingdragonspockets|modestmouse,Saiu,2026-09-26,Gradient Boosting,Desceu,False,39.5,Desceu,Subiu
-2026-09-19,16,Evergreen,Young the Giant,evergreen|youngthegiant,Manteve,2026-09-26,Gradient Boosting,Subiu,False,50.0,Subiu,Subiu
-2026-09-19,17,Private,The Neighbourhood,private|theneighbourhood,Manteve,2026-09-26,Gradient Boosting,Subiu,False,50.0,Subiu,Subiu
-2026-09-19,18,Hold Me In The Dark,Myles Smith,holdmeinthedark|mylessmith,Desceu,2026-09-26,Gradient Boosting,Subiu,False,39.0,Desceu,Subiu
-2026-09-19,19,I Kinda Like That,The Paradox,ikindalikethat|theparadox,Subiu,2026-09-26,Gradient Boosting,Subiu,True,55.0,Desceu,Subiu
-2026-09-19,20,Lost Boys,Phoebe Bridgers,lostboys|phoebebridgers,Subiu,2026-09-26,Gradient Boosting,Subiu,True,52.2,Manteve,Subiu
-2026-09-19,21,Don't Wanna Go Home Tonight,Three Days Grace,dontwannagohometonight|threedaysgrace,Subiu,2026-09-26,Gradient Boosting,Subiu,True,58.2,Subiu,Subiu
-2026-09-19,22,Young Again,Shinedown,youngagain|shinedown,Subiu,2026-09-26,Gradient Boosting,Subiu,True,52.2,Subiu,Subiu
+2026-09-12,40,My Love,M.O.T.H.E.R.,mylove|mother,Saiu,2026-09-19,Gradient Boosting,Saiu,True,69.9,Desceu,Subiu
+2026-09-19,1,Beaches In Tennessee,Cage the Elephant,beachesintennessee|cagetheelephant,Manteve,2026-09-26,Gradient Boosting,Manteve,True,50.4,Subiu,Subiu
+2026-09-19,2,Self Aware,Temper City,selfaware|tempercity,Manteve,2026-09-26,Gradient Boosting,Desceu,False,43.8,Desceu,Subiu
+2026-09-19,3,In My Room,Julia Wolf,inmyroom|juliawolf,Manteve,2026-09-26,Gradient Boosting,Desceu,False,47.0,Desceu,Subiu
+2026-09-19,4,Fool's Gold,Buffalo Traffic Jam,foolsgold|buffalotrafficjam,Manteve,2026-09-26,Gradient Boosting,Subiu,False,43.0,Subiu,Subiu
+2026-09-19,5,Doors,Noah Kahan,doors|noahkahan,Manteve,2026-09-26,Gradient Boosting,Subiu,False,43.8,Desceu,Subiu
+2026-09-19,6,We Might As Well Be Strangers,Weezer Featuring Wednesday,wemightaswellbestrangers|weezerfeaturingwednesday,Manteve,2026-09-26,Gradient Boosting,Subiu,False,46.1,Subiu,Subiu
+2026-09-19,7,Babydoll,Dominic Fike,babydoll|dominicfike,Desceu,2026-09-26,Gradient Boosting,Subiu,False,43.7,Manteve,Subiu
+2026-09-19,8,Freakin' Out,Dexter And The Moonrocks,freakinout|dexterandthemoonrocks,Desceu,2026-09-26,Gradient Boosting,Desceu,True,62.0,Desceu,Subiu
+2026-09-19,9,Loser,Tame Impala,loser|tameimpala,Subiu,2026-09-26,Gradient Boosting,Subiu,True,56.8,Subiu,Subiu
+2026-09-19,10,no more regrets,almost monday,nomoreregrets|almostmonday,Subiu,2026-09-26,Gradient Boosting,Subiu,True,44.9,Subiu,Subiu
+2026-09-19,11,I Used To Go To This Bar,Joyce Manor,iusedtogotothisbar|joycemanor,Desceu,2026-09-26,Gradient Boosting,Subiu,False,48.2,Subiu,Subiu
+2026-09-19,12,Window,Foo Fighters,window|foofighters,Subiu,2026-09-26,Gradient Boosting,Subiu,True,52.3,Manteve,Subiu
+2026-09-19,13,Love To Go,Edgehill,lovetogo|edgehill,Subiu,2026-09-26,Gradient Boosting,Subiu,True,50.1,Manteve,Subiu
+2026-09-19,14,Rein Me In,Sam Fender & Olivia Dean,reinmein|samfenderoliviadean,Manteve,2026-09-26,Gradient Boosting,Subiu,False,50.1,Manteve,Subiu
+2026-09-19,15,Picking Dragons' Pockets,Modest Mouse,pickingdragonspockets|modestmouse,Saiu,2026-09-26,Gradient Boosting,Desceu,False,40.5,Desceu,Subiu
+2026-09-19,16,Evergreen,Young the Giant,evergreen|youngthegiant,Manteve,2026-09-26,Gradient Boosting,Subiu,False,50.1,Subiu,Subiu
+2026-09-19,17,Private,The Neighbourhood,private|theneighbourhood,Manteve,2026-09-26,Gradient Boosting,Subiu,False,50.1,Subiu,Subiu
+2026-09-19,18,Hold Me In The Dark,Myles Smith,holdmeinthedark|mylessmith,Desceu,2026-09-26,Gradient Boosting,Subiu,False,38.7,Desceu,Subiu
+2026-09-19,19,I Kinda Like That,The Paradox,ikindalikethat|theparadox,Subiu,2026-09-26,Gradient Boosting,Subiu,True,55.6,Desceu,Subiu
+2026-09-19,20,Lost Boys,Phoebe Bridgers,lostboys|phoebebridgers,Subiu,2026-09-26,Gradient Boosting,Subiu,True,52.1,Manteve,Subiu
+2026-09-19,21,Don't Wanna Go Home Tonight,Three Days Grace,dontwannagohometonight|threedaysgrace,Subiu,2026-09-26,Gradient Boosting,Subiu,True,58.8,Subiu,Subiu
+2026-09-19,22,Young Again,Shinedown,youngagain|shinedown,Subiu,2026-09-26,Gradient Boosting,Subiu,True,52.1,Subiu,Subiu
 2026-09-19,23,Edge Of The Earth,The Beaches,edgeoftheearth|thebeaches,Subiu,2026-09-26,Gradient Boosting,Subiu,True,46.4,Desceu,Subiu
-2026-09-19,24,Backseat Drivin',"Slightly Stoopid , Wiz Khalifa & G. Love",backseatdrivin|slightlystoopidwizkhalifaglove,Subiu,2026-09-26,Gradient Boosting,Subiu,True,52.3,Manteve,Subiu
-2026-09-19,25,Heart Stop,The Revivalists,heartstop|therevivalists,Subiu,2026-09-26,Gradient Boosting,Subiu,True,52.3,Subiu,Subiu
-2026-09-19,26,Marianne,FONTAINES D.C.,marianne|fontainesdc,Subiu,2026-09-26,Gradient Boosting,Subiu,True,61.9,Subiu,Subiu
-2026-09-19,27,Absolution,Switchfoot,absolution|switchfoot,Desceu,2026-09-26,Gradient Boosting,Subiu,False,45.4,Desceu,Subiu
-2026-09-19,28,Cryogen,Muse,cryogen|muse,Subiu,2026-09-26,Gradient Boosting,Subiu,True,58.5,Subiu,Subiu
+2026-09-19,24,Backseat Drivin',"Slightly Stoopid , Wiz Khalifa & G. Love",backseatdrivin|slightlystoopidwizkhalifaglove,Subiu,2026-09-26,Gradient Boosting,Subiu,True,52.1,Manteve,Subiu
+2026-09-19,25,Heart Stop,The Revivalists,heartstop|therevivalists,Subiu,2026-09-26,Gradient Boosting,Subiu,True,52.1,Subiu,Subiu
+2026-09-19,26,Marianne,FONTAINES D.C.,marianne|fontainesdc,Subiu,2026-09-26,Gradient Boosting,Subiu,True,61.7,Subiu,Subiu
+2026-09-19,27,Absolution,Switchfoot,absolution|switchfoot,Desceu,2026-09-26,Gradient Boosting,Subiu,False,45.1,Desceu,Subiu
+2026-09-19,28,Cryogen,Muse,cryogen|muse,Subiu,2026-09-26,Gradient Boosting,Subiu,True,58.9,Subiu,Subiu
 2026-09-19,29,See Out Loud,Interpol,seeoutloud|interpol,Desceu,2026-09-26,Gradient Boosting,Subiu,False,42.2,Desceu,Subiu
 2026-09-19,30,Oh Yeah?,Steve Lacy,ohyeah|stevelacy,Subiu,2026-09-26,Gradient Boosting,Subiu,True,65.1,Subiu,Subiu
-2026-09-19,31,Bug In The Cake,Violet Grohl,buginthecake|violetgrohl,Subiu,2026-09-26,Gradient Boosting,Desceu,False,39.1,Desceu,Subiu
-2026-09-19,32,Burning Out,The Linda Lindas,burningout|thelindalindas,Subiu,2026-09-26,Gradient Boosting,Subiu,True,59.7,Desceu,Subiu
-2026-09-19,33,Tonight,Social Distortion,tonight|socialdistortion,Subiu,2026-09-26,Gradient Boosting,Subiu,True,46.6,Manteve,Subiu
-2026-09-19,34,Crash First,honestav & MGK,crashfirst|honestavmgk,Subiu,2026-09-26,Gradient Boosting,Subiu,True,57.8,Manteve,Subiu
+2026-09-19,31,Bug In The Cake,Violet Grohl,buginthecake|violetgrohl,Subiu,2026-09-26,Gradient Boosting,Desceu,False,39.7,Desceu,Subiu
+2026-09-19,32,Burning Out,The Linda Lindas,burningout|thelindalindas,Subiu,2026-09-26,Gradient Boosting,Subiu,True,59.6,Desceu,Subiu
+2026-09-19,33,Tonight,Social Distortion,tonight|socialdistortion,Subiu,2026-09-26,Gradient Boosting,Subiu,True,46.4,Manteve,Subiu
+2026-09-19,34,Crash First,honestav & MGK,crashfirst|honestavmgk,Subiu,2026-09-26,Gradient Boosting,Subiu,True,57.2,Manteve,Subiu
 2026-09-19,35,Good Times // End Times,Goose,goodtimesendtimes|goose,Manteve,2026-09-26,Gradient Boosting,Subiu,False,61.9,Manteve,Subiu
 2026-09-19,36,My Body Isn't Ready,sombr,mybodyisntready|sombr,Subiu,2026-09-26,Gradient Boosting,Subiu,True,43.6,Manteve,Subiu
-2026-09-19,37,Neighbors Blues,Jack White,neighborsblues|jackwhite,Desceu,2026-09-26,Gradient Boosting,Subiu,False,64.1,Subiu,Subiu
+2026-09-19,37,Neighbors Blues,Jack White,neighborsblues|jackwhite,Desceu,2026-09-26,Gradient Boosting,Subiu,False,64.2,Subiu,Subiu
 2026-09-19,38,High,In Color,high|incolor,Subiu,2026-09-26,Gradient Boosting,Subiu,True,61.8,Manteve,Subiu
-2026-09-19,39,Delicate,Bike Routes Featuring Jake Clemons,delicate|bikeroutesfeaturingjakeclemons,Saiu,2026-09-26,Gradient Boosting,Desceu,False,34.1,Desceu,Subiu
+2026-09-19,39,Delicate,Bike Routes Featuring Jake Clemons,delicate|bikeroutesfeaturingjakeclemons,Saiu,2026-09-26,Gradient Boosting,Desceu,False,34.2,Desceu,Subiu
 2026-09-19,40,Exit Signs,LEAP,exitsigns|leap,Subiu,2026-09-26,Gradient Boosting,Subiu,True,59.4,Manteve,Subiu
-2026-09-26,1,Beaches In Tennessee,Cage the Elephant,beachesintennessee|cagetheelephant,Manteve,2026-10-03,Gradient Boosting,Manteve,True,51.4,Manteve,Subiu
-2026-09-26,2,Self Aware,Temper City,selfaware|tempercity,Manteve,2026-10-03,Gradient Boosting,Desceu,False,46.1,Manteve,Subiu
-2026-09-26,3,In My Room,Julia Wolf,inmyroom|juliawolf,Desceu,2026-10-03,Gradient Boosting,Desceu,True,49.9,Manteve,Subiu
-2026-09-26,4,Fool's Gold,Buffalo Traffic Jam,foolsgold|buffalotrafficjam,Subiu,2026-10-03,Gradient Boosting,Subiu,True,43.2,Manteve,Subiu
-2026-09-26,5,Doors,Noah Kahan,doors|noahkahan,Desceu,2026-10-03,Gradient Boosting,Desceu,True,38.1,Manteve,Subiu
-2026-09-26,6,We Might As Well Be Strangers,Weezer Featuring Wednesday,wemightaswellbestrangers|weezerfeaturingwednesday,Subiu,2026-10-03,Gradient Boosting,Subiu,True,48.0,Manteve,Subiu
+2026-09-26,1,Beaches In Tennessee,Cage the Elephant,beachesintennessee|cagetheelephant,Manteve,2026-10-03,Gradient Boosting,Manteve,True,51.2,Manteve,Subiu
+2026-09-26,2,Self Aware,Temper City,selfaware|tempercity,Manteve,2026-10-03,Gradient Boosting,Desceu,False,45.5,Manteve,Subiu
+2026-09-26,3,In My Room,Julia Wolf,inmyroom|juliawolf,Desceu,2026-10-03,Gradient Boosting,Desceu,True,49.0,Manteve,Subiu
+2026-09-26,4,Fool's Gold,Buffalo Traffic Jam,foolsgold|buffalotrafficjam,Subiu,2026-10-03,Gradient Boosting,Subiu,True,43.0,Manteve,Subiu
+2026-09-26,5,Doors,Noah Kahan,doors|noahkahan,Desceu,2026-10-03,Gradient Boosting,Desceu,True,37.2,Manteve,Subiu
+2026-09-26,6,We Might As Well Be Strangers,Weezer Featuring Wednesday,wemightaswellbestrangers|weezerfeaturingwednesday,Subiu,2026-10-03,Gradient Boosting,Subiu,True,47.9,Manteve,Subiu
 2026-09-26,7,Loser,Tame Impala,loser|tameimpala,Subiu,2026-10-03,Gradient Boosting,Subiu,True,50.1,Subiu,Subiu
-2026-09-26,8,Babydoll,Dominic Fike,babydoll|dominicfike,Subiu,2026-10-03,Gradient Boosting,Subiu,True,40.2,Desceu,Subiu
-2026-09-26,9,no more regrets,almost monday,nomoreregrets|almostmonday,Desceu,2026-10-03,Gradient Boosting,Subiu,False,50.0,Subiu,Subiu
-2026-09-26,10,Freakin' Out,Dexter And The Moonrocks,freakinout|dexterandthemoonrocks,Subiu,2026-10-03,Gradient Boosting,Desceu,False,55.9,Desceu,Subiu
-2026-09-26,11,Window,Foo Fighters,window|foofighters,Manteve,2026-10-03,Gradient Boosting,Subiu,False,48.4,Subiu,Subiu
-2026-09-26,12,Love To Go,Edgehill,lovetogo|edgehill,Manteve,2026-10-03,Gradient Boosting,Subiu,False,48.4,Subiu,Subiu
+2026-09-26,8,Babydoll,Dominic Fike,babydoll|dominicfike,Subiu,2026-10-03,Gradient Boosting,Subiu,True,40.0,Desceu,Subiu
+2026-09-26,9,no more regrets,almost monday,nomoreregrets|almostmonday,Desceu,2026-10-03,Gradient Boosting,Subiu,False,50.1,Subiu,Subiu
+2026-09-26,10,Freakin' Out,Dexter And The Moonrocks,freakinout|dexterandthemoonrocks,Subiu,2026-10-03,Gradient Boosting,Desceu,False,56.3,Desceu,Subiu
+2026-09-26,11,Window,Foo Fighters,window|foofighters,Manteve,2026-10-03,Gradient Boosting,Subiu,False,48.2,Subiu,Subiu
+2026-09-26,12,Love To Go,Edgehill,lovetogo|edgehill,Manteve,2026-10-03,Gradient Boosting,Subiu,False,48.2,Subiu,Subiu
 2026-09-26,13,I Used To Go To This Bar,Joyce Manor,iusedtogotothisbar|joycemanor,Desceu,2026-10-03,Gradient Boosting,Subiu,False,47.0,Desceu,Subiu
-2026-09-26,14,Rein Me In,Sam Fender & Olivia Dean,reinmein|samfenderoliviadean,Desceu,2026-10-03,Gradient Boosting,Subiu,False,45.9,Manteve,Subiu
-2026-09-26,15,I Kinda Like That,The Paradox,ikindalikethat|theparadox,Subiu,2026-10-03,Gradient Boosting,Subiu,True,49.7,Subiu,Subiu
-2026-09-26,16,Evergreen,Young the Giant,evergreen|youngthegiant,Manteve,2026-10-03,Gradient Boosting,Subiu,False,50.0,Manteve,Subiu
-2026-09-26,17,Private,The Neighbourhood,private|theneighbourhood,Manteve,2026-10-03,Gradient Boosting,Subiu,False,50.0,Manteve,Subiu
-2026-09-26,18,Lost Boys,Phoebe Bridgers,lostboys|phoebebridgers,Manteve,2026-10-03,Gradient Boosting,Subiu,False,48.4,Subiu,Subiu
+2026-09-26,14,Rein Me In,Sam Fender & Olivia Dean,reinmein|samfenderoliviadean,Desceu,2026-10-03,Gradient Boosting,Subiu,False,45.7,Manteve,Subiu
+2026-09-26,15,I Kinda Like That,The Paradox,ikindalikethat|theparadox,Subiu,2026-10-03,Gradient Boosting,Subiu,True,49.6,Subiu,Subiu
+2026-09-26,16,Evergreen,Young the Giant,evergreen|youngthegiant,Manteve,2026-10-03,Gradient Boosting,Subiu,False,50.1,Manteve,Subiu
+2026-09-26,17,Private,The Neighbourhood,private|theneighbourhood,Manteve,2026-10-03,Gradient Boosting,Subiu,False,50.1,Manteve,Subiu
+2026-09-26,18,Lost Boys,Phoebe Bridgers,lostboys|phoebebridgers,Manteve,2026-10-03,Gradient Boosting,Subiu,False,48.2,Subiu,Subiu
 2026-09-26,19,Don't Wanna Go Home Tonight,Three Days Grace,dontwannagohometonight|threedaysgrace,Desceu,2026-10-03,Gradient Boosting,Subiu,False,54.3,Subiu,Subiu
-2026-09-26,20,Young Again,Shinedown,youngagain|shinedown,Subiu,2026-10-03,Gradient Boosting,Subiu,True,52.2,Subiu,Subiu
-2026-09-26,21,Backseat Drivin',"Slightly Stoopid , Wiz Khalifa & G. Love",backseatdrivin|slightlystoopidwizkhalifaglove,Desceu,2026-10-03,Gradient Boosting,Subiu,False,50.4,Subiu,Subiu
-2026-09-26,22,Edge Of The Earth,The Beaches,edgeoftheearth|thebeaches,Desceu,2026-10-03,Gradient Boosting,Subiu,False,44.2,Subiu,Subiu
-2026-09-26,23,Heart Stop,The Revivalists,heartstop|therevivalists,Subiu,2026-10-03,Gradient Boosting,Subiu,True,52.2,Subiu,Subiu
-2026-09-26,24,Hold Me In The Dark,Myles Smith,holdmeinthedark|mylessmith,Desceu,2026-10-03,Gradient Boosting,Desceu,True,40.8,Desceu,Subiu
-2026-09-26,25,Marianne,FONTAINES D.C.,marianne|fontainesdc,Subiu,2026-10-03,Gradient Boosting,Subiu,True,61.7,Subiu,Subiu
-2026-09-26,26,Oh Yeah?,Steve Lacy,ohyeah|stevelacy,Subiu,2026-10-03,Gradient Boosting,Subiu,True,61.9,Subiu,Subiu
-2026-09-26,27,Cryogen,Muse,cryogen|muse,Subiu,2026-10-03,Gradient Boosting,Subiu,True,54.7,Subiu,Subiu
-2026-09-26,28,Bug In The Cake,Violet Grohl,buginthecake|violetgrohl,Manteve,2026-10-03,Gradient Boosting,Subiu,False,42.0,Subiu,Subiu
-2026-09-26,29,Absolution,Switchfoot,absolution|switchfoot,Desceu,2026-10-03,Gradient Boosting,Desceu,True,40.9,Desceu,Subiu
-2026-09-26,30,Burning Out,The Linda Lindas,burningout|thelindalindas,Subiu,2026-10-03,Gradient Boosting,Subiu,True,55.9,Subiu,Subiu
-2026-09-26,31,See Out Loud,Interpol,seeoutloud|interpol,Subiu,2026-10-03,Gradient Boosting,Desceu,False,40.9,Desceu,Subiu
-2026-09-26,32,Tonight,Social Distortion,tonight|socialdistortion,Subiu,2026-10-03,Gradient Boosting,Subiu,True,50.8,Subiu,Subiu
-2026-09-26,33,Crash First,honestav & MGK,crashfirst|honestavmgk,Desceu,2026-10-03,Gradient Boosting,Subiu,False,56.8,Subiu,Subiu
-2026-09-26,34,My Body Isn't Ready,sombr,mybodyisntready|sombr,Manteve,2026-10-03,Gradient Boosting,Subiu,False,48.3,Subiu,Subiu
-2026-09-26,35,Good Times // End Times,Goose,goodtimesendtimes|goose,Desceu,2026-10-03,Gradient Boosting,Subiu,False,57.8,Manteve,Subiu
-2026-09-26,36,High,In Color,high|incolor,Subiu,2026-10-03,Gradient Boosting,Subiu,True,64.1,Subiu,Subiu
-2026-09-26,37,Exit Signs,LEAP,exitsigns|leap,Subiu,2026-10-03,Gradient Boosting,Subiu,True,64.1,Subiu,Subiu
-2026-09-26,38,Neighbors Blues,Jack White,neighborsblues|jackwhite,Manteve,2026-10-03,Gradient Boosting,Subiu,False,56.6,Desceu,Subiu
+2026-09-26,20,Young Again,Shinedown,youngagain|shinedown,Subiu,2026-10-03,Gradient Boosting,Subiu,True,52.1,Subiu,Subiu
+2026-09-26,21,Backseat Drivin',"Slightly Stoopid , Wiz Khalifa & G. Love",backseatdrivin|slightlystoopidwizkhalifaglove,Desceu,2026-10-03,Gradient Boosting,Subiu,False,50.2,Subiu,Subiu
+2026-09-26,22,Edge Of The Earth,The Beaches,edgeoftheearth|thebeaches,Desceu,2026-10-03,Gradient Boosting,Subiu,False,43.9,Subiu,Subiu
+2026-09-26,23,Heart Stop,The Revivalists,heartstop|therevivalists,Subiu,2026-10-03,Gradient Boosting,Subiu,True,52.1,Subiu,Subiu
+2026-09-26,24,Hold Me In The Dark,Myles Smith,holdmeinthedark|mylessmith,Desceu,2026-10-03,Gradient Boosting,Desceu,True,40.2,Desceu,Subiu
+2026-09-26,25,Marianne,FONTAINES D.C.,marianne|fontainesdc,Subiu,2026-10-03,Gradient Boosting,Subiu,True,61.1,Subiu,Subiu
+2026-09-26,26,Oh Yeah?,Steve Lacy,ohyeah|stevelacy,Subiu,2026-10-03,Gradient Boosting,Subiu,True,61.7,Subiu,Subiu
+2026-09-26,27,Cryogen,Muse,cryogen|muse,Subiu,2026-10-03,Gradient Boosting,Subiu,True,54.5,Subiu,Subiu
+2026-09-26,28,Bug In The Cake,Violet Grohl,buginthecake|violetgrohl,Manteve,2026-10-03,Gradient Boosting,Subiu,False,41.8,Subiu,Subiu
+2026-09-26,29,Absolution,Switchfoot,absolution|switchfoot,Desceu,2026-10-03,Gradient Boosting,Desceu,True,41.1,Desceu,Subiu
+2026-09-26,30,Burning Out,The Linda Lindas,burningout|thelindalindas,Subiu,2026-10-03,Gradient Boosting,Subiu,True,56.3,Subiu,Subiu
+2026-09-26,31,See Out Loud,Interpol,seeoutloud|interpol,Subiu,2026-10-03,Gradient Boosting,Desceu,False,41.0,Desceu,Subiu
+2026-09-26,32,Tonight,Social Distortion,tonight|socialdistortion,Subiu,2026-10-03,Gradient Boosting,Subiu,True,50.5,Subiu,Subiu
+2026-09-26,33,Crash First,honestav & MGK,crashfirst|honestavmgk,Desceu,2026-10-03,Gradient Boosting,Subiu,False,57.2,Subiu,Subiu
+2026-09-26,34,My Body Isn't Ready,sombr,mybodyisntready|sombr,Manteve,2026-10-03,Gradient Boosting,Subiu,False,48.5,Subiu,Subiu
+2026-09-26,35,Good Times // End Times,Goose,goodtimesendtimes|goose,Desceu,2026-10-03,Gradient Boosting,Subiu,False,57.2,Manteve,Subiu
+2026-09-26,36,High,In Color,high|incolor,Subiu,2026-10-03,Gradient Boosting,Subiu,True,64.2,Subiu,Subiu
+2026-09-26,37,Exit Signs,LEAP,exitsigns|leap,Subiu,2026-10-03,Gradient Boosting,Subiu,True,64.2,Subiu,Subiu
+2026-09-26,38,Neighbors Blues,Jack White,neighborsblues|jackwhite,Manteve,2026-10-03,Gradient Boosting,Subiu,False,56.9,Desceu,Subiu
 2026-09-26,39,I Can Take The Sun Out Of The Sky,Brigitte Calls Me Baby,icantakethesunoutofthesky|brigittecallsmebaby,Manteve,2026-10-03,Gradient Boosting,Subiu,False,59.4,Manteve,Subiu
 2026-09-26,40,Something Wicked,Breaking Benjamin,somethingwicked|breakingbenjamin,Saiu,2026-10-03,Gradient Boosting,Subiu,False,59.4,Manteve,Subiu
-2026-10-03,1,Beaches In Tennessee,Cage the Elephant,beachesintennessee|cagetheelephant,Manteve,2026-10-10,Gradient Boosting,Manteve,True,51.1,Manteve,Subiu
-2026-10-03,2,Self Aware,Temper City,selfaware|tempercity,Manteve,2026-10-10,Gradient Boosting,Desceu,False,43.7,Manteve,Subiu
-2026-10-03,3,Fool's Gold,Buffalo Traffic Jam,foolsgold|buffalotrafficjam,Manteve,2026-10-10,Gradient Boosting,Subiu,False,41.9,Subiu,Subiu
-2026-10-03,4,In My Room,Julia Wolf,inmyroom|juliawolf,Desceu,2026-10-10,Gradient Boosting,Desceu,True,51.8,Desceu,Subiu
-2026-10-03,5,We Might As Well Be Strangers,Weezer Featuring Wednesday,wemightaswellbestrangers|weezerfeaturingwednesday,Subiu,2026-10-10,Gradient Boosting,Subiu,True,46.4,Subiu,Subiu
-2026-10-03,6,Loser,Tame Impala,loser|tameimpala,Desceu,2026-10-10,Gradient Boosting,Subiu,False,48.0,Subiu,Subiu
-2026-10-03,7,Babydoll,Dominic Fike,babydoll|dominicfike,Subiu,2026-10-10,Gradient Boosting,Subiu,True,39.9,Subiu,Subiu
-2026-10-03,8,Doors,Noah Kahan,doors|noahkahan,Desceu,2026-10-10,Gradient Boosting,Desceu,True,55.1,Desceu,Subiu
-2026-10-03,9,Freakin' Out,Dexter And The Moonrocks,freakinout|dexterandthemoonrocks,Desceu,2026-10-10,Gradient Boosting,Desceu,True,59.1,Subiu,Subiu
-2026-10-03,10,no more regrets,almost monday,nomoreregrets|almostmonday,Subiu,2026-10-10,Gradient Boosting,Subiu,True,42.1,Desceu,Subiu
-2026-10-03,11,Window,Foo Fighters,window|foofighters,Manteve,2026-10-10,Gradient Boosting,Subiu,False,50.0,Manteve,Subiu
-2026-10-03,12,Love To Go,Edgehill,lovetogo|edgehill,Manteve,2026-10-10,Gradient Boosting,Subiu,False,50.0,Manteve,Subiu
-2026-10-03,13,I Kinda Like That,The Paradox,ikindalikethat|theparadox,Manteve,2026-10-10,Gradient Boosting,Subiu,False,50.0,Subiu,Subiu
+2026-10-03,1,Beaches In Tennessee,Cage the Elephant,beachesintennessee|cagetheelephant,Manteve,2026-10-10,Gradient Boosting,Manteve,True,51.3,Manteve,Subiu
+2026-10-03,2,Self Aware,Temper City,selfaware|tempercity,Manteve,2026-10-10,Gradient Boosting,Desceu,False,42.4,Manteve,Subiu
+2026-10-03,3,Fool's Gold,Buffalo Traffic Jam,foolsgold|buffalotrafficjam,Manteve,2026-10-10,Gradient Boosting,Subiu,False,41.4,Subiu,Subiu
+2026-10-03,4,In My Room,Julia Wolf,inmyroom|juliawolf,Desceu,2026-10-10,Gradient Boosting,Desceu,True,51.6,Desceu,Subiu
+2026-10-03,5,We Might As Well Be Strangers,Weezer Featuring Wednesday,wemightaswellbestrangers|weezerfeaturingwednesday,Subiu,2026-10-10,Gradient Boosting,Subiu,True,46.1,Subiu,Subiu
+2026-10-03,6,Loser,Tame Impala,loser|tameimpala,Desceu,2026-10-10,Gradient Boosting,Subiu,False,47.9,Subiu,Subiu
+2026-10-03,7,Babydoll,Dominic Fike,babydoll|dominicfike,Subiu,2026-10-10,Gradient Boosting,Subiu,True,39.6,Subiu,Subiu
+2026-10-03,8,Doors,Noah Kahan,doors|noahkahan,Desceu,2026-10-10,Gradient Boosting,Desceu,True,54.9,Desceu,Subiu
+2026-10-03,9,Freakin' Out,Dexter And The Moonrocks,freakinout|dexterandthemoonrocks,Desceu,2026-10-10,Gradient Boosting,Desceu,True,59.8,Subiu,Subiu
+2026-10-03,10,no more regrets,almost monday,nomoreregrets|almostmonday,Subiu,2026-10-10,Gradient Boosting,Subiu,True,42.4,Desceu,Subiu
+2026-10-03,11,Window,Foo Fighters,window|foofighters,Manteve,2026-10-10,Gradient Boosting,Subiu,False,50.1,Manteve,Subiu
+2026-10-03,12,Love To Go,Edgehill,lovetogo|edgehill,Manteve,2026-10-10,Gradient Boosting,Subiu,False,50.1,Manteve,Subiu
+2026-10-03,13,I Kinda Like That,The Paradox,ikindalikethat|theparadox,Manteve,2026-10-10,Gradient Boosting,Subiu,False,50.1,Subiu,Subiu
 2026-10-03,14,I Used To Go To This Bar,Joyce Manor,iusedtogotothisbar|joycemanor,Manteve,2026-10-10,Gradient Boosting,Subiu,False,40.1,Desceu,Subiu
-2026-10-03,15,Rein Me In,Sam Fender & Olivia Dean,reinmein|samfenderoliviadean,Desceu,2026-10-10,Gradient Boosting,Subiu,False,43.5,Desceu,Subiu
-2026-10-03,16,Evergreen,Young the Giant,evergreen|youngthegiant,Subiu,2026-10-10,Gradient Boosting,Subiu,True,45.9,Manteve,Subiu
-2026-10-03,17,Private,The Neighbourhood,private|theneighbourhood,Manteve,2026-10-10,Gradient Boosting,Subiu,False,45.9,Manteve,Subiu
-2026-10-03,18,Lost Boys,Phoebe Bridgers,lostboys|phoebebridgers,Desceu,2026-10-10,Gradient Boosting,Subiu,False,50.0,Manteve,Subiu
-2026-10-03,19,Young Again,Shinedown,youngagain|shinedown,Desceu,2026-10-10,Gradient Boosting,Subiu,False,52.2,Subiu,Subiu
-2026-10-03,20,Oh Yeah?,Steve Lacy,ohyeah|stevelacy,Subiu,2026-10-10,Gradient Boosting,Subiu,True,61.6,Subiu,Subiu
+2026-10-03,15,Rein Me In,Sam Fender & Olivia Dean,reinmein|samfenderoliviadean,Desceu,2026-10-10,Gradient Boosting,Subiu,False,43.3,Desceu,Subiu
+2026-10-03,16,Evergreen,Young the Giant,evergreen|youngthegiant,Subiu,2026-10-10,Gradient Boosting,Subiu,True,45.7,Manteve,Subiu
+2026-10-03,17,Private,The Neighbourhood,private|theneighbourhood,Manteve,2026-10-10,Gradient Boosting,Subiu,False,45.7,Manteve,Subiu
+2026-10-03,18,Lost Boys,Phoebe Bridgers,lostboys|phoebebridgers,Desceu,2026-10-10,Gradient Boosting,Subiu,False,50.1,Manteve,Subiu
+2026-10-03,19,Young Again,Shinedown,youngagain|shinedown,Desceu,2026-10-10,Gradient Boosting,Subiu,False,52.1,Subiu,Subiu
+2026-10-03,20,Oh Yeah?,Steve Lacy,ohyeah|stevelacy,Subiu,2026-10-10,Gradient Boosting,Subiu,True,61.1,Subiu,Subiu
 2026-10-03,21,Don't Wanna Go Home Tonight,Three Days Grace,dontwannagohometonight|threedaysgrace,Desceu,2026-10-10,Gradient Boosting,Subiu,False,46.4,Desceu,Subiu
-2026-10-03,22,Heart Stop,The Revivalists,heartstop|therevivalists,Desceu,2026-10-10,Gradient Boosting,Subiu,False,52.2,Subiu,Subiu
-2026-10-03,23,Marianne,FONTAINES D.C.,marianne|fontainesdc,Subiu,2026-10-10,Gradient Boosting,Subiu,True,58.2,Subiu,Subiu
-2026-10-03,24,Backseat Drivin',"Slightly Stoopid , Wiz Khalifa & G. Love",backseatdrivin|slightlystoopidwizkhalifaglove,Manteve,2026-10-10,Gradient Boosting,Subiu,False,47.0,Desceu,Subiu
-2026-10-03,25,Edge Of The Earth,The Beaches,edgeoftheearth|thebeaches,Manteve,2026-10-10,Gradient Boosting,Subiu,False,41.0,Desceu,Subiu
-2026-10-03,26,Cryogen,Muse,cryogen|muse,Manteve,2026-10-10,Gradient Boosting,Subiu,False,52.3,Subiu,Subiu
-2026-10-03,27,Burning Out,The Linda Lindas,burningout|thelindalindas,Desceu,2026-10-10,Gradient Boosting,Subiu,False,54.7,Subiu,Subiu
-2026-10-03,28,Bug In The Cake,Violet Grohl,buginthecake|violetgrohl,Desceu,2026-10-10,Gradient Boosting,Subiu,False,44.7,Manteve,Subiu
+2026-10-03,22,Heart Stop,The Revivalists,heartstop|therevivalists,Desceu,2026-10-10,Gradient Boosting,Subiu,False,52.1,Subiu,Subiu
+2026-10-03,23,Marianne,FONTAINES D.C.,marianne|fontainesdc,Subiu,2026-10-10,Gradient Boosting,Subiu,True,58.8,Subiu,Subiu
+2026-10-03,24,Backseat Drivin',"Slightly Stoopid , Wiz Khalifa & G. Love",backseatdrivin|slightlystoopidwizkhalifaglove,Manteve,2026-10-10,Gradient Boosting,Subiu,False,46.5,Desceu,Subiu
+2026-10-03,25,Edge Of The Earth,The Beaches,edgeoftheearth|thebeaches,Manteve,2026-10-10,Gradient Boosting,Subiu,False,40.5,Desceu,Subiu
+2026-10-03,26,Cryogen,Muse,cryogen|muse,Manteve,2026-10-10,Gradient Boosting,Subiu,False,52.1,Subiu,Subiu
+2026-10-03,27,Burning Out,The Linda Lindas,burningout|thelindalindas,Desceu,2026-10-10,Gradient Boosting,Subiu,False,54.5,Subiu,Subiu
+2026-10-03,28,Bug In The Cake,Violet Grohl,buginthecake|violetgrohl,Desceu,2026-10-10,Gradient Boosting,Subiu,False,44.5,Manteve,Subiu
 2026-10-03,29,Exit Signs,LEAP,exitsigns|leap,Subiu,2026-10-10,Gradient Boosting,Subiu,True,61.9,Subiu,Subiu
-2026-10-03,30,See Out Loud,Interpol,seeoutloud|interpol,Desceu,2026-10-10,Gradient Boosting,Subiu,False,38.9,Subiu,Subiu
+2026-10-03,30,See Out Loud,Interpol,seeoutloud|interpol,Desceu,2026-10-10,Gradient Boosting,Desceu,True,39.1,Subiu,Subiu
 2026-10-03,31,Tonight,Social Distortion,tonight|socialdistortion,Desceu,2026-10-10,Gradient Boosting,Subiu,False,52.5,Subiu,Subiu
 2026-10-03,32,High,In Color,high|incolor,Subiu,2026-10-10,Gradient Boosting,Subiu,True,61.9,Subiu,Subiu
-2026-10-03,33,Absolution,Switchfoot,absolution|switchfoot,Desceu,2026-10-10,Gradient Boosting,Desceu,True,43.5,Desceu,Subiu
-2026-10-03,34,My Body Isn't Ready,sombr,mybodyisntready|sombr,Manteve,2026-10-10,Gradient Boosting,Subiu,False,50.2,Manteve,Subiu
-2026-10-03,35,Crash First,honestav & MGK,crashfirst|honestavmgk,Desceu,2026-10-10,Gradient Boosting,Subiu,False,44.1,Desceu,Subiu
-2026-10-03,36,Good Times // End Times,Goose,goodtimesendtimes|goose,Desceu,2026-10-10,Gradient Boosting,Subiu,False,50.8,Desceu,Subiu
+2026-10-03,33,Absolution,Switchfoot,absolution|switchfoot,Desceu,2026-10-10,Gradient Boosting,Desceu,True,44.0,Desceu,Subiu
+2026-10-03,34,My Body Isn't Ready,sombr,mybodyisntready|sombr,Manteve,2026-10-10,Gradient Boosting,Subiu,False,50.5,Manteve,Subiu
+2026-10-03,35,Crash First,honestav & MGK,crashfirst|honestavmgk,Desceu,2026-10-10,Gradient Boosting,Subiu,False,43.7,Desceu,Subiu
+2026-10-03,36,Good Times // End Times,Goose,goodtimesendtimes|goose,Desceu,2026-10-10,Gradient Boosting,Subiu,False,51.2,Desceu,Subiu
 2026-10-03,37,Hold Me In The Dark,Myles Smith,holdmeinthedark|mylessmith,Saiu,2026-10-10,Gradient Boosting,Saiu,True,41.4,Desceu,Subiu
-2026-10-03,38,Neighbors Blues,Jack White,neighborsblues|jackwhite,Desceu,2026-10-10,Gradient Boosting,Subiu,False,51.3,Manteve,Subiu
+2026-10-03,38,Neighbors Blues,Jack White,neighborsblues|jackwhite,Desceu,2026-10-10,Gradient Boosting,Subiu,False,50.7,Manteve,Subiu
 2026-10-03,39,I Can Take The Sun Out Of The Sky,Brigitte Calls Me Baby,icantakethesunoutofthesky|brigittecallsmebaby,Desceu,2026-10-10,Gradient Boosting,Subiu,False,59.4,Manteve,Subiu
 2026-10-03,40,Kiss Me Like You Miss Her,Adult Leisure,kissmelikeyoumissher|adultleisure,Saiu,2026-10-10,Gradient Boosting,Subiu,False,59.4,Manteve,Subiu
-2026-10-10,1,Beaches In Tennessee,Cage the Elephant,beachesintennessee|cagetheelephant,Desceu,2026-10-17,Gradient Boosting,Manteve,False,51.1,Manteve,Subiu
-2026-10-10,2,Self Aware,Temper City,selfaware|tempercity,Subiu,2026-10-17,Gradient Boosting,Desceu,False,43.4,Manteve,Subiu
-2026-10-10,3,Fool's Gold,Buffalo Traffic Jam,foolsgold|buffalotrafficjam,Desceu,2026-10-17,Gradient Boosting,Subiu,False,41.2,Manteve,Subiu
-2026-10-10,4,We Might As Well Be Strangers,Weezer Featuring Wednesday,wemightaswellbestrangers|weezerfeaturingwednesday,Subiu,2026-10-17,Gradient Boosting,Subiu,True,43.2,Subiu,Subiu
+2026-10-10,1,Beaches In Tennessee,Cage the Elephant,beachesintennessee|cagetheelephant,Desceu,2026-10-17,Gradient Boosting,Manteve,False,51.3,Manteve,Subiu
+2026-10-10,2,Self Aware,Temper City,selfaware|tempercity,Subiu,2026-10-17,Gradient Boosting,Desceu,False,42.1,Manteve,Subiu
+2026-10-10,3,Fool's Gold,Buffalo Traffic Jam,foolsgold|buffalotrafficjam,Desceu,2026-10-17,Gradient Boosting,Subiu,False,41.0,Manteve,Subiu
+2026-10-10,4,We Might As Well Be Strangers,Weezer Featuring Wednesday,wemightaswellbestrangers|weezerfeaturingwednesday,Subiu,2026-10-17,Gradient Boosting,Subiu,True,43.0,Subiu,Subiu
 2026-10-10,5,Babydoll,Dominic Fike,babydoll|dominicfike,Manteve,2026-10-17,Gradient Boosting,Subiu,False,42.4,Subiu,Subiu
-2026-10-10,6,In My Room,Julia Wolf,inmyroom|juliawolf,Desceu,2026-10-17,Gradient Boosting,Desceu,True,60.1,Desceu,Subiu
-2026-10-10,7,Loser,Tame Impala,loser|tameimpala,Subiu,2026-10-17,Gradient Boosting,Subiu,True,43.6,Desceu,Subiu
-2026-10-10,8,no more regrets,almost monday,nomoreregrets|almostmonday,Manteve,2026-10-17,Gradient Boosting,Subiu,False,47.6,Subiu,Subiu
-2026-10-10,9,Doors,Noah Kahan,doors|noahkahan,Desceu,2026-10-17,Gradient Boosting,Desceu,True,59.2,Desceu,Subiu
-2026-10-10,10,Freakin' Out,Dexter And The Moonrocks,freakinout|dexterandthemoonrocks,Subiu,2026-10-17,Gradient Boosting,Desceu,False,46.9,Desceu,Subiu
-2026-10-10,11,Window,Foo Fighters,window|foofighters,Subiu,2026-10-17,Gradient Boosting,Subiu,True,45.9,Manteve,Subiu
-2026-10-10,12,Love To Go,Edgehill,lovetogo|edgehill,Subiu,2026-10-17,Gradient Boosting,Subiu,True,45.9,Manteve,Subiu
-2026-10-10,13,I Kinda Like That,The Paradox,ikindalikethat|theparadox,Subiu,2026-10-17,Gradient Boosting,Subiu,True,50.0,Manteve,Subiu
-2026-10-10,14,I Used To Go To This Bar,Joyce Manor,iusedtogotothisbar|joycemanor,Subiu,2026-10-17,Gradient Boosting,Subiu,True,41.5,Manteve,Subiu
-2026-10-10,15,Evergreen,Young the Giant,evergreen|youngthegiant,Subiu,2026-10-17,Gradient Boosting,Subiu,True,48.4,Subiu,Subiu
-2026-10-10,16,Rein Me In,Sam Fender & Olivia Dean,reinmein|samfenderoliviadean,Manteve,2026-10-17,Gradient Boosting,Subiu,False,38.1,Desceu,Subiu
-2026-10-10,17,Private,The Neighbourhood,private|theneighbourhood,Manteve,2026-10-17,Gradient Boosting,Subiu,False,45.9,Manteve,Subiu
-2026-10-10,18,Oh Yeah?,Steve Lacy,ohyeah|stevelacy,Manteve,2026-10-17,Gradient Boosting,Subiu,False,56.1,Subiu,Subiu
-2026-10-10,19,Lost Boys,Phoebe Bridgers,lostboys|phoebebridgers,Desceu,2026-10-17,Gradient Boosting,Subiu,False,45.1,Desceu,Subiu
+2026-10-10,6,In My Room,Julia Wolf,inmyroom|juliawolf,Desceu,2026-10-17,Gradient Boosting,Desceu,True,59.7,Desceu,Subiu
+2026-10-10,7,Loser,Tame Impala,loser|tameimpala,Subiu,2026-10-17,Gradient Boosting,Subiu,True,43.8,Desceu,Subiu
+2026-10-10,8,no more regrets,almost monday,nomoreregrets|almostmonday,Manteve,2026-10-17,Gradient Boosting,Subiu,False,47.4,Subiu,Subiu
+2026-10-10,9,Doors,Noah Kahan,doors|noahkahan,Desceu,2026-10-17,Gradient Boosting,Desceu,True,60.1,Desceu,Subiu
+2026-10-10,10,Freakin' Out,Dexter And The Moonrocks,freakinout|dexterandthemoonrocks,Subiu,2026-10-17,Gradient Boosting,Desceu,False,47.2,Desceu,Subiu
+2026-10-10,11,Window,Foo Fighters,window|foofighters,Subiu,2026-10-17,Gradient Boosting,Subiu,True,45.7,Manteve,Subiu
+2026-10-10,12,Love To Go,Edgehill,lovetogo|edgehill,Subiu,2026-10-17,Gradient Boosting,Subiu,True,45.7,Manteve,Subiu
+2026-10-10,13,I Kinda Like That,The Paradox,ikindalikethat|theparadox,Subiu,2026-10-17,Gradient Boosting,Subiu,True,50.1,Manteve,Subiu
+2026-10-10,14,I Used To Go To This Bar,Joyce Manor,iusedtogotothisbar|joycemanor,Subiu,2026-10-17,Gradient Boosting,Subiu,True,41.0,Manteve,Subiu
+2026-10-10,15,Evergreen,Young the Giant,evergreen|youngthegiant,Subiu,2026-10-17,Gradient Boosting,Subiu,True,48.2,Subiu,Subiu
+2026-10-10,16,Rein Me In,Sam Fender & Olivia Dean,reinmein|samfenderoliviadean,Manteve,2026-10-17,Gradient Boosting,Desceu,False,38.5,Desceu,Subiu
+2026-10-10,17,Private,The Neighbourhood,private|theneighbourhood,Manteve,2026-10-17,Gradient Boosting,Subiu,False,45.7,Manteve,Subiu
+2026-10-10,18,Oh Yeah?,Steve Lacy,ohyeah|stevelacy,Manteve,2026-10-17,Gradient Boosting,Subiu,False,56.8,Subiu,Subiu
+2026-10-10,19,Lost Boys,Phoebe Bridgers,lostboys|phoebebridgers,Desceu,2026-10-17,Gradient Boosting,Subiu,False,44.9,Desceu,Subiu
 2026-10-10,20,Marianne,FONTAINES D.C.,marianne|fontainesdc,Subiu,2026-10-17,Gradient Boosting,Subiu,True,54.3,Subiu,Subiu
-2026-10-10,21,Young Again,Shinedown,youngagain|shinedown,Desceu,2026-10-17,Gradient Boosting,Subiu,False,46.0,Desceu,Subiu
+2026-10-10,21,Young Again,Shinedown,youngagain|shinedown,Desceu,2026-10-17,Gradient Boosting,Subiu,False,45.6,Desceu,Subiu
 2026-10-10,22,Don't Wanna Go Home Tonight,Three Days Grace,dontwannagohometonight|threedaysgrace,Subiu,2026-10-17,Gradient Boosting,Desceu,False,39.1,Desceu,Subiu
-2026-10-10,23,Heart Stop,The Revivalists,heartstop|therevivalists,Manteve,2026-10-17,Gradient Boosting,Subiu,False,47.4,Desceu,Subiu
+2026-10-10,23,Heart Stop,The Revivalists,heartstop|therevivalists,Manteve,2026-10-17,Gradient Boosting,Subiu,False,47.7,Desceu,Subiu
 2026-10-10,24,Backseat Drivin',"Slightly Stoopid , Wiz Khalifa & G. Love",backseatdrivin|slightlystoopidwizkhalifaglove,Manteve,2026-10-17,Gradient Boosting,Desceu,False,39.0,Manteve,Subiu
 2026-10-10,25,Edge Of The Earth,The Beaches,edgeoftheearth|thebeaches,Desceu,2026-10-17,Gradient Boosting,Desceu,True,40.8,Manteve,Subiu
-2026-10-10,26,Cryogen,Muse,cryogen|muse,Desceu,2026-10-17,Gradient Boosting,Subiu,False,52.3,Manteve,Subiu
-2026-10-10,27,Exit Signs,LEAP,exitsigns|leap,Subiu,2026-10-17,Gradient Boosting,Subiu,True,61.9,Subiu,Subiu
-2026-10-10,28,Burning Out,The Linda Lindas,burningout|thelindalindas,Subiu,2026-10-17,Gradient Boosting,Subiu,True,50.2,Desceu,Subiu
-2026-10-10,29,High,In Color,high|incolor,Subiu,2026-10-17,Gradient Boosting,Subiu,True,61.9,Subiu,Subiu
-2026-10-10,30,Bug In The Cake,Violet Grohl,buginthecake|violetgrohl,Desceu,2026-10-17,Gradient Boosting,Desceu,True,42.7,Desceu,Subiu
+2026-10-10,26,Cryogen,Muse,cryogen|muse,Desceu,2026-10-17,Gradient Boosting,Subiu,False,52.1,Manteve,Subiu
+2026-10-10,27,Exit Signs,LEAP,exitsigns|leap,Subiu,2026-10-17,Gradient Boosting,Subiu,True,61.3,Subiu,Subiu
+2026-10-10,28,Burning Out,The Linda Lindas,burningout|thelindalindas,Subiu,2026-10-17,Gradient Boosting,Subiu,True,50.3,Desceu,Subiu
+2026-10-10,29,High,In Color,high|incolor,Subiu,2026-10-17,Gradient Boosting,Subiu,True,61.5,Subiu,Subiu
+2026-10-10,30,Bug In The Cake,Violet Grohl,buginthecake|violetgrohl,Desceu,2026-10-17,Gradient Boosting,Desceu,True,43.7,Desceu,Subiu
 2026-10-10,31,F.T.R.,Sublime,ftr|sublime,Subiu,2026-10-17,Gradient Boosting,Subiu,True,65.1,Manteve,Subiu
-2026-10-10,32,See Out Loud,Interpol,seeoutloud|interpol,Subiu,2026-10-17,Gradient Boosting,Desceu,False,39.4,Desceu,Subiu
-2026-10-10,33,Tonight,Social Distortion,tonight|socialdistortion,Desceu,2026-10-17,Gradient Boosting,Subiu,False,42.9,Desceu,Subiu
-2026-10-10,34,My Body Isn't Ready,sombr,mybodyisntready|sombr,Subiu,2026-10-17,Gradient Boosting,Subiu,True,45.8,Manteve,Subiu
-2026-10-10,35,Absolution,Switchfoot,absolution|switchfoot,Saiu,2026-10-17,Gradient Boosting,Desceu,False,38.2,Desceu,Subiu
-2026-10-10,36,Crash First,honestav & MGK,crashfirst|honestavmgk,Saiu,2026-10-17,Gradient Boosting,Desceu,False,40.2,Desceu,Subiu
-2026-10-10,37,Stone Over Water,Death Cab for Cutie,stoneoverwater|deathcabforcutie,Subiu,2026-10-17,Gradient Boosting,Subiu,True,64.1,Manteve,Subiu
+2026-10-10,32,See Out Loud,Interpol,seeoutloud|interpol,Subiu,2026-10-17,Gradient Boosting,Desceu,False,40.4,Desceu,Subiu
+2026-10-10,33,Tonight,Social Distortion,tonight|socialdistortion,Desceu,2026-10-17,Gradient Boosting,Subiu,False,42.5,Desceu,Subiu
+2026-10-10,34,My Body Isn't Ready,sombr,mybodyisntready|sombr,Subiu,2026-10-17,Gradient Boosting,Subiu,True,46.0,Manteve,Subiu
+2026-10-10,35,Absolution,Switchfoot,absolution|switchfoot,Saiu,2026-10-17,Gradient Boosting,Desceu,False,38.6,Desceu,Subiu
+2026-10-10,36,Crash First,honestav & MGK,crashfirst|honestavmgk,Saiu,2026-10-17,Gradient Boosting,Desceu,False,40.3,Desceu,Subiu
+2026-10-10,37,Stone Over Water,Death Cab for Cutie,stoneoverwater|deathcabforcutie,Subiu,2026-10-17,Gradient Boosting,Subiu,True,64.2,Manteve,Subiu
 2026-10-10,38,Good Times // End Times,Goose,goodtimesendtimes|goose,Saiu,2026-10-17,Gradient Boosting,Subiu,False,36.9,Desceu,Subiu
-2026-10-10,39,Neighbors Blues,Jack White,neighborsblues|jackwhite,Subiu,2026-10-17,Gradient Boosting,Subiu,True,42.4,Desceu,Subiu
-2026-10-10,40,I Can Take The Sun Out Of The Sky,Brigitte Calls Me Baby,icantakethesunoutofthesky|brigittecallsmebaby,Subiu,2026-10-17,Gradient Boosting,Subiu,True,49.9,Desceu,Subiu
+2026-10-10,39,Neighbors Blues,Jack White,neighborsblues|jackwhite,Subiu,2026-10-17,Gradient Boosting,Subiu,True,42.5,Desceu,Subiu
+2026-10-10,40,I Can Take The Sun Out Of The Sky,Brigitte Calls Me Baby,icantakethesunoutofthesky|brigittecallsmebaby,Subiu,2026-10-17,Gradient Boosting,Subiu,True,49.7,Desceu,Subiu
+2026-10-17,1,Self Aware,Temper City,selfaware|tempercity,Manteve,2026-10-24,Gradient Boosting,Manteve,True,50.4,Subiu,Subiu
+2026-10-17,2,Beaches In Tennessee,Cage the Elephant,beachesintennessee|cagetheelephant,Desceu,2026-10-24,Gradient Boosting,Desceu,True,43.8,Desceu,Subiu
+2026-10-17,3,We Might As Well Be Strangers,Weezer Featuring Wednesday,wemightaswellbestrangers|weezerfeaturingwednesday,Subiu,2026-10-24,Gradient Boosting,Subiu,True,43.0,Subiu,Subiu
+2026-10-17,4,Fool's Gold,Buffalo Traffic Jam,foolsgold|buffalotrafficjam,Manteve,2026-10-24,Gradient Boosting,Desceu,False,44.4,Desceu,Subiu
+2026-10-17,5,Babydoll,Dominic Fike,babydoll|dominicfike,Manteve,2026-10-24,Gradient Boosting,Subiu,False,42.4,Manteve,Subiu
+2026-10-17,6,Loser,Tame Impala,loser|tameimpala,Manteve,2026-10-24,Gradient Boosting,Subiu,False,42.9,Subiu,Subiu
+2026-10-17,7,In My Room,Julia Wolf,inmyroom|juliawolf,Desceu,2026-10-24,Gradient Boosting,Desceu,True,62.9,Desceu,Subiu
+2026-10-17,8,no more regrets,almost monday,nomoreregrets|almostmonday,Subiu,2026-10-24,Gradient Boosting,Subiu,True,50.1,Manteve,Subiu
+2026-10-17,9,Freakin' Out,Dexter And The Moonrocks,freakinout|dexterandthemoonrocks,Desceu,2026-10-24,Gradient Boosting,Desceu,True,52.7,Subiu,Subiu
+2026-10-17,10,Window,Foo Fighters,window|foofighters,Subiu,2026-10-24,Gradient Boosting,Subiu,True,48.2,Subiu,Subiu
+2026-10-17,11,Love To Go,Edgehill,lovetogo|edgehill,Subiu,2026-10-24,Gradient Boosting,Subiu,True,48.2,Subiu,Subiu
+2026-10-17,12,I Kinda Like That,The Paradox,ikindalikethat|theparadox,Subiu,2026-10-24,Gradient Boosting,Subiu,True,48.2,Subiu,Subiu
+2026-10-17,13,I Used To Go To This Bar,Joyce Manor,iusedtogotothisbar|joycemanor,Manteve,2026-10-24,Gradient Boosting,Subiu,False,40.7,Subiu,Subiu
+2026-10-17,14,Evergreen,Young the Giant,evergreen|youngthegiant,Manteve,2026-10-24,Gradient Boosting,Subiu,False,50.1,Subiu,Subiu
+2026-10-17,15,Doors,Noah Kahan,doors|noahkahan,Saiu,2026-10-24,Gradient Boosting,Desceu,False,53.7,Desceu,Subiu
+2026-10-17,16,Rein Me In,Sam Fender & Olivia Dean,reinmein|samfenderoliviadean,Desceu,2026-10-24,Gradient Boosting,Desceu,True,37.6,Manteve,Subiu
+2026-10-17,17,Private,The Neighbourhood,private|theneighbourhood,Subiu,2026-10-24,Gradient Boosting,Subiu,True,42.4,Manteve,Subiu
+2026-10-17,18,Oh Yeah?,Steve Lacy,ohyeah|stevelacy,Subiu,2026-10-24,Gradient Boosting,Subiu,True,52.3,Manteve,Subiu
+2026-10-17,19,Marianne,FONTAINES D.C.,marianne|fontainesdc,Subiu,2026-10-24,Gradient Boosting,Subiu,True,52.1,Subiu,Subiu
+2026-10-17,20,Lost Boys,Phoebe Bridgers,lostboys|phoebebridgers,Desceu,2026-10-24,Gradient Boosting,Subiu,False,40.2,Desceu,Subiu
+2026-10-17,21,Don't Wanna Go Home Tonight,Three Days Grace,dontwannagohometonight|threedaysgrace,Manteve,2026-10-24,Gradient Boosting,Subiu,False,40.2,Subiu,Subiu
+2026-10-17,22,Young Again,Shinedown,youngagain|shinedown,Subiu,2026-10-24,Gradient Boosting,Desceu,False,39.1,Desceu,Subiu
+2026-10-17,23,Heart Stop,The Revivalists,heartstop|therevivalists,Subiu,2026-10-24,Gradient Boosting,Subiu,True,43.9,Manteve,Subiu
+2026-10-17,24,Backseat Drivin',"Slightly Stoopid , Wiz Khalifa & G. Love",backseatdrivin|slightlystoopidwizkhalifaglove,Subiu,2026-10-24,Gradient Boosting,Subiu,True,41.0,Manteve,Subiu
+2026-10-17,25,Exit Signs,LEAP,exitsigns|leap,Subiu,2026-10-24,Gradient Boosting,Subiu,True,58.8,Subiu,Subiu
+2026-10-17,26,Burning Out,The Linda Lindas,burningout|thelindalindas,Desceu,2026-10-24,Gradient Boosting,Subiu,False,49.3,Subiu,Subiu
+2026-10-17,27,Cryogen,Muse,cryogen|muse,Desceu,2026-10-24,Gradient Boosting,Subiu,False,44.9,Desceu,Subiu
+2026-10-17,28,High,In Color,high|incolor,Subiu,2026-10-24,Gradient Boosting,Subiu,True,58.9,Subiu,Subiu
+2026-10-17,29,Edge Of The Earth,The Beaches,edgeoftheearth|thebeaches,Manteve,2026-10-24,Gradient Boosting,Desceu,False,38.7,Desceu,Subiu
+2026-10-17,30,F.T.R.,Sublime,ftr|sublime,Subiu,2026-10-24,Gradient Boosting,Subiu,True,65.1,Subiu,Subiu
+2026-10-17,31,See Out Loud,Interpol,seeoutloud|interpol,Desceu,2026-10-24,Gradient Boosting,Desceu,True,38.9,Subiu,Subiu
+2026-10-17,32,Bug In The Cake,Violet Grohl,buginthecake|violetgrohl,Saiu,2026-10-24,Gradient Boosting,Desceu,False,44.1,Desceu,Subiu
+2026-10-17,33,My Body Isn't Ready,sombr,mybodyisntready|sombr,Subiu,2026-10-24,Gradient Boosting,Subiu,True,50.5,Subiu,Subiu
+2026-10-17,34,Stone Over Water,Death Cab for Cutie,stoneoverwater|deathcabforcutie,Subiu,2026-10-24,Gradient Boosting,Subiu,True,65.1,Subiu,Subiu
+2026-10-17,35,Tonight,Social Distortion,tonight|socialdistortion,Desceu,2026-10-24,Gradient Boosting,Desceu,True,39.6,Desceu,Subiu
+2026-10-17,36,Roses,Chvrches,roses|chvrches,Subiu,2026-10-24,Gradient Boosting,Subiu,True,64.2,Manteve,Subiu
+2026-10-17,37,I Can Take The Sun Out Of The Sky,Brigitte Calls Me Baby,icantakethesunoutofthesky|brigittecallsmebaby,Subiu,2026-10-24,Gradient Boosting,Subiu,True,57.8,Subiu,Subiu
+2026-10-17,38,Neighbors Blues,Jack White,neighborsblues|jackwhite,Saiu,2026-10-24,Gradient Boosting,Subiu,False,40.1,Subiu,Subiu
+2026-10-17,39,Cold,Dead Poet Society,cold|deadpoetsociety,Subiu,2026-10-24,Gradient Boosting,Subiu,True,59.4,Manteve,Subiu
+2026-10-17,40,Maybe The Best Is Now,Judah & The Lion,maybethebestisnow|judahthelion,Subiu,2026-10-24,Gradient Boosting,Subiu,True,59.4,Manteve,Subiu
