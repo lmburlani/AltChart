@@ -39,43 +39,83 @@ chart_date,target_date,song_key,rank_at_forecast,song,artist,current_movement,pr
 2026-10-17,2026-10-24,neighborsblues|jackwhite,38,Neighbors Blues,Jack White,Subiu,Subiu,50.1,Saiu,,False
 2026-10-17,2026-10-24,cold|deadpoetsociety,39,Cold,Dead Poet Society,Estreia,Subiu,69.7,Subiu,38.0,True
 2026-10-17,2026-10-24,maybethebestisnow|judahthelion,40,Maybe The Best Is Now,Judah & The Lion,Estreia,Subiu,63.5,Subiu,37.0,True
-2026-10-24,2026-10-31,selfaware|tempercity,1,Self Aware,Temper City,Manteve,Manteve,52.2,,,
-2026-10-24,2026-10-31,wemightaswellbestrangers|weezerfeaturingwednesday,2,We Might As Well Be Strangers,Weezer Featuring Wednesday,Subiu,Manteve,46.0,,,
-2026-10-24,2026-10-31,beachesintennessee|cagetheelephant,3,Beaches In Tennessee,Cage the Elephant,Desceu,Desceu,54.7,,,
-2026-10-24,2026-10-31,foolsgold|buffalotrafficjam,4,Fool's Gold,Buffalo Traffic Jam,Manteve,Desceu,44.8,,,
-2026-10-24,2026-10-31,babydoll|dominicfike,5,Babydoll,Dominic Fike,Manteve,Subiu,40.2,,,
-2026-10-24,2026-10-31,loser|tameimpala,6,Loser,Tame Impala,Manteve,Subiu,47.0,,,
-2026-10-24,2026-10-31,nomoreregrets|almostmonday,7,no more regrets,almost monday,Subiu,Subiu,45.1,,,
-2026-10-24,2026-10-31,inmyroom|juliawolf,8,In My Room,Julia Wolf,Desceu,Desceu,63.2,,,
-2026-10-24,2026-10-31,window|foofighters,9,Window,Foo Fighters,Subiu,Subiu,50.0,,,
-2026-10-24,2026-10-31,lovetogo|edgehill,10,Love To Go,Edgehill,Subiu,Subiu,50.0,,,
-2026-10-24,2026-10-31,ikindalikethat|theparadox,11,I Kinda Like That,The Paradox,Subiu,Subiu,50.0,,,
-2026-10-24,2026-10-31,freakinout|dexterandthemoonrocks,12,Freakin' Out,Dexter And The Moonrocks,Desceu,Desceu,48.0,,,
-2026-10-24,2026-10-31,iusedtogotothisbar|joycemanor,13,I Used To Go To This Bar,Joyce Manor,Manteve,Subiu,42.3,,,
-2026-10-24,2026-10-31,evergreen|youngthegiant,14,Evergreen,Young the Giant,Manteve,Subiu,50.0,,,
-2026-10-24,2026-10-31,private|theneighbourhood,15,Private,The Neighbourhood,Subiu,Subiu,47.2,,,
-2026-10-24,2026-10-31,marianne|fontainesdc,16,Marianne,FONTAINES D.C.,Subiu,Subiu,50.0,,,
-2026-10-24,2026-10-31,ohyeah|stevelacy,17,Oh Yeah?,Steve Lacy,Subiu,Subiu,47.2,,,
-2026-10-24,2026-10-31,reinmein|samfenderoliviadean,18,Rein Me In,Sam Fender & Olivia Dean,Desceu,Desceu,38.2,,,
-2026-10-24,2026-10-31,youngagain|shinedown,19,Young Again,Shinedown,Subiu,Subiu,48.3,,,
-2026-10-24,2026-10-31,heartstop|therevivalists,20,Heart Stop,The Revivalists,Subiu,Subiu,49.7,,,
-2026-10-24,2026-10-31,dontwannagohometonight|threedaysgrace,21,Don't Wanna Go Home Tonight,Three Days Grace,Manteve,Subiu,43.1,,,
-2026-10-24,2026-10-31,lostboys|phoebebridgers,22,Lost Boys,Phoebe Bridgers,Desceu,Desceu,41.2,,,
-2026-10-24,2026-10-31,backseatdrivin|slightlystoopidwizkhalifaglove,23,Backseat Drivin',"Slightly Stoopid , Wiz Khalifa & G. Love",Subiu,Subiu,40.1,,,
-2026-10-24,2026-10-31,exitsigns|leap,24,Exit Signs,LEAP,Subiu,Subiu,54.6,,,
-2026-10-24,2026-10-31,ftr|sublime,25,F.T.R.,Sublime,Subiu,Subiu,62.8,,,
-2026-10-24,2026-10-31,high|incolor,26,High,In Color,Subiu,Subiu,54.6,,,
-2026-10-24,2026-10-31,burningout|thelindalindas,27,Burning Out,The Linda Lindas,Desceu,Subiu,50.0,,,
-2026-10-24,2026-10-31,cryogen|muse,28,Cryogen,Muse,Desceu,Desceu,40.9,,,
-2026-10-24,2026-10-31,edgeoftheearth|thebeaches,29,Edge Of The Earth,The Beaches,Manteve,Desceu,40.1,,,
-2026-10-24,2026-10-31,stoneoverwater|deathcabforcutie,30,Stone Over Water,Death Cab for Cutie,Subiu,Subiu,63.1,,,
-2026-10-24,2026-10-31,roses|chvrches,31,Roses,Chvrches,Subiu,Subiu,65.7,,,
-2026-10-24,2026-10-31,mybodyisntready|sombr,32,My Body Isn't Ready,sombr,Subiu,Subiu,52.9,,,
-2026-10-24,2026-10-31,seeoutloud|interpol,33,See Out Loud,Interpol,Desceu,Desceu,41.1,,,
-2026-10-24,2026-10-31,kissmelikeyoumissher|adultleisure,34,Kiss Me Like You Miss Her,Adult Leisure,Estreia,Subiu,65.7,,,
-2026-10-24,2026-10-31,icantakethesunoutofthesky|brigittecallsmebaby,35,I Can Take The Sun Out Of The Sky,Brigitte Calls Me Baby,Subiu,Subiu,59.7,,,
-2026-10-24,2026-10-31,lonelyinthefuture|thestrokes,36,Lonely In The Future,The Strokes,Estreia,Subiu,64.5,,,
-2026-10-24,2026-10-31,maybethebestisnow|judahthelion,37,Maybe The Best Is Now,Judah & The Lion,Subiu,Subiu,64.5,,,
-2026-10-24,2026-10-31,cold|deadpoetsociety,38,Cold,Dead Poet Society,Subiu,Subiu,62.7,,,
-2026-10-24,2026-10-31,tonight|socialdistortion,39,Tonight,Social Distortion,Desceu,Saiu,55.5,,,
-2026-10-24,2026-10-31,writemealetter|beabadoobee,40,Write Me A Letter,beabadoobee,Estreia,Subiu,60.2,,,
+2026-10-24,2026-10-31,selfaware|tempercity,1,Self Aware,Temper City,Manteve,Manteve,52.2,Desceu,2.0,False
+2026-10-24,2026-10-31,wemightaswellbestrangers|weezerfeaturingwednesday,2,We Might As Well Be Strangers,Weezer Featuring Wednesday,Subiu,Manteve,46.0,Subiu,1.0,False
+2026-10-24,2026-10-31,beachesintennessee|cagetheelephant,3,Beaches In Tennessee,Cage the Elephant,Desceu,Desceu,54.7,Desceu,5.0,True
+2026-10-24,2026-10-31,foolsgold|buffalotrafficjam,4,Fool's Gold,Buffalo Traffic Jam,Manteve,Desceu,44.8,Subiu,3.0,False
+2026-10-24,2026-10-31,babydoll|dominicfike,5,Babydoll,Dominic Fike,Manteve,Subiu,40.2,Subiu,4.0,True
+2026-10-24,2026-10-31,loser|tameimpala,6,Loser,Tame Impala,Manteve,Subiu,47.0,Desceu,7.0,False
+2026-10-24,2026-10-31,nomoreregrets|almostmonday,7,no more regrets,almost monday,Subiu,Subiu,45.1,Subiu,6.0,True
+2026-10-24,2026-10-31,inmyroom|juliawolf,8,In My Room,Julia Wolf,Desceu,Desceu,63.2,Desceu,9.0,True
+2026-10-24,2026-10-31,window|foofighters,9,Window,Foo Fighters,Subiu,Subiu,50.0,Subiu,8.0,True
+2026-10-24,2026-10-31,lovetogo|edgehill,10,Love To Go,Edgehill,Subiu,Subiu,50.0,Manteve,10.0,False
+2026-10-24,2026-10-31,ikindalikethat|theparadox,11,I Kinda Like That,The Paradox,Subiu,Subiu,50.0,Desceu,12.0,False
+2026-10-24,2026-10-31,freakinout|dexterandthemoonrocks,12,Freakin' Out,Dexter And The Moonrocks,Desceu,Desceu,48.0,Desceu,13.0,True
+2026-10-24,2026-10-31,iusedtogotothisbar|joycemanor,13,I Used To Go To This Bar,Joyce Manor,Manteve,Subiu,42.3,Subiu,11.0,True
+2026-10-24,2026-10-31,evergreen|youngthegiant,14,Evergreen,Young the Giant,Manteve,Subiu,50.0,Desceu,15.0,False
+2026-10-24,2026-10-31,private|theneighbourhood,15,Private,The Neighbourhood,Subiu,Subiu,47.2,Subiu,14.0,True
+2026-10-24,2026-10-31,marianne|fontainesdc,16,Marianne,FONTAINES D.C.,Subiu,Subiu,50.0,Manteve,16.0,False
+2026-10-24,2026-10-31,ohyeah|stevelacy,17,Oh Yeah?,Steve Lacy,Subiu,Subiu,47.2,Manteve,17.0,False
+2026-10-24,2026-10-31,reinmein|samfenderoliviadean,18,Rein Me In,Sam Fender & Olivia Dean,Desceu,Desceu,38.2,Saiu,,False
+2026-10-24,2026-10-31,youngagain|shinedown,19,Young Again,Shinedown,Subiu,Subiu,48.3,Subiu,18.0,True
+2026-10-24,2026-10-31,heartstop|therevivalists,20,Heart Stop,The Revivalists,Subiu,Subiu,49.7,Manteve,20.0,False
+2026-10-24,2026-10-31,dontwannagohometonight|threedaysgrace,21,Don't Wanna Go Home Tonight,Three Days Grace,Manteve,Subiu,43.1,Subiu,19.0,True
+2026-10-24,2026-10-31,lostboys|phoebebridgers,22,Lost Boys,Phoebe Bridgers,Desceu,Desceu,41.2,Desceu,24.0,True
+2026-10-24,2026-10-31,backseatdrivin|slightlystoopidwizkhalifaglove,23,Backseat Drivin',"Slightly Stoopid , Wiz Khalifa & G. Love",Subiu,Subiu,40.1,Subiu,22.0,True
+2026-10-24,2026-10-31,exitsigns|leap,24,Exit Signs,LEAP,Subiu,Subiu,54.6,Subiu,23.0,True
+2026-10-24,2026-10-31,ftr|sublime,25,F.T.R.,Sublime,Subiu,Subiu,62.8,Subiu,21.0,True
+2026-10-24,2026-10-31,high|incolor,26,High,In Color,Subiu,Subiu,54.6,Subiu,25.0,True
+2026-10-24,2026-10-31,burningout|thelindalindas,27,Burning Out,The Linda Lindas,Desceu,Subiu,50.0,Subiu,26.0,True
+2026-10-24,2026-10-31,cryogen|muse,28,Cryogen,Muse,Desceu,Desceu,40.9,Subiu,27.0,False
+2026-10-24,2026-10-31,edgeoftheearth|thebeaches,29,Edge Of The Earth,The Beaches,Manteve,Desceu,40.1,Desceu,32.0,True
+2026-10-24,2026-10-31,stoneoverwater|deathcabforcutie,30,Stone Over Water,Death Cab for Cutie,Subiu,Subiu,63.1,Subiu,28.0,True
+2026-10-24,2026-10-31,roses|chvrches,31,Roses,Chvrches,Subiu,Subiu,65.7,Subiu,29.0,True
+2026-10-24,2026-10-31,mybodyisntready|sombr,32,My Body Isn't Ready,sombr,Subiu,Subiu,52.9,Desceu,33.0,False
+2026-10-24,2026-10-31,seeoutloud|interpol,33,See Out Loud,Interpol,Desceu,Desceu,41.1,Saiu,,False
+2026-10-24,2026-10-31,kissmelikeyoumissher|adultleisure,34,Kiss Me Like You Miss Her,Adult Leisure,Estreia,Subiu,65.7,Subiu,31.0,True
+2026-10-24,2026-10-31,icantakethesunoutofthesky|brigittecallsmebaby,35,I Can Take The Sun Out Of The Sky,Brigitte Calls Me Baby,Subiu,Subiu,59.7,Desceu,36.0,False
+2026-10-24,2026-10-31,lonelyinthefuture|thestrokes,36,Lonely In The Future,The Strokes,Estreia,Subiu,64.5,Desceu,37.0,False
+2026-10-24,2026-10-31,maybethebestisnow|judahthelion,37,Maybe The Best Is Now,Judah & The Lion,Subiu,Subiu,64.5,Desceu,38.0,False
+2026-10-24,2026-10-31,cold|deadpoetsociety,38,Cold,Dead Poet Society,Subiu,Subiu,62.7,Desceu,40.0,False
+2026-10-24,2026-10-31,tonight|socialdistortion,39,Tonight,Social Distortion,Desceu,Saiu,55.5,Saiu,,True
+2026-10-24,2026-10-31,writemealetter|beabadoobee,40,Write Me A Letter,beabadoobee,Estreia,Subiu,60.2,Subiu,34.0,True
+2026-10-31,2026-11-07,wemightaswellbestrangers|weezerfeaturingwednesday,1,We Might As Well Be Strangers,Weezer Featuring Wednesday,Subiu,Manteve,51.4,,,
+2026-10-31,2026-11-07,selfaware|tempercity,2,Self Aware,Temper City,Desceu,Desceu,42.0,,,
+2026-10-31,2026-11-07,foolsgold|buffalotrafficjam,3,Fool's Gold,Buffalo Traffic Jam,Subiu,Desceu,37.2,,,
+2026-10-31,2026-11-07,babydoll|dominicfike,4,Babydoll,Dominic Fike,Subiu,Subiu,37.4,,,
+2026-10-31,2026-11-07,beachesintennessee|cagetheelephant,5,Beaches In Tennessee,Cage the Elephant,Desceu,Desceu,59.4,,,
+2026-10-31,2026-11-07,nomoreregrets|almostmonday,6,no more regrets,almost monday,Subiu,Subiu,47.8,,,
+2026-10-31,2026-11-07,loser|tameimpala,7,Loser,Tame Impala,Desceu,Subiu,35.6,,,
+2026-10-31,2026-11-07,window|foofighters,8,Window,Foo Fighters,Subiu,Subiu,49.8,,,
+2026-10-31,2026-11-07,inmyroom|juliawolf,9,In My Room,Julia Wolf,Desceu,Desceu,63.4,,,
+2026-10-31,2026-11-07,lovetogo|edgehill,10,Love To Go,Edgehill,Manteve,Subiu,49.8,,,
+2026-10-31,2026-11-07,iusedtogotothisbar|joycemanor,11,I Used To Go To This Bar,Joyce Manor,Subiu,Subiu,47.7,,,
+2026-10-31,2026-11-07,ikindalikethat|theparadox,12,I Kinda Like That,The Paradox,Desceu,Subiu,45.9,,,
+2026-10-31,2026-11-07,freakinout|dexterandthemoonrocks,13,Freakin' Out,Dexter And The Moonrocks,Desceu,Desceu,46.1,,,
+2026-10-31,2026-11-07,private|theneighbourhood,14,Private,The Neighbourhood,Subiu,Subiu,49.8,,,
+2026-10-31,2026-11-07,evergreen|youngthegiant,15,Evergreen,Young the Giant,Desceu,Subiu,42.2,,,
+2026-10-31,2026-11-07,marianne|fontainesdc,16,Marianne,FONTAINES D.C.,Manteve,Subiu,49.8,,,
+2026-10-31,2026-11-07,ohyeah|stevelacy,17,Oh Yeah?,Steve Lacy,Manteve,Subiu,48.9,,,
+2026-10-31,2026-11-07,youngagain|shinedown,18,Young Again,Shinedown,Subiu,Subiu,49.8,,,
+2026-10-31,2026-11-07,dontwannagohometonight|threedaysgrace,19,Don't Wanna Go Home Tonight,Three Days Grace,Subiu,Subiu,50.2,,,
+2026-10-31,2026-11-07,heartstop|therevivalists,20,Heart Stop,The Revivalists,Manteve,Subiu,52.4,,,
+2026-10-31,2026-11-07,ftr|sublime,21,F.T.R.,Sublime,Subiu,Subiu,62.6,,,
+2026-10-31,2026-11-07,backseatdrivin|slightlystoopidwizkhalifaglove,22,Backseat Drivin',"Slightly Stoopid , Wiz Khalifa & G. Love",Subiu,Subiu,50.8,,,
+2026-10-31,2026-11-07,exitsigns|leap,23,Exit Signs,LEAP,Subiu,Subiu,52.4,,,
+2026-10-31,2026-11-07,lostboys|phoebebridgers,24,Lost Boys,Phoebe Bridgers,Desceu,Desceu,43.4,,,
+2026-10-31,2026-11-07,high|incolor,25,High,In Color,Subiu,Subiu,52.4,,,
+2026-10-31,2026-11-07,burningout|thelindalindas,26,Burning Out,The Linda Lindas,Subiu,Subiu,48.1,,,
+2026-10-31,2026-11-07,cryogen|muse,27,Cryogen,Muse,Subiu,Subiu,41.4,,,
+2026-10-31,2026-11-07,stoneoverwater|deathcabforcutie,28,Stone Over Water,Death Cab for Cutie,Subiu,Subiu,63.0,,,
+2026-10-31,2026-11-07,roses|chvrches,29,Roses,Chvrches,Subiu,Subiu,63.0,,,
+2026-10-31,2026-11-07,blackstars|thesmashingpumpkins,30,Black Stars,The Smashing Pumpkins,Estreia,Subiu,65.5,,,
+2026-10-31,2026-11-07,kissmelikeyoumissher|adultleisure,31,Kiss Me Like You Miss Her,Adult Leisure,Subiu,Subiu,62.3,,,
+2026-10-31,2026-11-07,edgeoftheearth|thebeaches,32,Edge Of The Earth,The Beaches,Desceu,Desceu,40.5,,,
+2026-10-31,2026-11-07,mybodyisntready|sombr,33,My Body Isn't Ready,sombr,Desceu,Subiu,48.6,,,
+2026-10-31,2026-11-07,writemealetter|beabadoobee,34,Write Me A Letter,beabadoobee,Subiu,Subiu,65.5,,,
+2026-10-31,2026-11-07,warriorspirit|theinterrupters,35,Warrior Spirit,The Interrupters,Estreia,Subiu,65.5,,,
+2026-10-31,2026-11-07,icantakethesunoutofthesky|brigittecallsmebaby,36,I Can Take The Sun Out Of The Sky,Brigitte Calls Me Baby,Desceu,Subiu,52.1,,,
+2026-10-31,2026-11-07,lonelyinthefuture|thestrokes,37,Lonely In The Future,The Strokes,Desceu,Subiu,63.0,,,
+2026-10-31,2026-11-07,maybethebestisnow|judahthelion,38,Maybe The Best Is Now,Judah & The Lion,Desceu,Subiu,58.3,,,
+2026-10-31,2026-11-07,flowerinahurricane|justicetameimpalaszakinggizzardthelizardwizard,39,Flower In A Hurricane,"Justice, Tame Impala , SZA & King Gizzard & The Lizard Wizard",Estreia,Subiu,60.2,,,
+2026-10-31,2026-11-07,cold|deadpoetsociety,40,Cold,Dead Poet Society,Desceu,Subiu,51.7,,,
